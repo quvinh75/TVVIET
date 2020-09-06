@@ -50,7 +50,7 @@ https://web.cdn.i-com.vn/vtvcabon/smil:vtvcab_16_hd.smil/chunklist_b1628000_slen
 #EXTINF:0 tvg-id="VTVcab 17"group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/YEAH1_TV_M.png",VTVcab17 - Yeah1 TV
 https://web.cdn.i-com.vn/vtvcabon/smil:vtvcab_17.smil/chunklist_b1628000_sleng.m3u8?secret=ouHvWFMVg-NgSLDQlthRWg&time=1598125980
 #EXTINF:0 tvg-id="VTVcab 18"group-title="VTVCab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png",VTVcab18 Thể Thao Tin Tức HD
-https://web.cdn.i-com.vn/vtvcabon/smil:vtvcab_18.smil/chunklist_b1628000_sleng.m3u8?secret=GwQ_23FKCaAvDZgaihZ5nA&time=1598126035
+http://14.169.92.193:8889/rtp/232.84.2.193:10942
 #EXTINF:0 tvg-id="VTVcab 19"group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/FILM_TV_M.png",VTVcab19 - Film TV
 https://web.cdn.i-com.vn/vtvcabon/smil:vtvcab_19.smil/chunklist_b1628000_sleng.m3u8?secret=xHndMzBIYQsddZYgovsQEQ&time=1598126104
 #EXTINF:0 tvg-id="VTVcab 20"group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/VFAMILY_M.png",VTVcab20 - V Family
