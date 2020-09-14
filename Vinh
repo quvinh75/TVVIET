@@ -405,43 +405,29 @@ https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
 http://fariszah.myq-see.com:8008/live/demo/demo/2322.ts
 #EXTINF:-1 tvg-id="B02.th" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="KÊNH THỂ THAO",beIN Sports 2 ARABIC
 http://fariszah.myq-see.com:8008/live/demo/demo/21549.ts
-#EXTINF:-1 tvg-id="B02.th" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="KÊNH THỂ THAO",beIN Sports 3 ARABIC
+#EXTINF:-1 tvg-id="B02.th" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/bein_sports_hd.jpg" group-title="KÊNH THỂ THAO",beIN Sports 3 ARABIC
 http://fariszah.myq-see.com:8008/live/demo/demo/21550.ts
+#EXTINF:-1 tvg-id="B02.th" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/bein_sports_hd.jpg" group-title="KÊNH THỂ THAO",beIN Sports 4 ARABIC
+http://fariszah.myq-see.com:8008/live/demo/demo/21551.ts
+#EXTINF:-1 tvg-id="B02.th" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/bein_sports_hd.jpg" group-title="KÊNH THỂ THAO",beIN Sports 5 ARABIC
+http://fariszah.myq-see.com:8008/live/demo/demo/21552.ts
+#EXTINF:-1 tvg-id="B02.th" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/bein_sports_hd.jpg" group-title="KÊNH THỂ THAO",beIN Sports 6 ARABIC
+http://fariszah.myq-see.com:8008/live/demo/demo/21553.ts
+#EXTINF:-1 tvg-id="B02.th" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/bein_sports_hd.jpg" group-title="KÊNH THỂ THAO",beIN Sports 7 ARABIC
+http://fariszah.myq-see.com:8008/live/demo/demo/2308.ts
 
 #EXTINF:0 tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" group-title="KÊNH THỂ THAO" tvg-logo="", CBS SPORTS HD
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="ES1.US" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="KÊNH THỂ THAO",ESPN
-http://185.59.223.135/espn/index.m3u8
-#EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="KÊNH THỂ THAO",ESPN 2
-http://185.59.223.135/espn2/index.m3u8
-#EXTINF:-1 tvg-ID="OLY.US" tvg-logo="http://static.epg.best/us/OlympicChannel.us.png" group-title="KÊNH THỂ THAO",Olympic Channel
-https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
-#EXTINF:-1 tvg-ID="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="KÊNH THỂ THAO",Матч!
-https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="KÊNH THỂ THAO",Sony Six
-http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd1.png" group-title="KÊNH THỂ THAO",TRUEHD 1
 http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd2.png" group-title="KÊNH THỂ THAO",TRUEHD 2
 http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
-#EXTINF:-1 tvg-ID="SK1.AU" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png" group-title="KÊNH THỂ THAO",Sky Racing 1
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-#EXTINF:-1 tvg-ID="SK2.AU" tvg-logo="https://media.info/i/lf/300/1514269377/6411.png" group-title="KÊNH THỂ THAO",Sky Racing 2
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-#EXTINF:-1 tvg-ID="STC.AU" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SRW/SRH_425x243.png" group-title="KÊNH THỂ THAO",Sky Thoroughbred Central
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/wwe.png",WWE
-https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="TEN.US" tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="KÊNH THỂ THAO",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://s3-eu-west-1.amazonaws.com/discovery-assets-production/app/uploads/2019/04/03130804/logo-eurosport-1-hd.jpg", EURO SPORT 1
 http://91.126.39.98:8086/udp/224.168.32.2:3202
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://s3-eu-west-1.amazonaws.com/discovery-assets-production/app/uploads/2019/04/03130856/logo-eurosport-2-hd.jpg", EURO SPORT 2
 http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
-#EXTINF:-1 tvg-ID="RAC.AU" tvg-logo="http://static.epg.best/au/RacingCom.au.png" group-title="KÊNH THỂ THAO",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/220px-UFC_Fight_Pass_Logo.svg.png", UFC
-https://live-ng-01.more.tv/hls/UFC/index_4.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO",Eurosport 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg",  Red Bull TV
