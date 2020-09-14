@@ -58,6 +58,8 @@ http://188.40.76.108:25461/mytv01/uSIRzmks51/205
 http://188.40.76.108:25461/mytv01/uSIRzmks51/206
 #EXTINF:-1,SPORT TV1
 http://188.40.76.108:25461/mytv01/uSIRzmks51/207
+#EXTINF:-1 tvg-ID="SPTV_1HD" tvg-name="SPORT.TV 1" tvg-logo="http://fcportovideos.sitefacil.com/data/files/sporttv1.png" group-title="PORTUGAL",SPORT.TV 1
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/31.ts
 #EXTINF:-1,SPORTKLUB 1 (SK 1)
 http://188.40.76.108:25461/mytv01/uSIRzmks51/211
 #EXTINF:-1,ZIGGO SELECT SPORT
