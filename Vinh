@@ -438,16 +438,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="FOX SPORTS 3" group-title="KÊNH THỂ THAO" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/07/16/851322-foxsport_3.png", FOX SPORT 3 HD
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8 
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="http://ali-oss.file.icantv.cn/uploads/tvimg/mutv.jpg" ,MUTV 
-http://139.99.17.52:8081/liveorigin/uk-mutv_480/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="http://thaiip.tv/tvlogo2/lfc.png" ,Liverpool TV
-http://139.99.17.52:8081/liveorigin/uk-lfctv_480/playlist.m3u8
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/180px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png", FC Bayern
-http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://cdn.firstonetv.eu/images/logos/es/REAL_MADRID.png",Real Madrid TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://gg.gg/chelsea-tv",Chelsea TV
-http://139.99.17.52:8081/liveorigin/uk-chelseatv_480/playlist.m3u8
 #EXTINF:0 group-title="KÊNH THỂ THAO", FITE TV
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 
