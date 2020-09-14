@@ -176,15 +176,15 @@ https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="BTV" tvg-logo="http://img.btv.org.vn:81/upload/vod/25032020/1585128658_btv11.png",BTV 11
 https://livecdn.fptplay.net/sda/btv11_2000.stream/chunklist.m3u8
 
-#EXTINF:-1, group-title="EPL" tvg-logo="https://sport-tv-guide.live/images/stations/a454.png"  tvg-id="SPORT TV5", SPORT TV5
+#EXTINF:-1 tvg-id="SPORT TV5" group-title="EPL" tvg-logo="https://sport-tv-guide.live/images/stations/a454.png", SPORT TV5
 http://188.40.76.108:25461/mytv01/uSIRzmks51/203
-#EXTINF:-1, group-title="EPL" tvg-logo="https://sport-tv-guide.live/images/stations/a453.png"  tvg-id="SPORT TV4", SPORT TV4
+#EXTINF:-1 group-title="EPL" tvg-logo="https://sport-tv-guide.live/images/stations/a453.png", SPORT TV4
 http://188.40.76.108:25461/mytv01/uSIRzmks51/204
-#EXTINF:-1, group-title="EPL" tvg-logo="https://sport-tv-guide.live/images/stations/a452.png"  tvg-id="SPORT TV3", SPORT TV3
+#EXTINF:-1 group-title="EPL" tvg-logo="https://sport-tv-guide.live/images/stations/a452.png", SPORT TV3
 http://188.40.76.108:25461/mytv01/uSIRzmks51/205
-#EXTINF:-1, group-title="EPL" tvg-logo="http://fcportovideos.sitefacil.com/data/files/sporttv2.png"  tvg-id="SPORT TV2", SPORT TV2
+#EXTINF:-1 group-title="EPL" tvg-logo="http://fcportovideos.sitefacil.com/data/files/sporttv2.png", SPORT TV2
 http://188.40.76.108:25461/mytv01/uSIRzmks51/206
-#EXTINF:-1, group-title="EPL" tvg-logo="http://fcportovideos.sitefacil.com/data/files/sporttv1.png"  tvg-id="SPORT TV1", SPORT TV1
+#EXTINF:-1 group-title="EPL" tvg-logo="http://fcportovideos.sitefacil.com/data/files/sporttv1.png", SPORT TV1
 http://188.40.76.108:25461/mytv01/uSIRzmks51/207
 
 #EXTINF:-1 tvg-id="hbohd" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/200px-HBO_Family_Asia_logo.svg.png",HBO Family
