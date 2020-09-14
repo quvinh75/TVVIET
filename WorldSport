@@ -48,13 +48,13 @@ http://188.40.76.108:25461/mytv01/uSIRzmks51/150
 http://188.40.76.108:25461/mytv01/uSIRzmks51/151
 #EXTINF:-1,TVRI
 http://188.40.76.108:25461/mytv01/uSIRzmks51/152
-#EXTINF:-1,SPORT TV5
+#EXTINF:-1, group-title="EPL" tvg-logo="https://sport-tv-guide.live/images/stations/a454.png"  tvg-id="SPORT TV5", SPORT TV5
 http://188.40.76.108:25461/mytv01/uSIRzmks51/203
-#EXTINF:-1,SPORT TV4
+#EXTINF:-1, group-title="EPL" tvg-logo="https://sport-tv-guide.live/images/stations/a453.png"  tvg-id="SPORT TV4", SPORT TV4
 http://188.40.76.108:25461/mytv01/uSIRzmks51/204
-#EXTINF:-1,SPORT TV3
+#EXTINF:-1, group-title="EPL" tvg-logo="https://i0.wp.com/www.millereponses.com/wp-content/uploads/2018/11/Sport-TV-3-HD-frequence-hispasat.png"  tvg-id="SPORT TV3", SPORT TV3
 http://188.40.76.108:25461/mytv01/uSIRzmks51/205
-#EXTINF:-1,SPORT TV2
+#EXTINF:-1, group-title="EPL" tvg-logo="http://fcportovideos.sitefacil.com/data/files/sporttv2.png"  tvg-id="SPORT TV2", SPORT TV2
 http://188.40.76.108:25461/mytv01/uSIRzmks51/206
 #EXTINF:-1, group-title="EPL" tvg-logo="http://fcportovideos.sitefacil.com/data/files/sporttv1.png"  tvg-id="SPORT TV1", SPORT TV1
 http://188.40.76.108:25461/mytv01/uSIRzmks51/207
