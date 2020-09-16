@@ -26,7 +26,7 @@ http://1.52.231.202:13579/udp/225.1.1.207:30120
 #EXTINF:0 tvg-id="VTVcab2"group-title="VTVCab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt
 http://14.169.92.193:8889/rtp/232.84.1.168:8982
 #EXTINF:0 tvg-id="VTVcab 2 - Phim Việt"group-title="VTVCab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 _ Phim Việt
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD.smil/chunklist_w383674_b2692000.m3u8?uid=v2a45474v23474z584x506&t_end=o4i5u5h514441394v22474s2p233y2&mytokenstarttime=1552149758&mytokenendtime=1552157258&mytokenhash=foTxVtf7w96VJqe2cwKoEHzzlqeqTHaFfnSfmGqs-ic%3D
+https://112.197.2.136:443/live/_definst_/smil:VTVcab4_HD.smil/chunklist_w383674_b2692000.m3u8?uid=y244c4a4s29474z584x506&mytokenstarttime=1600101397&mytokenhash=qPbdzuvs5x5sFZJYyCVcYubjIi-lJy-JX4Zevbu8P50%3D
 #EXTINF:0 tvg-id="VTVcab3"group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/THETHAO_HD_M.png" ,VTVcab3 - THỂ THAO TV
 http://stream.live-365.cf/live/rJBEB2Oy7qEaKBQA48KaNg/1598384568/vtvcab3/index.m3u8
 #EXTINF:0 tvg-id="VTVcab 4"group-title="VTVCab" tvg-logo="https://mytv.com.vn/upload/channel/194.png" ,VTVcab 4 - Văn hóa
@@ -405,8 +405,6 @@ http://randomserver.site:2086/crystal/12345/66782
 http://randomserver.site:2086/crystal/12345/66783
 #EXTINF:-1 tvg-id="BEIN SPORTS 13 ENG" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="KÊNH THỂ THAO", BEIN SPORTS 13 ENG
 http://randomserver.site:2086/crystal/12345/66784
-#EXTINF:-1 tvg-id="BXT.US" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="KÊNH THỂ THAO",beIN Xtra
-https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORTS 1 ARABIC" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="KÊNH THỂ THAO", BEIN SPORTS 1 ARABIC
 http://fariszah.myq-see.com:8008/live/demo/demo/2322.ts
 #EXTINF:-1 tvg-id="B02.th" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="KÊNH THỂ THAO",beIN Sports 2 ARABIC
