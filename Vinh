@@ -444,7 +444,7 @@ http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/tennis-channel-logo.png",Tennis channal+
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/tennis.png",true Tennis
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/tennis.png",true Tennis
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://s3-eu-west-1.amazonaws.com/discovery-assets-production/app/uploads/2019/04/03130804/logo-eurosport-1-hd.jpg", EURO SPORT 1
 http://91.126.39.98:8086/udp/224.168.32.2:3202
