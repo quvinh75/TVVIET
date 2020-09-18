@@ -160,6 +160,8 @@ https://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2016/03/14/3061231-logoc-thuanviet.png" group-title="HTVC",HTVC Thuần Việt SD
 https://livecdn.fptplay.net/hda/htvcthuanviet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/879824-ThuanVietHD1.png" group-title="HTVC", HTVC Thuần Việt HTV+
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2017/02/20/9667644-9189649-htvc-th.png" group-title="HTVC",HTVC Thuần Việt HD
 https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2016/10/20/425058-logo-phunu-fina.png" group-title="HTVC",HTVC Phụ Nữ
