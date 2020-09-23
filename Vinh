@@ -391,6 +391,8 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WPTV.m3u8
 http://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THÁI LAN" tvg-logo="http://www.thairath.co.th/assets/2017/img/logo-tv.png",Thairath HD
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="KÊNH THÁI LAN" tvg-logo="http://thaiip.tv/tvlogo2/series.jpg",Series(TH)
+http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH TRUYỀN HÌNH ĐỊA PHƯƠNG" tvg-logo="http://tivis.101vn.com/images/hn1.png",Hà Nội 1
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
@@ -423,12 +425,20 @@ http://fariszah.myq-see.com:8008/live/demo/demo/21553.ts
 http://fariszah.myq-see.com:8008/live/demo/demo/2308.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd1_720/chunks.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1(PC)
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premier HD2
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd2_720/chunks.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premier HD2(PC)
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball3.png",Premier HD3
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd3_720/chunks.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball3.png",Premier HD3(PC)
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball4.png",Premier HD4
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd4_720/chunks.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premier HD5(PC)
+http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" group-title="KÊNH THỂ THAO" tvg-logo="", CBS SPORTS HD
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
@@ -470,8 +480,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="FOX SPORTS 3" group-title="KÊNH THỂ THAO" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/07/16/851322-foxsport_3.png", FOX SPORT 3 HD
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8 
-#EXTINF:0 group-title="KÊNH THỂ THAO", FITE TV
-https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 
 #EXTINF:-1 group-title="KÊNH 4K" tvg-logo="https://i.imgur.com/NcbB0IH.png"  tvg-id="ULTRA REX 4K", ULTRA REX 4K
 http://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/playlist.m3u8?utcstart=1572789600&version=2
