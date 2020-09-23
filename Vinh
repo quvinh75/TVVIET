@@ -197,10 +197,6 @@ http://188.40.76.108:25461/mytv01/uSIRzmks51/207
 
 #EXTINF:-1 tvg-id="hbohd" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/200px-HBO_Family_Asia_logo.svg.png",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png",HBO HITS
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 group-title="PHIM" tvg-logo="https://vi.wikipedia.org/wiki/HBO_Signature_(ch%C3%A2u_%C3%81)#/media/T%E1%BA%ADp_tin:HBO_Signature_Asia.png",HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 group-title="PHIM"tvg-logo="https://htvc.vn/uploads/editor/images/422x278%20Red_by_HBO_colour.png",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX
@@ -254,10 +250,6 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/V6dxmRT.jpg" group-title="KÊNH QUỐC TẾ",Animal Planet HD
 https://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Dr_Fit_logo.png" group-title="KÊNH QUỐC TẾ",Dr.FIT
-https://10615fed5.vws.vegacdn.vn/cliptv_liverecord/drfithd_abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgstatic.vtvcab.vn/logos/WO_M.png" group-title="KÊNH QUỐC TẾ", WOMAN
-https://10615fed5.vws.vegacdn.vn/cliptv_liverecord/womanhd_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgstatic.vtvcab.vn/logos/PE_M.png" group-title="KÊNH QUỐC TẾ", PLANET EARTH
 https://10615fed5.vws.vegacdn.vn/cliptv_liverecord/planetearthhd_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="KÊNH QUỐC TẾ",History
@@ -274,12 +266,16 @@ https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EU
 https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqyGk36C/cnn.png" group-title="KÊNH QUỐC TẾ",CNN
 https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.doofree88.com/storage/live/82myrjsvZjt2tIQ5QqDDkTEYGJuRKSJ2lSj5hGWW.png",CNN Philippines
+http://27.254.149.109:8081/tumlive/cnn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/200px-Channel_V_Logo.svg.png" group-title="KÊNH QUỐC TẾ",Channel V HD
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" tvg-logo="https://i.postimg.cc/KYk12x4s/2-FASHION-TV.png" group-title="KÊNH QUỐC TẾ",Fashion TV
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FashionTV HD" tvg-name="Fashion TV HD" tvg-logo="https://i.postimg.cc/KYk12x4s/2-FASHION-TV.png" group-title="KÊNH QUỐC TẾ",Fashion TV
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-025052.jpg",FASHION TV MIDNITE
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ",Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ",ABC Australia
