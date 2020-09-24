@@ -258,26 +258,26 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/50.png" group-title="KÊNH QUỐC TẾ",NHK WORLD JAPAN
 https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqyGk36C/cnn.png" group-title="KÊNH QUỐC TẾ",CNN
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6371630_preview.png" group-title="KÊNH QUỐC TẾ",CNN
 https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqyGk36C/cnn.png" group-title="KÊNH QUỐC TẾ",CNN HD
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6371630_preview.png" group-title="KÊNH QUỐC TẾ",CNN HD
 http://ingrid.ltd:25461/frank1/frank/11664
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqyGk36C/cnn.png" group-title="KÊNH QUỐC TẾ",CNN2
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6371630_preview.png" group-title="KÊNH QUỐC TẾ",CNN2
 http://randomserver.site:2086/riyad/riyad/98363
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.doofree88.com/storage/live/82myrjsvZjt2tIQ5QqDDkTEYGJuRKSJ2lSj5hGWW.png",CNN Philippines
 http://27.254.149.109:8081/tumlive/cnn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/200px-Channel_V_Logo.svg.png" group-title="KÊNH QUỐC TẾ",Channel V HD
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" tvg-logo="https://i.postimg.cc/KYk12x4s/2-FASHION-TV.png" group-title="KÊNH QUỐC TẾ",Fashion TV
+#EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" group-title="KÊNH QUỐC TẾ",Fashion TV
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="FashionTV HD" tvg-name="Fashion TV HD" tvg-logo="https://i.postimg.cc/KYk12x4s/2-FASHION-TV.png" group-title="KÊNH QUỐC TẾ",Fashion TV
+#EXTINF:-1 tvg-id="FashionTV HD" tvg-name="Fashion TV HD" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" group-title="KÊNH QUỐC TẾ",Fashion TV
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-025052.jpg",FASHION TV MIDNITE
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-024912.jpg",World Fashion Channel (RU)
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-024948.jpg",ID Fashion HD (UA)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="",MODEL
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fMF8xNTU1MDAxNTE0XzA2OQ/screen-0.jpg?fakeurl=1&type=.jpg",MODEL
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/index.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ",Outdoor Channel
