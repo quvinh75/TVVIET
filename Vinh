@@ -209,12 +209,10 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 http://14.169.92.193:8889/rtp/232.84.3.101:10648
 #EXTINF:-1 tvg-id="FOXMovies" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="fox_movies" group-title="QUỐC TẾ - QNET" tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png",FOX Movies HD
+#EXTINF:0 tvg-id="fox_movies" group-title="PHIM" tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png",FOX Movies HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="foxmovieshd" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" ,FOX FAMILY MOVIES
 https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="sctv16" group-title="PHIM" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png", FOX ACTION MOVIES(ENG)
-http://103.47.132.164/PLTV/88888888/224/3221227121/index.m3u8
 #EXTINF:-1 tvg-id="FXC.Asia" group-title="PHIM" tvg-logo="https://static.epg.best/qa/FoxCrime.qa.png",FOX Crime
 http://103.47.132.164/PLTV/88888888/224/3221227165/index.m3u8
 #EXTINF:-1  group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/235/1582342017035.png",FX HD
@@ -233,8 +231,6 @@ https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png", KIX HD
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="HIM.MY" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="PHIM",Hit Movies
-http://103.47.132.164/PLTV/88888888/224/3221227331/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946228444.png" group-title="KÊNH QUỐC TẾ",Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
@@ -252,8 +248,6 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m
 https://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgstatic.vtvcab.vn/logos/PE_M.png" group-title="KÊNH QUỐC TẾ", PLANET EARTH
 https://10615fed5.vws.vegacdn.vn/cliptv_liverecord/planetearthhd_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="KÊNH QUỐC TẾ",History
-http://103.47.132.164/PLTV/88888888/224/3221227335/index.m3u8
 #EXTINF:-1 tvg-logo="https://jvtea44x1mh3gctjp1q2nymo-wpengine.netdna-ssl.com/wp-content/uploads/2012/08/BBC-Logo-drsign-Evolution-Story-marketing-facts-1200x630.jpg" group-title="KÊNH QUỐC TẾ",BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" group-title="KÊNH QUỐC TẾ",BBC Earth
@@ -275,6 +269,12 @@ https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u
 #EXTINF:-1 tvg-id="FashionTV HD" tvg-name="Fashion TV HD" tvg-logo="https://i.postimg.cc/KYk12x4s/2-FASHION-TV.png" group-title="KÊNH QUỐC TẾ",Fashion TV
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-025052.jpg",FASHION TV MIDNITE
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-024912.jpg",World Fashion Channel (RU)
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-024948.jpg",ID Fashion HD (UA)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="",MODEL
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/index.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ",Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
@@ -403,14 +403,6 @@ http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="B02.th" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="KÊNH THỂ THAO",beIN Sports 2 Asia
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="BEIN SPORTS 11 ENG" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="KÊNH THỂ THAO", BEIN SPORTS 11 ENG
-http://randomserver.site:2086/crystal/12345/66782
-#EXTINF:-1 tvg-id="BEIN SPORTS 12 ENG" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="KÊNH THỂ THAO", BEIN SPORTS 12 ENG
-http://randomserver.site:2086/crystal/12345/66783
-#EXTINF:-1 tvg-id="BEIN SPORTS 13 ENG" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="KÊNH THỂ THAO", BEIN SPORTS 13 ENG
-http://randomserver.site:2086/crystal/12345/66784
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 ARABIC" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="KÊNH THỂ THAO", BEIN SPORTS 1 ARABIC
-http://fariszah.myq-see.com:8008/live/demo/demo/2322.ts
 #EXTINF:-1 tvg-id="B02.th" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="KÊNH THỂ THAO",beIN Sports 2 ARABIC
 http://fariszah.myq-see.com:8008/live/demo/demo/21549.ts
 #EXTINF:-1 tvg-id="B02.th" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/bein_sports_hd.jpg" group-title="KÊNH THỂ THAO",beIN Sports 3 ARABIC
@@ -419,10 +411,14 @@ http://fariszah.myq-see.com:8008/live/demo/demo/21550.ts
 http://fariszah.myq-see.com:8008/live/demo/demo/21551.ts
 #EXTINF:-1 tvg-id="B02.th" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/bein_sports_hd.jpg" group-title="KÊNH THỂ THAO",beIN Sports 5 ARABIC
 http://fariszah.myq-see.com:8008/live/demo/demo/21552.ts
-#EXTINF:-1 tvg-id="B02.th" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/bein_sports_hd.jpg" group-title="KÊNH THỂ THAO",beIN Sports 6 ARABIC
-http://fariszah.myq-see.com:8008/live/demo/demo/21553.ts
 #EXTINF:-1 tvg-id="B02.th" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/bein_sports_hd.jpg" group-title="KÊNH THỂ THAO",beIN Sports 7 ARABIC
 http://fariszah.myq-see.com:8008/live/demo/demo/2308.ts
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-23-090620.jpg",beIN SPORTS1  (AU)
+http://66.northerniptv.ca:8000/live/george/george123/80782.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-23-090620.jpg",beIN SPORTS2 (AU)
+http://66.northerniptv.ca:8000/live/george/george123/80781.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-23-090620.jpg",BEIN SPORTS 3 (AU)
+http://66.northerniptv.ca:8000/live/george/george123/80780.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd1_720/chunks.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1(PC)
