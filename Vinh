@@ -252,7 +252,7 @@ https://10615fed5.vws.vegacdn.vn/cliptv_liverecord/planetearthhd_abr/playlist.m3
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" group-title="KÊNH QUỐC TẾ",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ",BBC Lifestyle
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/g717khX2L4sxX7d9mafhqQ-N2kG8hSLROg37_2isqJZcR2cHAmbX9LapD6k9r4i_z0Sm6GR5CMeELKtsmU_3hYh3lhyoFql3bOyCZnuM_OqDcolSrwLZvwCYmccdzm3smo2rPGRJecQRV1UoMTg2ooT_QzdKJotOBo0a-jRAcma5BLxF7rKC9Pk2" group-title="KÊNH QUỐC TẾ",BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png" group-title="KÊNH QUỐC TẾ",Bloomberg TV
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
@@ -264,7 +264,7 @@ https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
 http://ingrid.ltd:25461/frank1/frank/11664
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6371630_preview.png" group-title="KÊNH QUỐC TẾ",CNN2
 http://randomserver.site:2086/riyad/riyad/98363
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.doofree88.com/storage/live/82myrjsvZjt2tIQ5QqDDkTEYGJuRKSJ2lSj5hGWW.png",CNN Philippines
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.dlpng.com/static/png/6371630_preview.png",CNN Philippines
 http://27.254.149.109:8081/tumlive/cnn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/200px-Channel_V_Logo.svg.png" group-title="KÊNH QUỐC TẾ",Channel V HD
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
@@ -280,15 +280,15 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fMF8xNTU1MDAxNTE0XzA2OQ/screen-0.jpg?fakeurl=1&type=.jpg",MODEL
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/index.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ",Outdoor Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="KÊNH QUỐC TẾ",Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ",ABC Australia
+#EXTINF:-1 tvg-logo="https://1v1d1e1lmiki1lgcvx32p49h8fe-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/1547104448-abc-logo.png" group-title="KÊNH QUỐC TẾ",ABC Australia
 https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="KÊNH QUỐC TẾ",CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ",NBC
+#EXTINF:-1 tvg-logo="https://www.ivfmd.com/wp-content/uploads/2019/02/nbc-logo-300x150.png" group-title="KÊNH QUỐC TẾ",NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ",MTV
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/182/465/png-transparent-mtv-logo-tv-television-music-video-others-miscellaneous-television-text.png" group-title="KÊNH QUỐC TẾ",MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 
 #EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="KID",Animax
