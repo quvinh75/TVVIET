@@ -167,6 +167,10 @@ https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2017/04/10/563560-logo-kenh-phim-.png" group-title="VIETNAMTV",HTVC Phim
 https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JVuFpbW.png" group-title="VIETNAMTV",VINH LONG 1
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL1-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/09/9b/69099ba866213621ebfbae16527c0c9d.png" group-title="VIETNAMTV",VINH LONG 2
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://imgur.com/Jod5zk5.png",BTV1 HD
 https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
