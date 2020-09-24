@@ -346,7 +346,7 @@ http://211.245.55.198:1024/m2u/239.192.54.9:49220
 http://211.245.55.198:1024/m2u/239.192.41.2:49220
 #EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/SBS_Plus_logo.png/revision/latest?cb=20180125005022", SBS PLUS 
 http://211.245.55.198:1024/m2u/239.192.49.7:49220
-#EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://i.vippng.com/png/small/47-477863_sbs-mtv-logo-sbs-mtv-.png" ,SBS MTV
+#EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://i.vippng.com/png/small/47-477863_sbs-mtv-logo-sbs-mtv-.png", SBS MTV
 http://211.245.55.198:1024/m2u/239.192.55.4:49220
 #EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/PG/2017/09/11/PG65719207_w1280_h720.jpg", SBS fun E
 http://211.245.55.198:1024/m2u/239.192.55.3:49220
