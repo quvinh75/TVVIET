@@ -272,7 +272,7 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 
 #EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="KID",Animax
-http://103.47.132.164/PLTV/88888888/224/3221227145/index.m3u8
+http://gg.gg/lvttanimaxs1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="KID", CARTOON NETWORK ASIA
 https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="KID",Baby First
@@ -421,8 +421,24 @@ http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd1.png" group-title="KÊNH THỂ THAO",TRUEHD 1
 http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png", True Premier Football 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd2.png" group-title="KÊNH THỂ THAO",TRUEHD 2
 http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png", True Premier Football 2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-premier-football-3-1820.png", True Premier Football 3 
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png", True Premier Football 4 
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-premier-football-5-1822.png", True Premier Football 5
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-1-1070.png",TRUE SPORT HD 1
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-2-1071.png",TRUE SPORT HD 2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-3-1072.png",TRUE SPORT HD 3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="TEN.US" tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="KÊNH THỂ THAO",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/tennis-channel-logo.png",Tennis channal+
@@ -456,7 +472,17 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="FOX SPORTS 2" group-title="KÊNH THỂ THAO" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/08/16/622510-foxsport2.png", FOX SPORT 2 HD
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="FOX SPORTS 3" group-title="KÊNH THỂ THAO" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/07/16/851322-foxsport_3.png", FOX SPORT 3 HD
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8 
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="SPORTTV 1" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="KÊNH THỂ THAO",SPORT.TV1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SPORTTV 2" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="KÊNH THỂ THAO",SPORT.TV2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SPORTTV 3" tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="KÊNH THỂ THAO",SPORT.TV3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SPORTTV 4" tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png" group-title="KÊNH THỂ THAO",SPORT.TV4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SPORTTV 5" tvg-logo="https://www.thesportsdb.com/images/media/logo/vvvqxp1470408443.png" group-title="KÊNH THỂ THAO",SPORT.TV5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="KÊNH 4K" tvg-logo="https://i.imgur.com/NcbB0IH.png"  tvg-id="ULTRA REX 4K", ULTRA REX 4K
 http://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/playlist.m3u8?utcstart=1572789600&version=2
