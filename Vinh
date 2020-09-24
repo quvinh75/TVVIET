@@ -260,6 +260,10 @@ https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EU
 https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqyGk36C/cnn.png" group-title="KÊNH QUỐC TẾ",CNN
 https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqyGk36C/cnn.png" group-title="KÊNH QUỐC TẾ",CNN HD
+http://ingrid.ltd:25461/frank1/frank/11664
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqyGk36C/cnn.png" group-title="KÊNH QUỐC TẾ",CNN2
+http://randomserver.site:2086/riyad/riyad/98363
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.doofree88.com/storage/live/82myrjsvZjt2tIQ5QqDDkTEYGJuRKSJ2lSj5hGWW.png",CNN Philippines
 http://27.254.149.109:8081/tumlive/cnn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/200px-Channel_V_Logo.svg.png" group-title="KÊNH QUỐC TẾ",Channel V HD
