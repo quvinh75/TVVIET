@@ -97,9 +97,9 @@ https://livecdn.fptplay.net/sdc/vtc13_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-id="VTC16" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/amaDGnw.jpg",VTC16
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VIETNAMTV" tvg-logo="http://tivis.101vn.com/images/hn1.png",Hà Nội 1
+#EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",Hà Nội 1
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
-#EXTINF:-1 group-title="VIETNAMTV" tvg-logo="http://tivis.101vn.com/images/hn2.png",Hà Nội 2
+#EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",Hà Nội 2
 http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
 
 #EXTINF:-1 tvg-id="SCTV1" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-N7N00xEzwdk/WseTQ4JIZAI/AAAAAAAAD54/3CBRPE78BnARomYiVfxbMN2cMgR8G4o5gCLcBGAs/h1200/s1.png", SCTV1 HD - Hài
@@ -149,7 +149,7 @@ https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD.smil/chunklist_b2692000.
 
 #EXTINF:-1 tvg-id="HTV1" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/1586931-logo-htv1a.png", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="HTV2" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c2/Logo_Vie_Channel.png", HTV2 HD
+#EXTINF:-1 tvg-id="HTV2" group-title="VIETNAMTV" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/4/44/HTV2_%282015-nay%29.png/revision/latest/scale-to-width-down/340?cb=20200303022222&path-prefix=vi", HTV2 HD
 https://livecdn.fptplay.net/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="HTV3" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/7068413-logo-htv3a.png", HTV3
 https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
@@ -201,7 +201,7 @@ https://livecdn.fptplay.net/sda/btv11_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/200px-HBO_Family_Asia_logo.svg.png",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 group-title="PHIM"tvg-logo="https://htvc.vn/uploads/editor/images/422x278%20Red_by_HBO_colour.png",Red by HBO
+#EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX
 http://14.169.92.193:8889/rtp/232.84.3.117:10654
@@ -346,14 +346,12 @@ http://211.245.55.198:1024/m2u/239.192.54.9:49220
 http://211.245.55.198:1024/m2u/239.192.41.2:49220
 #EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/SBS_Plus_logo.png/revision/latest?cb=20180125005022", SBS PLUS 
 http://211.245.55.198:1024/m2u/239.192.49.7:49220
-#EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2b/1834px-SBS_MTV_logo_%28Black_Type%29.svg.png/revision/latest?cb=20180921202159" ,SBS MTV
+#EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://i.vippng.com/png/small/47-477863_sbs-mtv-logo-sbs-mtv-.png" ,SBS MTV
 http://211.245.55.198:1024/m2u/239.192.55.4:49220
 #EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/PG/2017/09/11/PG65719207_w1280_h720.jpg", SBS fun E
 http://211.245.55.198:1024/m2u/239.192.55.3:49220
 #EXTINF:-1 tvg-ID="SBS.KR" tvg-logo="https://static.epg.best/kr/SBSCNBC.kr.png" group-title="KÊNH HÀN QUỐC",SBS CNBC
 http://211.245.55.198:1024/m2u/239.192.53.8:49220
-#EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://scontent.fhan5-3.fna.fbcdn.net/v/t1.0-9/19510657_116143628999112_7241799078757351680_n.png?_nc_cat=1&_nc_sid=85a577&_nc_ohc=9G_Sd0SKUWYAX_zimrr&_nc_ht=scontent.fhan5-3.fna&oh=510354575808de0d0f14f486dbf7a684&oe=5EF27825",SBS STAR
-https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
 #EXTINF:-1 tvg-id="Mnet" group-title="KÊNH HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Music_Makes_One_Mnet_Logo.png", Mnet
 http://211.245.55.198:1024/m2u/239.192.48.5:49220
 #EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Kbs1.png",KBS1
@@ -469,7 +467,7 @@ https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
 http://91.126.39.98:8086/udp/224.168.32.2:3202
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://s3-eu-west-1.amazonaws.com/discovery-assets-production/app/uploads/2019/04/03130856/logo-eurosport-2-hd.jpg", EURO SPORT 2
 http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO",Eurosport 4K
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-16-090017.jpg",Eurosport 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-16-090017.jpg",EUROSPORT2 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200
@@ -508,7 +506,7 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 http://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/playlist.m3u8?utcstart=1572789600&version=2
 #EXTINF:-1 group-title="KÊNH 4K" tvg-logo="https://www.thematv.com/images/news/love-nature-4k.png",LOVE NATURE 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 group-title="KÊNH 4K",Ultra HD Cinema 4K
+#EXTINF:-1 tvg-logo="https://www.baliphotocinema.com/wp-content/uploads/2016/02/4K.jpg" group-title="KÊNH 4K",Ultra HD Cinema 4K
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULTRAHDCINEMA_HLSUHD.m3u8
-#EXTINF:-1 group-title="KÊNH 4K" tvg-logo="",Eurosport4K
+#EXTINF:-1 group-title="KÊNH 4K" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-16-090017.jpg",Eurosport4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
