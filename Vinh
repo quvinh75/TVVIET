@@ -181,6 +181,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="THVL4 HD" tvg-name="THVL4 HD" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_THVL4_HD.png",Vĩnh Long 4 HD
 https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/741464-anninh.png" group-title="VIETNAMTV", ANTV HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ANTV-SD-ABR/playlist.m3u8
 
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://imgur.com/Jod5zk5.png",BTV1 HD
 https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
