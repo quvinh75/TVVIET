@@ -244,8 +244,6 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/V6dxmRT.jpg" group-title="KÊNH QUỐC TẾ",Animal Planet HD
 https://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgstatic.vtvcab.vn/logos/PE_M.png" group-title="KÊNH QUỐC TẾ", PLANET EARTH
-https://10615fed5.vws.vegacdn.vn/cliptv_liverecord/planetearthhd_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jvtea44x1mh3gctjp1q2nymo-wpengine.netdna-ssl.com/wp-content/uploads/2012/08/BBC-Logo-drsign-Evolution-Story-marketing-facts-1200x630.jpg" group-title="KÊNH QUỐC TẾ",BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" group-title="KÊNH QUỐC TẾ",BBC Earth
@@ -262,10 +260,8 @@ https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" group-title="KÊNH QUỐC TẾ",Fashion TV
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="FashionTV HD" tvg-name="Fashion TV HD" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" group-title="KÊNH QUỐC TẾ",Fashion TV
+#EXTINF:-1 tvg-id="FashionTV HD" tvg-name="Fashion TV HD" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" group-title="KÊNH QUỐC TẾ",FTV FHD
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-024912.jpg",World Fashion Channel (RU)
-http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fMF8xNTU1MDAxNTE0XzA2OQ/screen-0.jpg?fakeurl=1&type=.jpg",MODEL
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/index.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
@@ -292,47 +288,15 @@ https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="DIS.MY" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="KID",Disney Channel
 http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
-#EXTINF:-1 tvg-id="DIS.MY" group-title="KID" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C05661.png",Disney Channel 
-http://gg.gg/disneychannelhd
 #EXTINF:-1  group-title="KID" tvg-logo="https://mytv.com.vn/upload/channel/145.png",Disney Junior
 http://gg.gg/disneyjuniorhd
-#EXTINF:-1 tvg-logo="https://imgstatic.vtvcab.vn/logos/HK_M.png" group-title="KID",Happy KIDS
-https://10615fed5.vws.vegacdn.vn/cliptv_liverecord/happykidhd_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="POP.UK" tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="KID",Pop UK
-https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PMX.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="KID",POP Max
-https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KID",Nick
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="KID",Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="TPO.UK" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="KID",Tiny Pop
 https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Toku.US" tvg-logo="https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2020/03/tsu-e1584362198575.png" group-title="KID",TokuSHOUTsu
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/635034452367707500.png"  group-title="KÊNH HÀN QUỐC",tVN
-http://211.245.55.198:1024/m2u/239.192.53.7:49220
-#EXTINF:-1  group-title="KÊNH HÀN QUỐC" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/desktop/images/header/btn_tving_siblings_xtvn.png ",XtvN
-http://211.245.55.198:1024/m2u/239.192.54.9:49220
-#EXTINF:-1  group-title="KÊNH HÀN QUỐC" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/desktop/images/header/btn_tving_siblings_otvn.png ",OtvN
-http://211.245.55.198:1024/m2u/239.192.54.9:49220
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OCN_Logo.svg/200px-OCN_Logo.svg.png"  group-title="KÊNH HÀN QUỐC",OCN
-http://211.245.55.198:1024/m2u/239.192.52.8:49220
-#EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/desktop/images/header/btn_tving_siblings_ocnmovies.png"  group-title="KÊNH HÀN QUỐC",OCNmovies
-http://211.245.55.198:1024/m2u/239.192.51.7:49220
-#EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/desktop/images/header/btn_tving_siblings_ocnthrills.png"  group-title="KÊNH HÀN QUỐC",OCNthrills
-http://211.245.55.198:1024/m2u/239.192.53.9:49220
-#EXTINF:-1  group-title="KÊNH HÀN QUỐC" tvg-logo="http://images.jtbc.joins.com/jtbc2/util_jtbc.png ",JTBC
-http://211.245.55.198:1024/m2u/239.192.58.7:49220
-#EXTINF:-1  group-title="KÊNH HÀN QUỐC" tvg-logo="https://jtbc4.joins.com/images/common/logo.png ",JTBC4
-http://211.245.55.198:1024/m2u/239.192.69.171:49220
-#EXTINF:-1  group-title="KÊNH HÀN QUỐC" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636567985052679990.png",Olive
-http://211.245.55.198:1024/m2u/239.192.54.9:49220
-#EXTINF:-1  group-title="KÊNH HÀN QUỐC" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636390811039818603.png ",On Style
-http://211.245.55.198:1024/m2u/239.192.54.9:49220
-#EXTINF:-1 tvg-id="sbs" group-title="KÊNH HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1280px-Seoul_Broadcasting_System_logo.svg.png",SBS
-http://211.245.55.198:1024/m2u/239.192.41.2:49220
 #EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/SBS_Plus_logo.png/revision/latest?cb=20180125005022", SBS PLUS 
 http://211.245.55.198:1024/m2u/239.192.49.7:49220
 #EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://i.vippng.com/png/small/47-477863_sbs-mtv-logo-sbs-mtv-.png", SBS MTV
