@@ -179,7 +179,8 @@ https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/741464-anninh.png" group-title="VIETNAMTV", ANTV HD
 https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDI3NDc4NzIsICJyZXNvdXJjZV9pZCI6ICJhbm5pbmh0dl9obHMiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiNDJlMDA5ZjQwM2MxOGI3MTgzNmU5Zjk1MGQzNDYxODciLCAidmFsaWRfbWludXRlcyI6IDE2MDI4MzQyNzIsICJybWlwIjogIjIyMi4yNTIuMzAuMjExIn0=
-
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/pLtP2Ajz_Io2vOyJ9x53WfrsQzloF8fWFYeqC4OHI0f4QYIM0VZQTsP2Znsx0xAyJLryqj1iBYcZHDeOnoC_cw" group-title="VIETNAMTV", DANANG1 HD
+https://livecdn.fptplay.net/sdc/danang1_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDI4MTYwNDcsICJyZXNvdXJjZV9pZCI6ICJkYW5hbmcxXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiNjIwOTE5YTU3ODBiNzRjMjI0ODc5M2MyMTQ4ODIwOGEiLCAidmFsaWRfbWludXRlcyI6IDE2MDI5MDI0NDcsICJybWlwIjogIjIyMi4yNTIuMzAuMjExIn0=
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://imgur.com/Jod5zk5.png",BTV1 HD
 https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/18/245539-444791-BTV2.png",BTV2 HD
