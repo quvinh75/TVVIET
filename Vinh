@@ -203,11 +203,11 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 http://14.169.92.193:8889/rtp/232.84.3.117:10654
 #EXTINF:-1 tvg-id="FOX Canal" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png" ,FOX HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hbohd" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" ,HBO
+#EXTINF:-1 tvg-id="HBO.ASIA" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" ,HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:0 tvg-id="hbohd" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" ,HBO (NoSub)
+#EXTINF:0 tvg-id="HBO(NoSub)" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" ,
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="hbohd" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" ,HBO
+#EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" ,HBO
 http://14.169.92.193:8889/rtp/232.84.3.101:10648
 #EXTINF:-1 tvg-id="FOXMovies" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
