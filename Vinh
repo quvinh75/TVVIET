@@ -7,13 +7,13 @@ https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3
 https://106135605.vws.vegacdn.vn/34186d0af3a125010ebe4689610e482837693a73/1602903906/cliptv_live/amlst:vtv3hd1/chunklist_b3728000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2
-https://livecdn.fptplay.net/hda/vtv2_2000.stream/chunklist.m3u8
+https://106135605.vws.vegacdn.vn/010e01f7c64461c04915072ef8e8cbdc55217916/1602903955/cliptv_live/amlst:vtv2hd/chunklist_b3728000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png",VTV4
 https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5
 https://livecdn.fptplay.net/hda/vtv5hd_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6
-https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
+https://106135605.vws.vegacdn.vn/2cc37a046d3fc4ec3c7dfdd4c10e16135eaaa416/1602904019/cliptv_live/amlst:vtv6hd1/chunklist_b3728000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1920px-VTV7_logo_2016_final.svg.png",VTV7
 https://livecdn.fptplay.net/hda/vtv7hd_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/685px-VTV8_logo_2016_final.svg.png",VTV8
@@ -147,7 +147,7 @@ https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD.smil/chunklist_b2692000.
 #EXTINF:-1 tvg-id="HTV1" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/1586931-logo-htv1a.png", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="HTV2" group-title="VIETNAMTV" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/4/44/HTV2_%282015-nay%29.png/revision/latest/scale-to-width-down/340?cb=20200303022222&path-prefix=vi", HTV2 HD
-https://livecdn.fptplay.net/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8
+https://106a8e566.vws.vegacdn.vn/f4818d9d21b645efa94b22d32890937f3fccc76d/1602906458/cliptv_live/amlst:htv2hd/chunklist_b3620000.m3u8
 #EXTINF:-1 tvg-id="HTV3" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/7068413-logo-htv3a.png", HTV3
 https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="HTV4" group-title="VIETNAMTV" tvg-logo="https://i.postimg.cc/LSvDpMKV/htvkey.png", HTV Key
@@ -160,6 +160,8 @@ https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2017/02/20/9667644-9189649-htvc-th.png" group-title="VIETNAMTV",HTVC Thuần Việt HD
 https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2017/02/20/9667644-9189649-htvc-th.png" group-title="VIETNAMTV",HTVC Thuần Việt CLIPTV
+https://106a8e566.vws.vegacdn.vn/34adc14e7ceac24debca5d7836210d11f05e3952/1602905855/cliptv_live/amlst:htvcthuanviethd/chunklist_b3620000.m3u8
 #EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2016/10/20/425058-logo-phunu-fina.png" group-title="VIETNAMTV",HTVC Phụ Nữ
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/566530-Gia-Dinh.png" group-title="VIETNAMTV", HTVC Gia Đình (Full HD 1080)
