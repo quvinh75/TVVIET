@@ -151,7 +151,7 @@ https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD.smil/chunklist_b2692000.
 #EXTINF:-1 tvg-id="HTV1" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/1586931-logo-htv1a.png", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="HTV2" group-title="VIETNAMTV" tvg-logo="https://yt3.ggpht.com/a/AATXAJzNkXJ8-VHVZZNnhuHJK4PZ-94C_t3GJoeg8lXjNV8=s900-c-k-c0x00ffffff-no-rj", HTV2 HD
-https://106a8e566.vws.vegacdn.vn/2b27fecd58bd8d94f6b94cc2493662c99cc5414e/1602930696/cliptv_live/amlst:htv2hd/chunklist_b3620000.m3u8
+https://livecdn.fptplay.net/hda/htv2hd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="HTV3" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/7068413-logo-htv3a.png", HTV3
 https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="HTV4" group-title="VIETNAMTV" tvg-logo="https://i.postimg.cc/LSvDpMKV/htvkey.png", HTV Key
