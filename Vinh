@@ -40,7 +40,7 @@ http://gg.gg/VTVCab8BIBITV
 #EXTINF:0 tvg-id="VTVcab 9"group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/INFO_TV_M.png",VTVcab9 - InfoTV
 https://web.cdn.i-com.vn/vtvcabon/smil:vtvcab_9.smil/chunklist_b1628000_sleng.m3u8?secret=RoNyWy9sZx1osploEgLPSA&time=1598126902
 ##EXTINF:0 tvg-id="VTVcab 7 - D Drama"group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/D-dramas-png220124.png",VTVcab10 - Vie Dramas HD
-http://gg.gg/VieDrama
+https://hni-vnpt-002-livecdn-vthn-vnd.vieon.vn/12d57ea5d6b92d27d0c657101a6b8f59/1602948361041/vtvcab/live/hd_vtvcab_10/TV_HD/hd_vtvcab_10_1080p/chunks.m3u8
 #EXTINF:0 tvg-id="VTVcab 1"group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/STYLE_TV_HD_M.png",VTVcab11 - StyleTV
 http://gg.gg/VGSshop
 #EXTINF:0 tvg-id="VTVcab 15"group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/M_CHANNEL_M.png",VTVcab15 - M Channel
@@ -90,6 +90,8 @@ https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="VTC13" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/hLQNEhy.png",VTC13
 https://livecdn.fptplay.net/sdc/vtc13_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="VTC13" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/hLQNEhy.png",VTC13 VIEON
+https://hni-vnpt-002-livecdn-vthn-vnd.vieon.vn/1081f35892abbb03c34d382a4eaaca98/1602948477037/vtc/live/hd_vtc13/TV_HD/hd_vtc13_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="VTC14" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/85swmKd.png",VTC14
 https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-id="VTC16" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/amaDGnw.jpg",VTC16
@@ -193,7 +195,7 @@ https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/18/245539-444791-BTV2.png",BTV2 HD
 https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://imgur.com/bAszEEm.png ",BTV4 - iMovie HD
-https://livecdn.fptplay.net/hda/btv4hd_2000.stream/chunklist.m3u8
+https://hni-vnpt-001-livecdn-vthcm-vnd.vieon.vn/5c1e8d1310f0bd8e5834d48689c8900f/1602948547643/htv_drm/live/binh_duong_4/TV_HD/binh_duong_4_1080p/chunks.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://htvc.vn/uploads/cache/thumbnail/2019-04-08/5412686-binh-thuan-6.png",BTV6
 https://livecdn.fptplay.net/sda/vietteen_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://rsstv.gviet.vn/sctv/159/130/1581298778597.png",BTV9 - An Viên TV
