@@ -1,13 +1,13 @@
 #EXTM3U  
 
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1FHD
-https://106135605.vws.vegacdn.vn/354c1649087e9e2728c991367d02cded23f0f197/1602903246/cliptv_live/amlst:vtv1hd1/chunklist_b3728000.m3u8
+https://106135605.vws.vegacdn.vn/d250245f8af3cdb559b29c2817232c540609cd6f/1603032152/cliptv_live/amlst:vtv1hd1/chunklist_b3728000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3
-https://106135605.vws.vegacdn.vn/34186d0af3a125010ebe4689610e482837693a73/1602903906/cliptv_live/amlst:vtv3hd1/chunklist_b3728000.m3u8
+https://106135605.vws.vegacdn.vn/e3d5818d55215ca56ea4c2f220e9b9ce1afad77d/1603032046/cliptv_live/amlst:vtv3hd1/chunklist_b3728000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2
-https://106135605.vws.vegacdn.vn/010e01f7c64461c04915072ef8e8cbdc55217916/1602903955/cliptv_live/amlst:vtv2hd/chunklist_b3728000.m3u8
+https://106135605.vws.vegacdn.vn/2b46291a1f5d740a2001d00b0ad2c3bebe9728dc/1603032249/cliptv_live/amlst:vtv2hd/chunklist_b3728000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png",VTV4
 https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5
