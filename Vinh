@@ -215,11 +215,11 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 http://14.169.92.193:8889/rtp/232.84.3.117:10654
 #EXTINF:-1 tvg-id="FOX Canal" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png" ,FOX HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="HBO.ASIA" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" ,HBO
+#EXTINF:-1 tvg-id="HBO.ASIA" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO.ASIA
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:0 tvg-id="HBO(NoSub)" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" ,
+#EXTINF:0 tvg-id="HBO(NoSub)" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" HBO(NoSub),
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" ,HBO
+#EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO
 http://14.169.92.193:8889/rtp/232.84.3.101:10648
 #EXTINF:-1 tvg-id="FOXMovies" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
@@ -302,12 +302,6 @@ https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
 #EXTINF:-1  group-title="KID" tvg-logo="https://mytv.com.vn/upload/channel/145.png",Disney Junior
 http://gg.gg/disneyjuniorhd
-#EXTINF:-1 tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KID",Nick
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="KID",Nick Jr
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="TPO.UK" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="KID",Tiny Pop
-https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/SBS_Plus_logo.png/revision/latest?cb=20180125005022", SBS PLUS 
 http://211.245.55.198:1024/m2u/239.192.49.7:49220
@@ -384,15 +378,15 @@ http://66.northerniptv.ca:8000/live/george/george123/80780.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-23-090620.jpg",BEIN SPORTS 3 (AU)
 http://66.northerniptv.ca:8000/tommy2/123456/80780
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1
-https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd1_720/chunks.m3u8
+https://stream1.xn--l3cm7a5azd.live/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1(PC)
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premier HD2
-https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd2_720/chunks.m3u8
+https://stream1.xn--l3cm7a5azd.live/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premier HD2(PC)
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball3.png",Premier HD3
-https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd3_720/chunks.m3u8
+http://ip2121.com:8081/at1/ENG3/chunks.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball3.png",Premier HD3(PC)
 http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball4.png",Premier HD4
