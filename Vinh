@@ -1,15 +1,11 @@
 #EXTM3U  
 
-#EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1FHD
-https://106135605.vws.vegacdn.vn/d250245f8af3cdb559b29c2817232c540609cd6f/1603032152/cliptv_live/amlst:vtv1hd1/chunklist_b3728000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3
-https://106135605.vws.vegacdn.vn/87a0c5cfb0aaaadbf56aa3574955d11f54a3bf63/1603032729/cliptv_live/amlst:vtv3hd1/chunklist_b3728000.m3u8
-#EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3.ViEON
-https://hni-vnpt-001-livecdn-vthn-vnd.vieon.vn/7383166e9f10c90040798602535cecaa/1602967597937/vtc/live/hd_vtv3/TV_HD/hd_vtv3_1080p/chunks.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2
-https://106135605.vws.vegacdn.vn/2b46291a1f5d740a2001d00b0ad2c3bebe9728dc/1603032249/cliptv_live/amlst:vtv2hd/chunklist_b3728000.m3u8
+https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3
+https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png",VTV4
 https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5
@@ -22,6 +18,10 @@ https://livecdn.fptplay.net/hda/vtv7hd_2000.stream/chunklist.m3u8
 https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png",VTV9
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1HD
+http://vinhphufpt.duckdns.org:4022/udp/225.1.2.249:30120
+#EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3HD
+http://vinhphufpt.duckdns.org:4022/udp/225.1.2.247:30120
 
 #EXTINF:0 tvg-id="VTVcab 1 - Giải Trí TV"group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png",VTVcab1 _ Vie Giải Trí
 https://hni-vnpt-001-livecdn-vthn-vnd.vieon.vn/e69ae6f821eb6ad19305fae8439efb0a/1603039201393/vtvcab/live/hd_vtvcab_1/TV_HD/hd_vtvcab_1_1080p/chunks.m3u8
