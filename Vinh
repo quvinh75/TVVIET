@@ -409,7 +409,7 @@ https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd4_720/chunks.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premier HD5(PC)
 http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 1
+#EXTINF:-1, group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png", SERIE A 1
 http://livecdn.fptplay.net/italyfootball/seriea01_2000.stream/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 2
 http://livecdn.fptplay.net/italyfootball/seriea02_2000.stream/chunklist.m3u8
@@ -437,7 +437,7 @@ https://live2.wedodemos.com/dc7b6a2e7248cd63cdf524402de1ea171601815492/v5/playli
 https://1123881312.cdn-infiniband.com/cakhia/m101sd2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t2GrwBn/IMG-20201001-155901.png" group-title="KÊNH THỂ THAO", Bóng Đá Live 5
 https://feycup66fn.vcdn.com.vn/hls/af17e565db58e18e625e1162d7a8eefe/1603538376323/zpnfich/index.m3u8
-#EXTINF:0 tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" group-title="KÊNH THỂ THAO" tvg-logo="", CBS SPORTS HD
+#EXTINF:0 tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" group-title="KÊNH THỂ THAO", CBS SPORTS HD
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd1.png" group-title="KÊNH THỂ THAO",TRUEHD 1
 http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
