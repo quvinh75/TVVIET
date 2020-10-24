@@ -364,6 +364,16 @@ http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="B02.th" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="KÊNH THỂ THAO",beIN Sports 2 Asia
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF: 0 tvg-id="HD1" group-title="KÊNH THỂ THAO" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1-150x150.png",beIN Sports 1 HD ( AR ) 
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30248
+#EXTINF: 0 tvg-id="HD2" group-title="KÊNH THỂ THAO" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1-150x150.png",beIN Sports 2 HD ( AR ) 
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265924
+#EXTINF: 0 tvg-id="HD3" group-title="KÊNH THỂ THAO" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1-150x150.png",beIN Sports 3 HD ( AR ) 
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30246
+#EXTINF: 0 tvg-id="HD4" group-title="KÊNH THỂ THAO" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD4-1-150x150.png",beIN Sports 4 HD ( AR ) 
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30245
+#EXTINF: 0 tvg-id="HD5" group-title="KÊNH THỂ THAO" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1-150x150.png",beIN Sports 5 HD ( AR) 
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30244
 #EXTINF:-1 tvg-id="B02.th" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="KÊNH THỂ THAO",beIN Sports 2 ARABIC
 http://fariszah.myq-see.com:8008/live/demo/demo/21549.ts
 #EXTINF:-1 tvg-id="B02.th" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/bein_sports_hd.jpg" group-title="KÊNH THỂ THAO",beIN Sports 3 ARABIC
@@ -399,6 +409,34 @@ https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd4_720/chunks.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premier HD5(PC)
 http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
 
+#EXTINF:-1, group-title="KÊNH THỂ THAO" tvg-logo="https://icdn.juvefc.com/wp-content/uploads/2020/03/lega-940x940.png", SERIE A 1
+http://livecdn.fptplay.net/italyfootball/seriea01_2000.stream/chunklist.m3u8
+#EXTINF:-1, group-title="KÊNH THỂ THAO" tvg-logo="https://icdn.juvefc.com/wp-content/uploads/2020/03/lega-940x940.png", SERIE A 2
+http://livecdn.fptplay.net/italyfootball/seriea02_2000.stream/chunklist.m3u8
+#EXTINF:-1, group-title="KÊNH THỂ THAO" tvg-logo="https://icdn.juvefc.com/wp-content/uploads/2020/03/lega-940x940.png", SERIE A 3
+http://livecdn.fptplay.net/italyfootball/seriea03_2000.stream/chunklist.m3u8
+#EXTINF:-1, group-title="KÊNH THỂ THAO" tvg-logo="https://icdn.juvefc.com/wp-content/uploads/2020/03/lega-940x940.png", SERIE A 4
+http://livecdn.fptplay.net/italyfootball/seriea04_2000.stream/chunklist.m3u8
+#EXTINF:-1,group-title="KÊNH THỂ THAO" tvg-logo="https://icdn.juvefc.com/wp-content/uploads/2020/03/lega-940x940.png", SERIE A 5
+http://livecdn.fptplay.net/italyfootball/seriea05_2000.stream/chunklist.m3u8
+#EXTINF:-1, group-title="KÊNH THỂ THAO" tvg-logo="https://icdn.juvefc.com/wp-content/uploads/2020/03/lega-940x940.png", SERIE A 6
+http://livecdn.fptplay.net/italyfootball/seriea06_2000.stream/chunklist.m3u8
+#EXTINF:-1, group-title="KÊNH THỂ THAO" tvg-logo="https://icdn.juvefc.com/wp-content/uploads/2020/03/lega-940x940.png", SERIE A 7
+http://livecdn.fptplay.net/italyfootball/seriea07_2000.stream/chunklist.m3u8
+#EXTINF:-1, group-title="KÊNH THỂ THAO" tvg-logo="https://icdn.juvefc.com/wp-content/uploads/2020/03/lega-940x940.png", SERIE A 8
+http://livecdn.fptplay.net/italyfootball/seriea08_2000.stream/chunklist.m3u8
+#EXTINF:-1, group-title="KÊNH THỂ THAO" tvg-logo="https://icdn.juvefc.com/wp-content/uploads/2020/03/lega-940x940.png", SERIE A 9
+http://livecdn.fptplay.net/italyfootball/seriea09_2000.stream/chunklist.m3u8
+#EXTINF:-1, gr oup-title="KÊNH THỂ THAO" tvg-logo="https://icdn.juvefc.com/wp-content/uploads/2020/03/lega-940x940.png", SERIE A 10
+http://livecdn.fptplay.net/italyfootball/seriea10_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/t2GrwBn/IMG-20201001-155901.png", BÓNG ĐÁ Live 1
+https://1123881312.cdn-infiniband.com/cakhia/m101hd2/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/t2GrwBn/IMG-20201001-155901.png", BÓNG ĐÁ Live 2
+https://live2.wedodemos.com/dc7b6a2e7248cd63cdf524402de1ea171601815492/v5/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/t2GrwBn/IMG-20201001-155901.png", BÓNG ĐÁ Live 3
+https://1123881312.cdn-infiniband.com/cakhia/m101sd2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t2GrwBn/IMG-20201001-155901.png" group-title="KÊNH THỂ THAO", Bóng Đá Live 5
+https://feycup66fn.vcdn.com.vn/hls/af17e565db58e18e625e1162d7a8eefe/1603538376323/zpnfich/index.m3u8
 #EXTINF:0 tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" group-title="KÊNH THỂ THAO" tvg-logo="", CBS SPORTS HD
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd1.png" group-title="KÊNH THỂ THAO",TRUEHD 1
@@ -477,12 +515,6 @@ https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 http://m3ulink.com:7899/live/atchareya1@gmail.com/bVzHHjwVCJ/7041.m3u8
 #EXTINF:-1 tvg-id="SPORTTV 5" tvg-logo="https://www.thesportsdb.com/images/media/logo/vvvqxp1470408443.png" group-title="KÊNH THỂ THAO",SPORT.TV5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/t2GrwBn/IMG-20201001-155901.png", BÓNG ĐÁ Live 1
-https://1123881312.cdn-infiniband.com/cakhia/m101hd2/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/t2GrwBn/IMG-20201001-155901.png", BÓNG ĐÁ Live 2
-https://live2.wedodemos.com/dc7b6a2e7248cd63cdf524402de1ea171601815492/v5/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/t2GrwBn/IMG-20201001-155901.png", BÓNG ĐÁ Live 3
-https://1123881312.cdn-infiniband.com/cakhia/m101sd2/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH 4K" tvg-logo="https://i.imgur.com/NcbB0IH.png"  tvg-id="ULTRA REX 4K", ULTRA REX 4K
 http://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/playlist.m3u8?utcstart=1572789600&version=2
