@@ -364,15 +364,15 @@ http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="B02.th" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="KÊNH THỂ THAO",beIN Sports 2 Asia
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF: 0 tvg-id="HD1" group-title="KÊNH THỂ THAO" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1-150x150.png",beIN Sports 1 HD ( AR ) 
+#EXTINF: 0 tvg-id="HD1" group-title="KÊNH THỂ THAO" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1-150x150.png",beIN Sports 1( AR ) 
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30248
-#EXTINF: 0 tvg-id="HD2" group-title="KÊNH THỂ THAO" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1-150x150.png",beIN Sports 2 HD ( AR ) 
+#EXTINF: 0 tvg-id="HD2" group-title="KÊNH THỂ THAO" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1-150x150.png",beIN Sports 2( AR ) 
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265924
-#EXTINF: 0 tvg-id="HD3" group-title="KÊNH THỂ THAO" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1-150x150.png",beIN Sports 3 HD ( AR ) 
+#EXTINF: 0 tvg-id="HD3" group-title="KÊNH THỂ THAO" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1-150x150.png",beIN Sports 3( AR ) 
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30246
-#EXTINF: 0 tvg-id="HD4" group-title="KÊNH THỂ THAO" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD4-1-150x150.png",beIN Sports 4 HD ( AR ) 
+#EXTINF: 0 tvg-id="HD4" group-title="KÊNH THỂ THAO" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD4-1-150x150.png",beIN Sports 4( AR ) 
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30245
-#EXTINF: 0 tvg-id="HD5" group-title="KÊNH THỂ THAO" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1-150x150.png",beIN Sports 5 HD ( AR) 
+#EXTINF: 0 tvg-id="HD5" group-title="KÊNH THỂ THAO" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1-150x150.png",beIN Sports 5( AR) 
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30244
 #EXTINF:-1 tvg-id="B02.th" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="KÊNH THỂ THAO",beIN Sports 2 ARABIC
 http://fariszah.myq-see.com:8008/live/demo/demo/21549.ts
@@ -409,25 +409,25 @@ https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd4_720/chunks.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premier HD5(PC)
 http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
 
-#EXTINF:-1, group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png", SERIE A 1
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png", SERIE A 1
 http://livecdn.fptplay.net/italyfootball/seriea01_2000.stream/chunklist.m3u8
-#EXTINF:-1, tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 2
+#EXTINF:-1 tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 2
 http://livecdn.fptplay.net/italyfootball/seriea02_2000.stream/chunklist.m3u8
-#EXTINF:-1, tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 3
+#EXTINF:-1 tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 3
 http://livecdn.fptplay.net/italyfootball/seriea03_2000.stream/chunklist.m3u8
-#EXTINF:-1, tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 4
+#EXTINF:-1 tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 4
 http://livecdn.fptplay.net/italyfootball/seriea04_2000.stream/chunklist.m3u8
-#EXTINF:-1, tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 5
+#EXTINF:-1 tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 5
 http://livecdn.fptplay.net/italyfootball/seriea05_2000.stream/chunklist.m3u8
-#EXTINF:-1, tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 6
+#EXTINF:-, tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 6
 http://livecdn. ptplay.net/italyfootball/seriea06_2000.stream/chunklist.m3u8
-#EXTINF:-1, tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 7
+#EXTINF:-1 tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 7
 http://livecdn.fptplay.net/italyfootball/seriea07_2000.stream/chunklist.m3u8
-#EXTINF:-1, tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 8
+#EXTINF:-1 tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 8
 http://livecdn.fptplay.net/italyfootball/seriea08_2000.stream/chunklist.m3u8
-#EXTINF:-1, tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 9
+#EXTINF:-1 tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 9
 http://livecdn.fptplay.net/italyfootball/seriea09_2000.stream/chunklist.m3u8
-#EXTINF:-1, tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 10
+#EXTINF:-1 tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 10
 http://livecdn.fptplay.net/italyfootball/seriea10_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/t2GrwBn/IMG-20201001-155901.png", BÓNG ĐÁ Live 1
 https://1123881312.cdn-infiniband.com/cakhia/m101hd2/playlist.m3u8
