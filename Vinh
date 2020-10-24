@@ -431,8 +431,10 @@ http://livecdn.fptplay.net/italyfootball/seriea09_2000.stream/chunklist.m3u8
 http://livecdn.fptplay.net/italyfootball/seriea10_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/t2GrwBn/IMG-20201001-155901.png", BÓNG ĐÁ Live 1
 https://1123881312.cdn-infiniband.com/cakhia/m101hd2/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/t2GrwBn/IMG-20201001-155901.png", BÓNG ĐÁ 90'.TV
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/t2GrwBn/IMG-20201001-155901.png", 90p.TV
 https://ugii0tvebpliv.vcdn.cloud/may1SD/may1SD@456.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/t2GrwBn/IMG-20201001-155901.png", 90p.TV2
+https://1011865324.cdn-infiniband.com/live69/may4/chunks.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/t2GrwBn/IMG-20201001-155901.png", BÓNG ĐÁ Live 3
 https://1123881312.cdn-infiniband.com/cakhia/m101sd2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t2GrwBn/IMG-20201001-155901.png" group-title="KÊNH THỂ THAO", Bóng Đá Live 5
