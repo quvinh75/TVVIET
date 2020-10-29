@@ -431,6 +431,12 @@ http://livecdn.fptplay.net/italyfootball/seriea08_2000.stream/chunklist.m3u8
 http://livecdn.fptplay.net/italyfootball/seriea09_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 10
 http://livecdn.fptplay.net/italyfootball/seriea10_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://image.freepik.com/free-vector/soccer-football-logo-vector_7888-111.jpg", K.P1
+http://180.214.238.157:9981/stream/channelid/552077679?ticket=7A59DE113E3344B5252BF1790A75CC16C02848D4&profile=pass
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://image.freepik.com/free-vector/soccer-football-logo-vector_7888-111.jpg", K.P2
+http://180.214.238.157:9981/stream/channelid/1442994923?ticket=933F4621DF0AD851EC6A4BB438E09204DB1566C9?&profile=pass
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://image.freepik.com/free-vector/soccer-football-logo-vector_7888-111.jpg", K.P3
+http://180.214.238.157:9981/stream/channelid/1815266575?ticket=02EA791D0E41D3AB641A226FDDD8F20ACF820E06&profile=pass
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://image.freepik.com/free-vector/soccer-football-logo-vector_7888-111.jpg", BÓNG ĐÁ Live 1
 https://1123881312.cdn-infiniband.com/cakhia/m101hd2/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://image.freepik.com/free-vector/soccer-football-logo-vector_7888-111.jpg", 90p.TV1
