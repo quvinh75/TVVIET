@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=1 
 #EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=1 
+#EXTM3U url-tvg="http://gg.gg/epgchungxda" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://www.vietcago.net/live/xmltv.xml" tvg-shift=0 m3uautoload=3
+#EXTM3U url-tvg="https://iptvx.one/EPG" tvg-shift=0 m3uautoload=0
+#EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 m3uautoload=1 
 
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
