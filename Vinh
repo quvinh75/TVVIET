@@ -32,6 +32,8 @@ http://vinhphufpt.duckdns.org:4022/udp/225.1.2.247:30120
 https://hni-vnpt-002-livecdn-vthn-vnd.vieon.vn/d170b70e00493d66428987de664fd402/1603618962023/vtvcab/live/hd_vtvcab_1/TV_HD/hd_vtvcab_1_720p/chunks.m3u8
 #EXTINF:0 tvg-id="VTVcab2"group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt
 http://14.169.92.193:8889/rtp/232.84.1.168:8982
+#EXTINF:0 tvg-id="VTVcab2"group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2
+http://116.108.13.177/live/vtvcab2/index.m3u8?token=BNp4dYG5yK-nRmlmt8wLqg&e=1605023614
 #EXTINF:0 tvg-id="VTVcab3"group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/THETHAO_HD_M.png" ,VTVcab3 - THỂ THAO TV
 http://stream.live-365.cf/live/rJBEB2Oy7qEaKBQA48KaNg/1598384568/vtvcab3/index.m3u8
 #EXTINF:0 tvg-id="VTVcab 4"group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/194.png" ,VTVcab 4 - Văn hóa
