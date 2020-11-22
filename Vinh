@@ -23,17 +23,11 @@ https://livecdn.fptplay.net/hda/vtv7hd_2000.stream/chunklist.m3u8
 https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png",VTV9
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1HD
-http://vinhphufpt.duckdns.org:4022/udp/225.1.2.249:30120
-#EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3HD
-http://vinhphufpt.duckdns.org:4022/udp/225.1.2.247:30120
 
 #EXTINF:0 tvg-id="VTVcab 1 - Giải Trí TV"group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png",VTVcab1 _ Vie Giải Trí
 http://gg.gg/VTVCab1byChungXDA
 #EXTINF:0 tvg-id="VTVcab2"group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt
 http://gg.gg/VTVCab2PhimViet
-#EXTINF:0 tvg-id="VTVcab2"group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2
-http://116.108.227.33/live/vtvcab2/index.m3u8?token=RrA1H0Pw2ywcHdPe5sV6Jw&e=1605370015
 #EXTINF:0 tvg-id="VTVcab3"group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/THETHAO_HD_M.png" ,VTVcab3 - THỂ THAO TV
 http://cdn2.thanden.cf/live/vkPrK2ZTOtSPxpgTj9EqdA/1605022187/vtvcab3.m3u8
 #EXTINF:0 tvg-id="VTVcab 4"group-title="VIEhttp://116.108.20.121/live/vtvcab2/index.m3u8TNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/194.png" ,VTVcab 4 - Văn hóa
@@ -427,7 +421,7 @@ http://livecdn.fptplay.net/italyfootball/seriea09_2000.stream/chunklist.m3u8
 http://livecdn.fptplay.net/italyfootball/seriea10_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://image.freepik.com/free-vector/soccer-football-logo-vector_7888-111.jpg", BÓNG ĐÁ Live 1
-https://1123881312.cdn-infiniband.com/cakhia/m101hd2/playlist.m3u8
+http://14.177.93.203:9981/stream/channelid/855070388?profile=pass
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://image.freepik.com/free-vector/soccer-football-logo-vector_7888-111.jpg", BÓNG ĐÁ Live 3
 https://1123881312.cdn-infiniband.com/cakhia/m101sd2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/soccer-football-logo-vector_7888-111.jpg" group-title="KÊNH THỂ THAO", Bóng Đá Live 5
@@ -442,10 +436,10 @@ http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10368
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/TRcgqYz/Astro-Super-Sport-4.png",Astro SuperSport 4
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10369
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/1280px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title="KÊNH THỂ THAO", Sky Sports Football
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/1280px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title="KÊNH THỂ THAO", Sky Sports Football
 http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TEN.US" tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="KÊNH THỂ THAO",Tennis Channel
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="KÊNH THỂ THAO",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/tennis-channel-logo.png",Tennis channal+
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
