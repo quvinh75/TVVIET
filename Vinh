@@ -420,12 +420,10 @@ http://livecdn.fptplay.net/italyfootball/seriea09_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png" group-title="KÊNH THỂ THAO", SERIE A 10
 http://livecdn.fptplay.net/italyfootball/seriea10_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://image.freepik.com/free-vector/soccer-football-logo-vector_7888-111.jpg", BÓNG ĐÁ Live 1
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://image.freepik.com/free-vector/soccer-football-logo-vector_7888-111.jpg", Football 1
 http://14.177.93.203:9981/stream/channelid/855070388?profile=pass
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://image.freepik.com/free-vector/soccer-football-logo-vector_7888-111.jpg", BÓNG ĐÁ Live 3
-https://1123881312.cdn-infiniband.com/cakhia/m101sd2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/soccer-football-logo-vector_7888-111.jpg" group-title="KÊNH THỂ THAO", Bóng Đá Live 5
-https://feycup66fn.vcdn.com.vn/hls/af17e565db58e18e625e1162d7a8eefe/1603538376323/zpnfich/index.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://image.freepik.com/free-vector/soccer-football-logo-vector_7888-111.jpg", Football 2
+https://live2.wedodemos.com/e03e292e26dae523d9585bf42791d8471606668337/v5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_ASSP1.png/400px-Astro_ASSP1.png" group-title="KÊNH THỂ THAO",Astro SuperSport
 http://185.39.8.88:8088/live/xi4fO6Tqhr/I1ZplJeMC6/40598.mp2t?token=QhVcUhcJRggXUVYEBAcAAFcHBwdTUAVQVVwGBQUHA1BaBwxQV1NWUAxGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QA1cCVgFSEhhDQl9eBEReUlNUBlFVUVFQARsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
