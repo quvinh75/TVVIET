@@ -210,6 +210,13 @@ https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="http://img.btv.org.vn:81/upload/vod/25032020/1585128658_btv11.png",BTV 11
 https://livecdn.fptplay.net/sda/btv11_2000.stream/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png" group-title="Kplus" tvg-id="" tvg-name="", K+1 HD
+http://gg.gg/nb7l4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K%2BNS_HD.png" group-title="Kplus" tvg-id="" tvg-name="", K+NS HD
+http://gg.gg/nb7l8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/K%2BPM.png" group-title="Kplus" tvg-id="" tvg-name="", K+PM HD
+http://gg.gg/nb7ld
+
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png",K+PM
 http://chungxda.github.io/m3u8/KPMHD.m3u8
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png",K+PM2
