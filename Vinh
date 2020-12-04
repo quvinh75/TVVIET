@@ -212,6 +212,10 @@ https://livecdn.fptplay.net/sda/btv11_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png",K+PM
 http://chungxda.github.io/m3u8/KPMHD.m3u8
+#EXTINF:-1 group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png",K+PM2
+http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
+#EXTINF:-1 group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png",K+1
+http://36.37.252.114:888/Apple/OneTV-055/43419.m3u8
 #EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX
