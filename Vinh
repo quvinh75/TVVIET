@@ -234,7 +234,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:0 tvg-id="HBO(NoSub)" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO(NoSub)
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO
-http://cdn4.thanden.cf/live/BBoho1QlfmxKAD_vFXBbdw/1607010562/hbo.m3u8
+http://cdn3.thanden.cf/live/ZedpaP-usa665GKX73ATFA/1607139951/hbo.m3u8
 #EXTINF:-1 tvg-id="FOXMovies" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="fox_movies" group-title="PHIM" tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png",FOX Movies HD
