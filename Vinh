@@ -64,7 +64,7 @@ http://gg.gg/VTVCabVFamily
 #EXTINF:0 tvg-id="VTVcab 23"group-title="VIETNAMTV"  tvg-logo="https://rsstv.gviet.vn/sctv/158/77/1570762675549.png",VTVcab22 - Life TV
 https://livetdcdn.vtvcab.vn/origin05/4k-h264/1080/list.m3u8
 #EXTINF:0 tvg-id="VTVcab 23"group-title="VIETNAMTV"  tvg-logo="https://rsstv.gviet.vn/sctv/157/999/1569981249737.png",VTVcab23 - Golf TV
-http://onsportliveobj.5b1df984.cdnviet.com/hls/TTGHD/03.m3u8
+http://onsportliveobj.5b1df984.cdnviet.com/hls/TTGHD/01.m3u8
 
 #EXTINF:-1 tvg-id="VTC1"group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1
 https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
@@ -219,12 +219,14 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 http://14.169.92.193:8889/rtp/232.84.3.117:10654
 #EXTINF:-1 tvg-id="FOX Canal" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png" ,FOX HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="FOX Canal" group-title="PHIM" tvg-logo="https://www.vhv.rs/dpng/d/438-4382750_file-maxbyhbo-max-by-hbo-logo-hd-png.png",MAX by HBO
+http://livestv.gviet.vn/origin01/5dc4d345f9d17c187bbc6843/5dc4d345f9d17c187bbc6844/360p/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.ASIA" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO.ASIA
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:0 tvg-id="HBO(NoSub)" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO(NoSub)
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO
-http://test:123456@hoaithanh-iptv.duckdns.org:9981/stream/channelid/357851384?ticket=5B548DFC32C9D6BA2BDD2359BBA88D78D77A473D&profile=pass
+http://livestv.gviet.vn/origin01/5dc4d255f9d17c187bbc6824/5dc4d255f9d17c187bbc6825/720p/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO.FPT
 http://Shareall:gopvui123@hoaithanh-iptv.duckdns.org:9983/stream/channelid/482847037?ticket=8D55BAA15721C11F2992021F976FD6BF4CA064BE&profile=pass
 #EXTINF:-1 tvg-id="FOXMovies" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES
