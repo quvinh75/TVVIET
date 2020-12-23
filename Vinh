@@ -160,9 +160,9 @@ https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="HTV4" group-title="VIETNAMTV" tvg-logo="https://i.postimg.cc/LSvDpMKV/htvkey.png", HTV Key
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="HTV7" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/8986847-logo-htv7a.png", HTV7
-https://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
+http://gg.gg/HTV7HDVieON
 #EXTINF:-1 tvg-id="HTV9" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/2931478-logo-htv9a.png", HTV9
-https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
+http://gg.gg/HTV9HDVieON
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/879824-ThuanVietHD1.png" group-title="VIETNAMTV", HTVC Thuần Việt HTV+
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2017/02/20/9667644-9189649-htvc-th.png" group-title="VIETNAMTV",HTVC Thuần Việt VIEON
