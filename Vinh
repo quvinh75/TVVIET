@@ -225,8 +225,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO
 http://14.169.67.230:8889/rtp/232.84.3.101:10648
-#EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO.FPT
-http://Shareall:gopvui123@hoaithanh-iptv.duckdns.org:9983/stream/channelid/482847037?ticket=8D55BAA15721C11F2992021F976FD6BF4CA064BE&profile=pass
 #EXTINF:-1 tvg-id="FOXMovies" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="fox_movies" group-title="PHIM" tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png",FOX Movies HD
@@ -314,43 +312,6 @@ https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 http://test:123456@hoaithanh-iptv.duckdns.org:9981/stream/channelid/1940297947?ticket=7355E5AF7EE7FAA617C6506C8A72365BFB00962D&profile=pass
 #EXTINF:-1  group-title="KID" tvg-logo="https://mytv.com.vn/upload/channel/145.png",Disney Junior
 http://gg.gg/disneyjuniorhd
-
-#EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/SBS_Plus_logo.png/revision/latest?cb=20180125005022", SBS PLUS 
-http://211.245.55.198:1024/m2u/239.192.49.7:49220
-#EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://i.vippng.com/png/small/47-477863_sbs-mtv-logo-sbs-mtv-.png", SBS MTV
-http://211.245.55.198:1024/m2u/239.192.55.4:49220
-#EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/PG/2017/09/11/PG65719207_w1280_h720.jpg", SBS fun E
-http://211.245.55.198:1024/m2u/239.192.55.3:49220
-#EXTINF:-1 tvg-ID="SBS.KR" tvg-logo="https://static.epg.best/kr/SBSCNBC.kr.png" group-title="KÊNH HÀN QUỐC",SBS CNBC
-http://211.245.55.198:1024/m2u/239.192.53.8:49220
-#EXTINF:-1 tvg-id="Mnet" group-title="KÊNH HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Music_Makes_One_Mnet_Logo.png", Mnet
-http://211.245.55.198:1024/m2u/239.192.48.5:49220
-#EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Kbs1.png",KBS1
-http://211.245.55.198:1024/m2u/239.192.67.100:49220
-#EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png",KBS2
-http://211.245.55.198:1024/m2u/239.192.67.99:49220
-#EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="http://kbsworldimage.kbs.co.kr/images/layout/logo/logo_world.jpg",KBS World
-https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1028077852_b684100_sleng_enc=ZNfXlsy3xR14nAbr2jkhCg.m3u8
-#EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cf/Kbsjoy.jpeg", KBS Joy
-http://211.245.55.198:1024/m2u/239.192.56.6:49220
-#EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://pbs.twimg.com/profile_images/1260259770/___.png", KBS DRAMA 
-http://211.245.55.198:1024/m2u/239.192.49.6:49220
-#EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://seeklogo.com/images/M/munhwa-broadcasting-company-logo-5F2839F07B-seeklogo.com.png",MBC
-http://211.245.55.198:1024/m2u/239.192.40.26:49220
-#EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_M_logo.svg/220px-MBC_M_logo.svg.png", MBC NET
-http://211.245.55.198:1024/m2u/239.192.69.75:49220
-#EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/b/bf/MBC_Drama_%28vertical%29.png/revision/latest?cb=20190930111120&path-prefix=ko", MBC Drama
-http://211.245.55.198:1024/m2u/239.192.48.6:49220
-#EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/MBC_Every_1_logo.png", MBC EVERY 1
-http://211.245.55.198:1024/m2u/239.192.50.6:49220
-#EXTINF:-1 tvg-ID="ONE.KR" tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="KÊNH HÀN QUỐC",One TV
-http://103.47.132.164/PLTV/88888888/224/3221227143/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jgexArm.png"  group-title="KÊNH HÀN QUỐC",YTN
-http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
-#EXTINF:-1 tvg-id="YTS.KR" tvg-logo="https://static.epg.best/kr/YTNScience.kr.png" group-title="KÊNH HÀN QUỐC",YTN Science
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wqlTcbI.png"  group-title="KÊNH HÀN QUỐC",TBS
-http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
 
 #EXTINF:-1 tvg-id="TV3.TH" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="KÊNH THÁI LAN",ดูทีวีสีช่อง 3(Channel 3)
 https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
