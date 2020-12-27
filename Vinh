@@ -165,7 +165,7 @@ http://gg.gg/HTV9HDVieON
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/879824-ThuanVietHD1.png" group-title="VIETNAMTV", HTVC Thuần Việt HTV+
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2017/02/20/9667644-9189649-htvc-th.png" group-title="VIETNAMTV",HTVC Thuần Việt VIEON
-http://gg.gg/HTVCThuanVietHDVieON
+https://hni-vnpt-002-livecdn-vthcm-vnd.vieon.vn/2c4df018c5a4c0224564411ffe5fad2f/1609150587997/htv_drm/live/htvc_thuan_viet/TV_HD/htvc_thuan_viet_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2017/02/20/9667644-9189649-htvc-th.png" group-title="VIETNAMTV",HTVC Thuần Việt CLIPTV
 https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDI5NDgxNDksICJyZXNvdXJjZV9pZCI6ICJodHZjdGh1YW52aWV0aGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImRhODQ2NmRkYjljMTUwNWEyNDMyMmRjNzUyMzMxZDljIiwgInZhbGlkX21pbnV0ZXMiOiAxNjAzMDM0NTQ5LCAicm1pcCI6ICIxNC4yMzEuNjAuMTY3In0=
 #EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2016/10/20/425058-logo-phunu-fina.png" group-title="VIETNAMTV",HTVC Phụ Nữ
