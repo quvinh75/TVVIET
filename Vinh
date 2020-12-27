@@ -75,7 +75,7 @@ http://chungxda.github.io/m3u8/VieON/OnSportsHD.m3u8
 #EXTINF:-1 tvg-id="VTC4"group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/v9DNS85.png",VTC4
 http://chungxda.github.io/m3u8/VieON/VTC4.m3u8
 #EXTINF:-1 tvg-id="VTC5" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/w18H0gU.jpg",VTC5
-https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
+https://106135605.vws.vegacdn.vn/b09398d140575983bf36e80d8d2a36d32a641241/1609149090/cliptv_live/amlst:vtc5hd/chunklist_b3728000.m3u8
 #EXTINF:-1 tvg-id="VTC6" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/YasRGy0.png",VTC6
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="TODAYTV" group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/TC7_M.png",TODAYTV
@@ -169,17 +169,17 @@ http://gg.gg/HTVCThuanVietHDVieON
 #EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2017/02/20/9667644-9189649-htvc-th.png" group-title="VIETNAMTV",HTVC Thuần Việt CLIPTV
 https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDI5NDgxNDksICJyZXNvdXJjZV9pZCI6ICJodHZjdGh1YW52aWV0aGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImRhODQ2NmRkYjljMTUwNWEyNDMyMmRjNzUyMzMxZDljIiwgInZhbGlkX21pbnV0ZXMiOiAxNjAzMDM0NTQ5LCAicm1pcCI6ICIxNC4yMzEuNjAuMTY3In0=
 #EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2016/10/20/425058-logo-phunu-fina.png" group-title="VIETNAMTV",HTVC Phụ Nữ
-http://gg.gg/HTVCPhuNuVieON
+https://106a8e566.vws.vegacdn.vn/ddf3ff3a37ec4a42a75b026a27c6f4ff230f15f4/1609149216/cliptv_live/amlst:htvcphunuhd/chunklist_b3620000.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/566530-Gia-Dinh.png" group-title="VIETNAMTV", HTVC Gia Đình (Full HD 1080)
-http://gg.gg/HTVCGiaDinhVieON
+https://106a8e566.vws.vegacdn.vn/f112a192d49018664e855a1df5e27f09594efcc2/1609149207/cliptv_live/amlst:htvcgiadinhhd/chunklist_b3620000.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/371943-htvplus.png" group-title="VIETNAMTV", HTVC Plus (Full HD 1080)
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2017/04/10/563560-logo-kenh-phim-.png" group-title="VIETNAMTV", HTVC Phim
-http://gg.gg/HTVCPhimVieON
+https://106a8e566.vws.vegacdn.vn/42884e94e32ba556e286178868b56c4f0b78517b/1609149241/cliptv_live/amlst:htvcphimhd/chunklist_b3620000.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/524810-canhacHD.png" group-title="VIETNAMTV", HTVC Ca Nhạc (Full HD 1080)
-http://gg.gg/HTVCaNhacVieON
+https://106a8e566.vws.vegacdn.vn/9accb0b909bbab830a3381214bb98ea67a70a51f/1609149321/cliptv_live/amlst:htvccanhachd/chunklist_b3620000.m3u8
 #EXTINF:-1 tvg-id="THVL1 HD" tvg-name="THVL1 HD" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_THVL1_HD.png",Vĩnh Long 1 HD
-https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
+https://106a8e566.vws.vegacdn.vn/da5c0a16760916c52a56483005ab92878a78540f/1609149346/cliptv_live/amlst:vinhlong1hd/chunklist_b3620000.m3u8
 #EXTINF:-1 tvg-id="THVL2 HD" tvg-name="THVL2 HD" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_THVL2_HD.png",Vĩnh Long 2 HD
 https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="THVL3 HD" tvg-name="THVL3 HD" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_THVL3_HD.png",Vĩnh Long 3 HD
@@ -187,7 +187,7 @@ https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="THVL4 HD" tvg-name="THVL4 HD" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_THVL4_HD.png",Vĩnh Long 4 HD
 https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/741464-anninh.png" group-title="VIETNAMTV", ANTV HD
-http://chungxda.github.io/m3u8/VieON/ANTVHD.m3u8
+https://10685685c.vws.vegacdn.vn/f59974075051887b78b9d65a112256056ea81b3d/1609149391/cliptv_live/amlst:antvhd/chunklist_b3728000.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/pLtP2Ajz_Io2vOyJ9x53WfrsQzloF8fWFYeqC4OHI0f4QYIM0VZQTsP2Znsx0xAyJLryqj1iBYcZHDeOnoC_cw" group-title="VIETNAMTV", DANANG1
 https://livecdn.fptplay.net/sdc/danang1_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDI4MTYwNDcsICJyZXNvdXJjZV9pZCI6ICJkYW5hbmcxXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiNjIwOTE5YTU3ODBiNzRjMjI0ODc5M2MyMTQ4ODIwOGEiLCAidmFsaWRfbWludXRlcyI6IDE2MDI5MDI0NDcsICJybWlwIjogIjIyMi4yNTIuMzAuMjExIn0=
 #EXTINF:-1 tvg-logo="https://htvc.vn/uploads/cache/thumbnail/2018-02-05/317413-da-nang-tv2.png" group-title="VIETNAMTV", DANANG2
