@@ -248,7 +248,7 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/50.png" group-title="KÊNH QUỐC TẾ",NHK WORLD JAPAN
-https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8
+http://14.243.114.182:8889/rtp/232.84.1.72:8406
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6371630_preview.png" group-title="KÊNH QUỐC TẾ",CNN
 https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6371630_preview.png" group-title="KÊNH QUỐC TẾ",CNN.FullHD
@@ -258,7 +258,7 @@ http://14.243.114.182:8889/rtp/232.84.3.155:10540
 #EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="KÊNH QUỐC TẾ",Global News
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="KÊNH QUỐC TẾ",CBS
-http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
+http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8http://14.243.114.182:8889/rtp/232.84.1.72:8406
 #EXTINF:-1 tvg-logo="https://www.ivfmd.com/wp-content/uploads/2019/02/nbc-logo-300x150.png" group-title="KÊNH QUỐC TẾ",NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 #EXTINF:-1 tvg-logo="https://1v1d1e1lmiki1lgcvx32p49h8fe-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/1547104448-abc-logo.png" group-title="KÊNH QUỐC TẾ",ABC Australia
@@ -299,7 +299,6 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="KÊNH Quốc Tế" tvg-logo="",Clubbing TV (HD 6Mbps)
 http://14.243.114.182:8889/rtp/232.84.3.194:11086
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="KÊNH QUỐC TẾ",Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/182/465/png-transparent-mtv-logo-tv-television-music-video-others-miscellaneous-television-text.png" group-title="KÊNH QUỐC TẾ",MTV
@@ -316,9 +315,9 @@ https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="KID",Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="DIS.MY" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="KID",Disney Channel
-http://test:123456@hoaithanh-iptv.duckdns.org:9981/stream/channelid/1940297947?ticket=7355E5AF7EE7FAA617C6506C8A72365BFB00962D&profile=pass
+http://14.243.114.182:8889/rtp/232.84.2.143:10678
 #EXTINF:-1  group-title="KID" tvg-logo="https://mytv.com.vn/upload/channel/145.png",Disney Junior
-http://gg.gg/disneyjuniorhd
+http://14.243.114.182:8889/rtp/232.84.3.200:11122
 
 #EXTINF:-1 tvg-id="TV3.TH" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="KÊNH THÁI LAN",ดูทีวีสีช่อง 3(Channel 3)
 https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
