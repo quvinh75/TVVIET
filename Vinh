@@ -250,6 +250,8 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6371630_preview.png" group-title="KÊNH QUỐC TẾ",CNN
 https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6371630_preview.png" group-title="KÊNH QUỐC TẾ",CNN.FullHD
+http://14.243.114.182:8889/rtp/232.84.3.153:10690
 #EXTINF:-1  tvg-logo="https://mytv.com.vn/upload/channel/146.png" group-title="KÊNH QUỐC TẾ",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="KÊNH QUỐC TẾ",Global News
