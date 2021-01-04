@@ -208,7 +208,7 @@ https://livecdn.fptplay.net/sda/btv11_2000.stream/chunklist.m3u8
 http://123.18.0.4:4022/rtp/232.84.2.196:10960
 
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png",K+PM
-http://chungxda.github.io/m3u8/KPMHD.m3u8
+http://113.160.106.75/hls/relay/NRCzBqe/index.m3u8
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png",K+1
 http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png",K+PM2
