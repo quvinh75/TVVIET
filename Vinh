@@ -21,12 +21,12 @@ https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png",VTV9
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png",VTV1FULHD
-http://123.18.0.4:4022/rtp/232.84.1.117:10254
+http://hthanhmedia.duckdns.org:8888/HThanhmedia.php?id=52099f0d-fbba-4e6d-8b4c-df0feaf578e8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/3.png",VTV3FULLHD
 http://123.18.0.4:4022/rtp/232.84.1.118:10260
 
 #EXTINF:0 tvg-id="VTVcab 1 - Giải Trí TV"group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png",VTVcab1 _ Vie Giải Trí
-http://chungxda.github.io/m3u8/VieON/VieGIAITRIHD.m3u8
+http://hthanhmedia.duckdns.org:8888/HThanhmedia.php?id=ef9064fa-b31a-4bed-b19b-183752191248
 #EXTINF:0 tvg-id="VTVcab2"group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt
 http://123.18.0.4:4022/rtp/232.84.1.168:8982
 #EXTINF:0 tvg-id="VTVcab2"group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt2
@@ -50,7 +50,7 @@ http://gg.gg/VTVCab8BIBITV
 #EXTINF:0 tvg-id="VTVcab 9"group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/INFO_TV_M.png",VTVcab9 - InfoTV
 http://gg.gg/VTVCabInfoTV
 ##EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/D-dramas-png220124.png", Vie Dramas
-http://chungxda.github.io/m3u8/VieON/VieDRAMASHD.m3u8
+http://hthanhmedia.duckdns.org:8888/HThanhmedia.php?id=f01e8ee5-0fe5-4edd-8f69-57bb3ae49e2a
 #EXTINF:0 tvg-id="VTVcab 1"group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/STYLE_TV_HD_M.png",VTVcab11 - StyleTV
 http://gg.gg/VTVCab12StyleTV
 #EXTINF:0 tvg-id="VTVcab 15"group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/M_CHANNEL_M.png",VTVcab15 - M Channel
