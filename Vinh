@@ -302,7 +302,7 @@ https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fMF8xNTU1MDAxNTE0XzA2OQ/screen-0.jpg?fakeurl=1&type=.jpg",MODEL
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="KÊNH Quốc Tế" tvg-logo="",Clubbing TV (HD 6Mbps)
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="",Clubbing TV (HD 6Mbps)
 http://14.185.136.188:2806/rtp/232.84.3.194:11086
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="KÊNH QUỐC TẾ",Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
