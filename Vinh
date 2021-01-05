@@ -36,9 +36,9 @@ http://123.18.0.4:4022/rtp/232.84.1.138:8802
 #EXTINF:-1 tvg-name="VTVcab 3" group-title="VIETNAMTV" tvg-logo="",VTVcab3 Thể Thao TV HD (DRM)
 http://123.18.0.4:4022/rtp/232.84.1.207:9216
 #EXTINF:0 tvg-id="VTVcab 18"group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png", Thể Thao Tin Tức
-http://123.18.0.4:4022/rtp/232.84.2.193:10942
+http://14.185.136.188:2806/rtp/232.84.2.193:10942
 #EXTINF:0 tvg-id="VTVcab 4"group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/194.png" ,VTVcab 4 - Văn hóa
-http://123.18.0.4:4022/rtp/232.84.2.190:10924
+http://14.185.136.188:2806/rtp/232.84.2.190:10924
 #EXTINF:0 tvg-id="VTVcab 5"group-title="VIETNAMTV" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/-nh-logo---i-t-c/adt-echannel-haytv-04-copy2_w200_h200.png",VTVcab5 -  E Channel
 hhttp://gg.gg/VTVCab5Echannel
 #EXTINF:0 tvg-id="VTVcab 6"group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/HAY_TV_M.png",VTVcab6 - HayTV
@@ -228,13 +228,13 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:0 tvg-id="HBO(NoSub)" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO(NoSub)
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO1
-http://123.18.0.4:4022/rtp/232.84.2.138:10648
+http://14.185.136.188:2806/rtp/232.84.2.138:10648
 #EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO2
-http://123.18.0.4:4022/rtp/232.84.3.101:10648
+http://14.185.136.188:2806/rtp/232.84.3.101:10648
 #EXTINF:-1 tvg-id="FOXMovies" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FOXMovies" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES FullHD
-http://123.18.0.4:4022/rtp/232.84.1.77:8436
+http://14.185.136.188:2806/rtp/232.84.1.77:8436
 #EXTINF:0 tvg-id="fox_movies" group-title="PHIM" tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png",FOX Movies HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="foxmovieshd" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" ,FOX FAMILY MOVIES
