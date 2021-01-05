@@ -37,6 +37,8 @@ http://14.185.136.188:2806/rtp/232.84.1.138:8802
 http://14.185.136.188:2806/rtp/232.84.1.207:9216
 #EXTINF:0 tvg-id="VTVcab 18"group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png", Thể Thao Tin Tức
 http://14.185.136.188:2806/rtp/232.84.2.193:10942
+#EXTINF:0 tvg-id="VTVcab 18"group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png", ThểThaoTinTức
+http://iptvh.it/xyz13
 #EXTINF:0 tvg-id="VTVcab 4"group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/194.png" ,VTVcab 4 - Văn hóa
 http://14.185.136.188:2806/rtp/232.84.2.190:10924
 #EXTINF:0 tvg-id="VTVcab 5"group-title="VIETNAMTV" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/-nh-logo---i-t-c/adt-echannel-haytv-04-copy2_w200_h200.png",VTVcab5 -  E Channel
