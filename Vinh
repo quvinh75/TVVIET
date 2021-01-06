@@ -35,6 +35,8 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD.smil/chunklist_w383674_b2
 http://14.185.136.188:2806/rtp/232.84.1.138:8802
 #EXTINF:-1 tvg-name="VTVcab 3" group-title="VIETNAMTV" tvg-logo="",VTVcab3 Thể Thao TV HD (DRM)
 http://14.185.136.188:2806/rtp/232.84.1.207:9216
+#EXTINF:-1 tvg-name="VTVcab 3" group-title="VIETNAMTV" tvg-logo="",VTVcab3 Thể Thao TV SD
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w59021678_b2692000.m3u8
 #EXTINF:0 tvg-id="VTVcab 18"group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png", Thể Thao Tin Tức
 http://14.185.136.188:2806/rtp/232.84.2.193:10942
 #EXTINF:0 tvg-id="VTVcab 18"group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png", ThểThaoTinTức
