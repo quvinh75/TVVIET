@@ -94,8 +94,8 @@ https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="VTC12" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/DqHGORv.jpg",VTC12
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="VTC13" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/hLQNEhy.png",VTC13HD
-http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VTC13" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/hLQNEhy.png",VTC134k
+http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/chunklist_w82265077_b4096000_sleng.m3u8
 #EXTINF:-1 tvg-id="VTC13" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/hLQNEhy.png",VTC13
 https://livecdn.fptplay.net/sdc/vtc13_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="VTC14" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/85swmKd.png",VTC14
@@ -187,7 +187,7 @@ https://106a8e566.vws.vegacdn.vn/9accb0b909bbab830a3381214bb98ea67a70a51f/160914
 #EXTINF:-1 tvg-id="THVL1 HD" tvg-name="THVL1 HD" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_THVL1_HD.png",Vĩnh Long 1 HD
 http://14.232.176.71:8889/rtp/232.84.2.183:10882
 #EXTINF:-1 tvg-id="THVL2 HD" tvg-name="THVL2 HD" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_THVL2_HD.png",Vĩnh Long 2 HD
-https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL2-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="THVL3 HD" tvg-name="THVL3 HD" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_THVL3_HD.png",Vĩnh Long 3 HD
 https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="THVL4 HD" tvg-name="THVL4 HD" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_THVL4_HD.png",Vĩnh Long 4 HD
@@ -223,12 +223,12 @@ http://36.37.252.114:888/Apple/OneTV-055/43419.m3u8
 http://14.232.176.71:8889/rtp/232.84.2.172:10840
 #EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",RedbyHBO2
 http://14.232.176.71:8889/rtp/232.84.3.103:10840
+#EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",RedbyHBO.FPT
+http://vnptudpxy.trialsonserver.com:8889/rtp/232.84.3.103:10840
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX
 http://14.232.176.71:8889/rtp/232.84.2.139:10654
-#EXTINF:-1 tvg-id="FOX Canal" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png" ,FOX HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="FOX Canal" group-title="PHIM" tvg-logo="https://www.vhv.rs/dpng/d/438-4382750_file-maxbyhbo-max-by-hbo-logo-hd-png.png",MAX by HBO
-http://livestv.gviet.vn/origin01/5dc4d345f9d17c187bbc6843/5dc4d345f9d17c187bbc6844/360p/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX Canal" group-title="PHIM" tvg-logo="https://www.vhv.rs/dpng/d/438-4382750_file-maxbyhbo-max-by-hbo-logo-hd-png.png",CINEMAX.FPT
+http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
 #EXTINF:-1 tvg-id="HBO.ASIA" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO.ASIA
 http://udpxyvnpt-hthanhmedia.duckdns.org:2806/rtp/232.84.2.138:10648
 #EXTINF:0 tvg-id="HBO(NoSub)" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO(NoSub)
@@ -257,6 +257,8 @@ https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png", KIX HD
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="PHIM" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png", HBOXtreme
+http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35258
 
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/50.png" group-title="KÊNH QUỐC TẾ",NHK WORLD JAPAN
 http://14.232.176.71:8889/rtp/232.84.1.72:8406
@@ -276,6 +278,8 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png" group-title="KÊNH QUỐC TẾ",Bloomberg TV
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="FOX Canal" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png" ,FOX HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="foxlifehd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564485120978.png",FOX LIFE
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946228444.png" group-title="KÊNH QUỐC TẾ",Blue Ant Extreme
