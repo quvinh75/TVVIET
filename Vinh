@@ -310,6 +310,8 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FashionTV HD" tvg-name="Fashion TV HD" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" group-title="KÊNH QUỐC TẾ",FTV FHD
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="KÊNH QUỐC TẾ",Fashion Destination
+http://36.37.252.114:888/Apple/OneTV-059/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fMF8xNTU1MDAxNTE0XzA2OQ/screen-0.jpg?fakeurl=1&type=.jpg",MODEL
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="",Clubbing TV (HD 6Mbps)
@@ -330,7 +332,9 @@ https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="KID",Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="DIS.MY" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="KID",Disney Channel
-http://123.18.0.4:4022/rtp/232.84.2.143:10678
+http://quangvinh997.duckdns.org:8889/udp/225.1.2.158:30120
+#EXTINF:-1 tvg-id="DIS.MY" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="KID",Disney Channel
+http://vnptudpxy.trialsonserver.com:8889/rtp/232.84.2.143:10678
 #EXTINF:-1  group-title="KID" tvg-logo="https://mytv.com.vn/upload/channel/145.png",Disney Junior
 http://14.232.176.71:8889/rtp/232.84.3.200:11122
 
