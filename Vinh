@@ -244,6 +244,8 @@ http://14.232.176.71:8889/rtp/232.84.1.77:8436
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="foxmovieshd" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" ,FOX FAMILY MOVIES
 https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="PHIM" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png", HBOXtreme
+http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35258
 #EXTINF:-1 tvg-id="ParamountHD"  group-title="PHIM" tvg-logo="http://img.hplus.com.vn/226x127/poster/2020/08/03/744316-Paramount-xanh-fix.png",Paramount Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CinemaWorld" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="PHIM",CinemaWorld
@@ -256,8 +258,6 @@ https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png", KIX HD
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="PHIM" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png", HBOXtreme
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35258
 
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/50.png" group-title="KÊNH QUỐC TẾ",NHK WORLD JAPAN
 http://14.232.176.71:8889/rtp/232.84.1.72:8406
