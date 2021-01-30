@@ -214,10 +214,11 @@ https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD.smil/chunklist_b2692000.
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png",K+1
 http://gg.gg/Hth4nh-Kplus
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM
-http://gg.gg/Hth4nh-Kpm
+http://hthanhmedia:shareiptv123@hthanhmedias.duckdns.org:9981/stream/channelid/1122696227?ticket=EF7422922662759737A8763F31D9A6DDEDA2D44D&profile=pass
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png",K+PM.2
 http://gg.gg/Hth4nh-SCTV17
-
+#EXTINF:-1 group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png",K+PM.3
+http://thatslife.cf/stream/channelid/1733202655?ticket=B94AC699ADB3505C7860CAE4ECC96D33A8377AC0&profile=pass
 #EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",Red by HBO
 http://14.232.176.71:8889/rtp/232.84.2.172:10840
 #EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",RedbyHBO2
