@@ -69,23 +69,23 @@ https://livetdcdn.vtvcab.vn/origin05/4k-h264/1080/list.m3u8
 http://14.232.176.71:8889/rtp/232.84.2.246:10876
 
 #EXTINF:-1 tvg-id="VTC1"group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1
-http://chungxda.github.io/m3u8/VieON/VTC1.m3u8
+http://hthanhmedia.duckdns.org:8888/HThanhsharemediaeo.php?id=d88bdf8b-aa2b-4858-b4f9-b631fa8183d2
 #EXTINF:-1 tvg-id="VTC2" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/8Y2vdek.png",VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="VTC3" group-title="VIETNAMTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Icon_355x2003.jpg",VTC3
-http://chungxda.github.io/m3u8/VieON/OnSportsHD.m3u8
+http://hthanhmedia.duckdns.org:8888/HThanhsharemediaeo.php?id=0a44447a-165c-4771-a08c-165ce5665f47
 #EXTINF:-1 tvg-id="VTC4"group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/v9DNS85.png",VTC4
-http://chungxda.github.io/m3u8/VieON/VTC4.m3u8
+http://hthanhmedia.duckdns.org:8888/HThanhsharemediaeo.php?id=18031d6e-6653-4b5b-aa17-af6c613ae8c8
 #EXTINF:-1 tvg-id="VTC5" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/w18H0gU.jpg",VTC5
 https://106135605.vws.vegacdn.vn/b09398d140575983bf36e80d8d2a36d32a641241/1609149090/cliptv_live/amlst:vtc5hd/chunklist_b3728000.m3u8
 #EXTINF:-1 tvg-id="VTC6" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/YasRGy0.png",VTC6
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="TODAYTV" group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/TC7_M.png",TODAYTV
-http://chungxda.github.io/m3u8/VieON/ToDayTVHD.m3u8
+http://hthanhmedia.duckdns.org:8888/HThanhsharemediaeo.php?id=6aac0030-e3f1-4f31-ba9b-f47e9fd32eaa
 #EXTINF:-1 tvg-id="VTC" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/FVM7co8.jpg",VTC8
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="VTC9" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/UOIPXAr.png",VTC9
-http://chungxda.github.io/m3u8/VieON/VTC9.m3u8
+http://hthanhmedia.duckdns.org:8888/HThanhsharemediaeo.php?id=76a50f23-d58c-4ece-994a-606c53a78707
 #EXTINF:-1 tvg-id="VTC10" group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/TC10_M.png",NETVIET TV
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="VTC11" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/JARfwUf.png",VTC11
