@@ -417,7 +417,7 @@ http://14.177.93.203:9981/stream/channelid/855070388?profile=pass
 https://live2.wedodemos.com/e03e292e26dae523d9585bf42791d8471606668337/v5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_ASSP1.png/400px-Astro_ASSP1.png" group-title="KÊNH THỂ THAO",Astro SuperSport
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="KÊNH THỂ THAO",Astro SuperSport 2
 http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-41l9hRneAR0/UgBSg85LszI/AAAAAAAAFmM/DVtdCY9_SFg/s1600/astro+supersport+3+logo+channel.PNG" group-title="KÊNH THỂ THAO",Astro SuperSport 3
@@ -482,23 +482,23 @@ http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103392
 #EXTINF:-1 tvg-id="SPORTTV 1" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="KÊNH THỂ THAO",SPORT.TV1
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SPORTTV 1" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="KÊNH THỂ THAO",SPORT.TV1
-http://iptvh.it/tv11
+http://163.172.31.126:2052/portugalpanel3/7546141233/6331
 #EXTINF:-1 tvg-id="SPORTTV 2" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="KÊNH THỂ THAO",SPORT.TV2
 https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SPORTTV 2" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="KÊNH THỂ THAO",SPORT.TV2 
-http://iptvh.it/tv22
+http://163.172.31.126:2052/portugalpanel3/7546141233/6332
 #EXTINF:-1 tvg-id="SPORTTV 3" tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="KÊNH THỂ THAO",SPORT.TV3
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SPORTTV 3" tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="KÊNH THỂ THAO",SPORT.TV3
-http://iptvh.it/tv33
+http://163.172.31.126:2052/portugalpanel3/7546141233/6333
 #EXTINF:-1 tvg-id="SPORTTV 4" tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png" group-title="KÊNH THỂ THAO",SPORT.TV4
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SPORTTV 4" tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png" group-title="KÊNH THỂ THAO",SPORT.TV4
-http://iptvh.it/tv44
+http://163.172.31.126:2052/portugalpanel3/7546141233/6334
 #EXTINF:-1 tvg-id="SPORTTV 5" tvg-logo="https://www.thesportsdb.com/images/media/logo/vvvqxp1470408443.png" group-title="KÊNH THỂ THAO",SPORT.TV5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SPORTTV 5" tvg-logo="https://www.thesportsdb.com/images/media/logo/vvvqxp1470408443.png" group-title="KÊNH THỂ THAO",SPORT.TV5
-http://iptvh.it/tv55
+http://163.172.31.126:2052/portugalpanel3/7546141233/6335
 
 #EXTINF:-1 group-title="KÊNH 4K" tvg-logo="https://i.imgur.com/NcbB0IH.png"  tvg-id="ULTRA REX 4K", ULTRA REX 4K
 http://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/playlist.m3u8?utcstart=1572789600&version=2
