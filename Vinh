@@ -34,7 +34,7 @@ http://14.186.66.114:8889/rtp/232.84.1.168:8982
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/THETHAO_HD_M.png", Bóng đá TV
 http://gg.gg/Hth4nh-VTVCab3HD
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://i.ibb.co/165qscC/VTVCAB16-BEARTV.png",VTVcab16
-http://gg.gg/Hth4nh-VTVCab16
+http://203.162.123.181:21585/vtvcab16/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://i.ibb.co/165qscC/VTVCAB16-BEARTV.png",VTVcab16SD
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w59021678_b2692000.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png", Thể Thao Tin Tức
@@ -46,7 +46,7 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab5_SD.smil/chunklist_w197954383
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/HAY_TV_M.png",VTVcab6 - HayTV
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab6_SD.smil/chunklist_w1979543838_b2692000.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/984/1569832376891.png",VTVcab7 - 02TV
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab7_SD.smil/chunklist_w2130636636_b2692000.m3u8
+http://quocthai.duckdns.org:18886/rtp/232.84.1.26:8130
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/BIBI_M.png",VTVcab8 - BIBI
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab8_SD.smil/chunklist_w819578077_b2692000.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/INFO_TV_M.png",VTVcab9 - InfoTV
@@ -224,11 +224,11 @@ http://thatslife.cf/stream/channelid/1733202655?ticket=B94AC699ADB3505C7860CAE4E
 #EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",Red by HBO
 http://14.186.66.114:8889/rtp/232.84.2.172:10840
 #EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",RedbyHBO2
-http://14.232.176.71:8889/rtp/232.84.3.103:10840
+http://hthanhmedia:kobesanglistkhac3@hthanhmedias.duckdns.org:9981/stream/channelid/1972879274
 #EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",RedbyHBO.FPT
 http://vnptudpxy.trialsonserver.com:8889/rtp/232.84.3.103:10840
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX
-http://14.186.66.114:8889/rtp/232.84.2.139:10654
+http://hthanhmedia:kobesanglistkhac3@hthanhmedias.duckdns.org:9981/stream/channelid/1873299662
 #EXTINF:-1 tvg-id="FOX Canal" group-title="PHIM" tvg-logo="https://www.vhv.rs/dpng/d/438-4382750_file-maxbyhbo-max-by-hbo-logo-hd-png.png",CINEMAX.FPT
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
 #EXTINF:-1 tvg-id="HBO.ASIA" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO.ASIA
@@ -240,7 +240,7 @@ http://quangvinh997.duckdns.org:8889/udp/225.1.4.90:30120
 #EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://aux.iconspalace.com/uploads/19971240062044726999.png", HBO2
 http://quocthai.duckdns.org:18886/rtp/232.84.2.138:10648
 #EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO3
-http://14.186.66.114:8889/rtp/232.84.2.138:10648
+http://hthanhmedia:kobesanglistkhac3@hthanhmedias.duckdns.org:9981/stream/channelid/324664091
 #EXTINF:-1 tvg-id="FOXMovies" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FOXMovies" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES FullHD
