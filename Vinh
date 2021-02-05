@@ -218,7 +218,7 @@ http://thatslife.cf/stream/channelid/113117924?ticket=4614C999B35C3F92EAB38CA4DA
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM
 http://thatslife.cf/stream/channelid/1733202655?ticket=6D1156C90A32ACD39FD1415833EF19BCAECD2654&profile=pass
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png",K+PM.2
-http://hthanhmedia:kobesanglistkhac3@hthanhmedias.duckdns.org:9981/stream/channelid/1122696227
+https://live.quangkv.com/vieon/kpc.m3u8
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png",K+PM.3
 http://thatslife.cf/stream/channelid/1733202655?ticket=B94AC699ADB3505C7860CAE4ECC96D33A8377AC0&profile=pass
 #EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",Red by HBO
@@ -340,9 +340,9 @@ https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="DIS.MY" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="KID",Disney Channel
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.158:30120
 #EXTINF:-1 tvg-id="DIS.MY" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="KID",Disney Channel
-http://vnptudpxy.trialsonserver.com:8889/rtp/232.84.2.143:10678
+http://14.186.66.114:8889/rtp/232.84.2.143:10678
 #EXTINF:-1  group-title="KID" tvg-logo="https://mytv.com.vn/upload/channel/145.png",Disney Junior
-http://14.232.176.71:8889/rtp/232.84.3.200:11122
+http://14.186.66.114:8889/rtp/232.84.3.200:11122
 
 #EXTINF:-1 tvg-id="TV3.TH" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="KÊNH THÁI LAN",ดูทีวีสีช่อง 3(Channel 3)
 https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
