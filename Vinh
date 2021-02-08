@@ -3,11 +3,11 @@
 #EXTM3U url-tvg="http://gg.gg/epgbeartv" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1
-https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
+https://7hb84o28a.vtvgiaitri.vn/vtv01/vtv01@1080p.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2
 https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3
-https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
+https://7hb84o28a.vtvgiaitri.vn/vtv03/vtv03@1080p.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png",VTV4
 https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5
@@ -501,6 +501,17 @@ http://163.172.31.126:2052/portugalpanel3/7546141233/6334
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SPORTTV 5" tvg-logo="https://www.thesportsdb.com/images/media/logo/vvvqxp1470408443.png" group-title="KÊNH THỂ THAO",SPORT.TV5
 http://163.172.31.126:2052/portugalpanel3/7546141233/6335
+
+#EXTINF:0 group-title="IPTV" tvg-logo="https://findicons.com/files/icons/447/apple_tv/128/apple_tv_logo.png", IPTV1
+http://gg.gg/cocak1
+#EXTINF:0 group-title="IPTV" tvg-logo="https://findicons.com/files/icons/447/apple_tv/128/apple_tv_logo.png", IPTV2
+http://gg.gg/cocakns
+#EXTINF:0 group-title="IPTV" tvg-logo="https://findicons.com/files/icons/447/apple_tv/128/apple_tv_logo.png", IPTV3
+http://gg.gg/cocakpc
+#EXTINF:0 group-title="IPTV" tvg-logo="https://findicons.com/files/icons/447/apple_tv/128/apple_tv_logo.png", IPTV4
+http://gg.gg/cocakpm
+#EXTINF:0 group-title="IPTV" tvg-logo="https://findicons.com/files/icons/447/apple_tv/128/apple_tv_logo.png", IPTV5
+http://gg.gg/cocaskynet
 
 #EXTINF:-1 group-title="KÊNH 4K" tvg-logo="https://i.imgur.com/NcbB0IH.png"  tvg-id="ULTRA REX 4K", ULTRA REX 4K
 http://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/playlist.m3u8?utcstart=1572789600&version=2
