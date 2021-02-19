@@ -510,8 +510,8 @@ http://163.172.31.126:2052/portugalpanel3/7546141233/6335
 
 #EXTINF:0 group-title="IPTV" tvg-logo="https://findicons.com/files/icons/447/apple_tv/128/apple_tv_logo.png", IPTV1
 https://fr-1.galaxyott.com/viettv24/streamer/vpoptv/liveChannel/vpoptv/chunks.m3u8
-#EXTINF:0 group-title="IPTV" tvg-logo="https://findicons.com/files/icons/447/apple_tv/128/apple_tv_logo.png", IPTV2
-http://gg.gg/cocakns
+#EXTINF:0 group-title="IPTV" tvg-logo="https://findicons.com/files/icons/447/apple_tv/128/apple_tv_logo.png", FOXMOVIES.TEST
+https://106bec9d8.vws.vegacdn.vn/ff806051c953020641cca9be2630d3e5b14b3f81/1613794741/cliptv_live/amlst:foxmovieshd/chunklist_b3620000.m3u8
 #EXTINF:0 group-title="IPTV" tvg-logo="https://findicons.com/files/icons/447/apple_tv/128/apple_tv_logo.png", IPTV3
 http://gg.gg/cocakpc
 #EXTINF:0 group-title="IPTV" tvg-logo="https://findicons.com/files/icons/447/apple_tv/128/apple_tv_logo.png", IPTV4
