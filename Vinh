@@ -176,33 +176,33 @@ https://livecdn.fptplay.net/sdc/danang1_2000.stream/chunklist.m3u8?token=eyJzZXJ
 https://livecdn.fptplay.net/sdc/danang2_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SCTV1" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-N7N00xEzwdk/WseTQ4JIZAI/AAAAAAAAD54/3CBRPE78BnARomYiVfxbMN2cMgR8G4o5gCLcBGAs/h1200/s1.png", SCTV1 HD - Hài
-http://sctv24:hthanh123@hthanhmedias.duckdns.org:9981/stream/channelid/881892860?ticket=3E583A5F26E195B937D25BD70E179391A27B9498&profile=pass
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV1HD.m3u8
 #EXTINF:-1 tvg-id="SCTV2" group-title="SCTV"  tvg-logo="https://lh3.googleusercontent.com/-HyWyqwjY-lg/VpxAtKW1hyI/AAAAAAAAASI/nrmf7GUpaGA/h120/sctv2.png",SCTV 2 SD - AMC
-https://vtsstr3.tv24.vn:443/elive/_definst_/smil:sctv2_HD.smil/chunklist_w622625091_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV2.m3u8
 #EXTINF:-1 tvg-id="SCTV3" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-jMpzSXJIep8/VpxAtc46-9I/AAAAAAAAASA/FMAJPNZEqFA/h120/sctv3.png",SCTV 3 HD - See TV
-https://vtsstr3.tv24.vn:443/elive1/_definst_/smil:SCTVHDThieunhi.smil/chunklist_w1836308439_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV3HD.m3u8
 #EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-utxIOmo3B18/VpxAtTWv_mI/AAAAAAAAASM/MtNZuLFFTVc/h120/sctv4.png",SCTV 4 HD - Giải Trí
-https://vtsstr3.tv24.vn:443/elive1/_definst_/smil:SCTV_HD_GiaiTri.smil/chunklist_w527648452_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV4.m3u8
 #EXTINF:-1 tvg-id="SCTV5" group-title="SCTV" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/7/70/SCJ_Life_On.png/revision/latest?cb=20200409034405&path-prefix=vi", SCTV5 - SCJ Online
-https://vtsstr3.tv24.vn:443/elive/_definst_/SCTV5_SD.smil/chunklist_w5108179_b2292000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV5.m3u8
 #EXTINF:-1 tvg-id="SCTV6" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-aRJdZbAiOQA/VpxAuVmP4fI/AAAAAAAAASk/LuG4KBWvhnQ/h120/sctv6.png",SCTV 6 HD - SNTV Thế Hệ Mới
-https://vtsstr3.tv24.vn:443/elive1/_definst_/smil:SCTV6HD.smil/chunklist_w619062875_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV6HD.m3u8
 #EXTINF:-1 tvg-id="SCTV7" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-SCFBwogpr2Y/VpxAuIsVb6I/AAAAAAAAASc/Yw5wPfeKj6Y/h120/sctv7.png",SCTV 7 HD - SHOW Sân Khấu
-https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV_HD_SanKhau.smil/chunklist_w77415307_b2692000.m3u8
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV7.m3u8
 #EXTINF:-1 tvg-id="SCTV8" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-UXe14uvM6eA/VpxAuT-C_vI/AAAAAAAAASo/d0m-l9-jUtQ/h120/sctv8.png",SCTV 8 HD - VITV Kinh Tế
-https://vtsstr3.tv24.vn:443/elive/_definst_/smil:SCTV8_SD.smil/chunklist_w2122706753_b2292000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV8.m3u8
 #EXTINF:-1 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944648887.png", SCTV9 - Phim TVB
-https://vtsstr3.tv24.vn:443/elive/_definst_/smil:SCTV_HD_PhimChauA.smil/chunklist_w139057443_b1692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV9HD.m3u8
 #EXTINF:-1 tvg-id="SCTV10" group-title="SCTV" tvg-logo="https://mytv.com.vn/upload/channel/17.png", SCTV10 - VTV HUYNDAI
-https://vtsstr3.tv24.vn:443/elive1/_definst_/smil:sctv10_SD.smil/chunklist_w1121895919_b2292000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV10.m3u8
 #EXTINF:-1 tvg-id="SCTV11" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-5bv8j-MLqqc/VpxArWqkXpI/AAAAAAAAARQ/D11xqjvTV3A/h120/sctv11.png",SCTV 11 HD - TVStar
-https://vtsstr6.tv24.vn/live/_definst_/smil:SCTVVHNT_HD.smil/chunklist_w77415307_b2692000.m3u8
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV11HD.m3u8
 #EXTINF:-1 tvg-id="SCTV12" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-0gNulvNwq_U/WseYP7XMBCI/AAAAAAAAD68/ikdeNNP2QkcQry2mhmagDcSe4fYG_f-8QCLcBGAs/h300/S12.png", SCTV12 HD - Du Lịch
-https://vtsstr3.tv24.vn:443/elive/_definst_/smil:SCTV12_HD.smil/chunklist_w736153104_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV12HD.m3u8
 #EXTINF:-1 tvg-id="SCTV13" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-GUtfmpUWAmM/WseYFaiUZhI/AAAAAAAAD64/pljxiaASby8qVw34njCsmwdQa7VvPLJKwCLcBGAs/h300/s13.png", SCTV13 HD - Lady TV
-https://vtsstr3.tv24.vn:443/elive1/_definst_/smil:SCTVHDPhunuGiadinh.smil/chunklist_w84697128_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV13.m3u8
 #EXTINF:-1 tvg-id="SCTV16" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-9Bw4SgHcj2M/WseYksiv6tI/AAAAAAAAD7E/_rlL_mEWfD0Qf9aLdbyR5sDAhdv89muWQCLcBGAs/h300/s14.png", SCTV14 HD - Kênh Phim Việt
-https://vtsstr1.tv24.vn/live/_definst_/smil:SCTV_HD_PhimViet.smil/chunklist_w77415307_b2692000.m3u8
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV14.m3u8
 #EXTINF:-1 tvg-id="SCTV15" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-1bmdnBSIk88/WpOHchHFhZI/AAAAAAAAD0E/oonOArz9dOkZaackkFEuXNT9fF4k6mIvwCEwYBhgL/h350/s15-hd-kbg.png", SCTV15 HD - Ssport 2
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_TheThao.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 tvg-id="SCTV16" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV16.png", SCTV16 HD - Phim Nước Ngoài
