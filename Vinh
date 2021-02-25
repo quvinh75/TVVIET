@@ -30,7 +30,7 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD_new1.smil/chunklist_w2130
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt2
 http://14.189.228.108:4022/rtp/232.84.1.168:8982
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://i.postimg.cc/tgbcjg8c/vtvcab3-thethaohd.png",VTVcab3 - Thể thao TV
-http://hthanhmediaSV:kodanlainguonnhe!3@hthanhmediavip.duckdns.org:9981/stream/channelid/1053468249
+http://thatslife.cf/stream/channelid/2003821428?ticket=D7266C9B0F53EA127704D4DD52D79DE7938209AD&profile=pass
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/194.png", VTVcab 4 - Văn hóa
 http://14.189.228.108:4022/rtp/232.84.2.190:10924
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/194.png", VTVcab 4 - Văn hóa
@@ -218,8 +218,8 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist_w8358766
 #EXTINF:-1 tvg-id="SCTV22" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b0/Biểu_trưng_SCTV.png", SCTV22 HD - Ssport 1
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
-#EXTINF:-1 group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM
-http://thatslife.cf/stream/channelid/1429660192?ticket=B7AFF8FDE454ACDA46D708E89DB0ADBE83FDDD72&profile=pass
+#EXTINF:-1 group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png",K+PM
+http://thatslife.cf/stream/channelid/1923225363?ticket=473608DDD8B98249DE9D15DF3F8CDC9FF75C0DC3&profile=pass
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png",K+PM.2
 http://thatslife.cf/stream/channelid/1233460779?ticket=6678E3C9CED0D650E74DD7A74517F440DC0F0322&profile=pass
 #EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",Red by HBO
