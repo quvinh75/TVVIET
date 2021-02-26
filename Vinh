@@ -225,9 +225,9 @@ http://thatslife.cf/stream/channelid/1233460779?ticket=6678E3C9CED0D650E74DD7A74
 #EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",Red by HBO
 http://14.189.228.108:4022/rtp/232.84.2.172:10840
 #EXTINF:-1 group-title="PHIM"tvhttp://14.176.37.182:4022/rtpttps://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",RedbyHBO.FPT
-http://vnptudpxy.trialsonserver.com:8889/rtp/232.84.3.103:10840
+http://quocthai.duckdns.org:18886/rtp/232.84.2.172:10840
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX
-http://14.189.228.108:4022/rtp/232.84.2.139:10654
+http://quocthai.duckdns.org:18886/rtp/232.84.2.139:10654
 #EXTINF:-1 tvg-id="FOX Canal" group-title="PHIM" tvg-logo="https://www.vhv.rs/dpng/d/438-4382750_file-maxbyhbo-max-by-hbo-logo-hd-png.png",CINEMAX.FPT
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
 #EXTINF:-1 tvg-id="HBO.ASIA" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO.ASIA
