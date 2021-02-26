@@ -224,7 +224,7 @@ http://thatslife.cf/stream/channelid/1923225363?ticket=473608DDD8B98249DE9D15DF3
 http://thatslife.cf/stream/channelid/1233460779?ticket=6678E3C9CED0D650E74DD7A74517F440DC0F0322&profile=pass
 #EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",Red by HBO
 http://14.189.228.108:4022/rtp/232.84.2.172:10840
-#EXTINF:-1 group-title="PHIM"tvhttp://14.176.37.182:4022/rtpttps://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",RedbyHBO.FPT
+#EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",RedbyHBO.FPT
 http://quocthai.duckdns.org:18886/rtp/232.84.2.172:10840
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX
 http://quocthai.duckdns.org:18886/rtp/232.84.2.139:10654
@@ -239,7 +239,7 @@ http://quangvinh997.duckdns.org:8889/udp/225.1.4.90:30120
 #EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://aux.iconspalace.com/uploads/19971240062044726999.png", HBO2
 http://quocthai.duckdns.org:18886/rtp/232.84.2.138:10648
 #EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO3
-http://14.189.228.108:4022/udp/232.84.2.138:10648
+http://14.189.228.108:4022/rtp/232.84.2.138:10648
 #EXTINF:-1 tvg-id="FOXMovies" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FOXMovies" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES FullHD
