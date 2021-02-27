@@ -241,11 +241,11 @@ http://quangvinh997.duckdns.org:8889/udp/225.1.4.90:30120
 #EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://aux.iconspalace.com/uploads/19971240062044726999.png", HBO2
 http://quocthai.duckdns.org:18886/rtp/232.84.2.138:10648
 #EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO3
-http://14.189.228.108:4022/rtp/232.84.2.138:10648
+http://14.161.172.232:8889/rtp/232.84.2.138:10648
 #EXTINF:-1 tvg-id="FOXMovies" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FOXMovies" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES FullHD
-http://14.189.228.108:4022/rtp/232.84.1.77:8436
+http://14.161.172.232:8889/rtp/232.84.1.77:8436
 #EXTINF:0 tvg-id="fox_movies" group-title="PHIM" tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png",FOX Movies HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="foxmovieshd" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" ,FOX FAMILY MOVIES
@@ -276,13 +276,13 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/50.png" group-title="KÊNH QUỐC TẾ",NHK WORLD JAPAN
-http://14.189.228.108:4022/rtp/232.84.1.72:8406
+http://14.161.172.232:8889/rtp/232.84.1.72:8406
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6371630_preview.png" group-title="KÊNH QUỐC TẾ",CNN
 https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6371630_preview.png" group-title="KÊNH QUỐC TẾ",CNN.FullHD
-http://14.189.228.108:4022/udp/232.84.3.153:10690
+http://14.161.172.232:8889/udp/232.84.3.153:10690
 #EXTINF:-1  tvg-logo="https://mytv.com.vn/upload/channel/146.png" group-title="KÊNH QUỐC TẾ",CNA
-http://14.189.228.108:4022/rtp/232.84.2.55:10540
+http://14.161.172.232:8889/rtp/232.84.2.55:10540
 #EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="KÊNH QUỐC TẾ",Global News
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="KÊNH QUỐC TẾ",CBS
@@ -408,6 +408,9 @@ https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-3-1072.png",TRUE SPORT HD 3
 https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png",SKYNET.SPORT
+http://newhostshare.ddns.net:9981/stream/service/4e5c0539c647b1fdffffe11ca690e516?ticket=f90e4e2233921e7999148e4d5361ef14163cbe4c
+
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png", SERIE A 1
 http://livecdn.fptplay.net/tvc/seriea01_2000.stream/playlist.m3u8
