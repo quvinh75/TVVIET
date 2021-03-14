@@ -252,9 +252,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="foxmovieshd" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" ,FOX FAMILY MOVIES
 https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="foxmovieshd" group-title="PHIM" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/46/29/f4/4629f4a1-0af2-f34e-c161-4253e8374bd0/source/256x256bb.jpg", BOX MOVIE
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/1534929035
+http://hthanhmedia:kocopyshare@ht-sporttv.duckdns.org:9981/stream/channelid/1534929035
 #EXTINF:-1 tvg-id="foxmovieshd" group-title="PHIM" tvg-logo="https://i.pinimg.com/originals/7f/d3/2b/7fd32b6ebfa4d4fdb363eaff298c2e08.jpg", Hollywood Classics
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/211667027
+http://hthanhmedia:kocopyshare@ht-sporttv.duckdns.org:9981/stream/channelid/211667027
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png", HBOXtreme
 http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35258
 #EXTINF:-1 tvg-id="ParamountHD"  group-title="PHIM" tvg-logo="http://img.hplus.com.vn/226x127/poster/2020/08/03/744316-Paramount-xanh-fix.png",Paramount Network
