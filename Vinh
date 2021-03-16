@@ -414,6 +414,20 @@ https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png",SKYNET.SPORT
 http://newhostshare.ddns.net:9981/stream/service/4e5c0539c647b1fdffffe11ca690e516?ticket=f90e4e2233921e7999148e4d5361ef14163cbe4c
 
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/stations/a598.png",DIGI Sport 1
+http://188.26.201.255:88/stream/channelid/930150988?ticket=3859703D3534A8905E1FEEA2C42508F05602F8F7&profile=pass
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/stations/a598.png",DIGI Sport 2
+http://188.26.201.255:88/stream/channelid/636004607?ticket=C4E111132F5E8788026042B798D5185F96D72D98&profile=pass
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/stations/a598.png",DIGI Sport 3
+http://188.26.201.255:88/stream/channelid/636004607?ticket=C4E111132F5E8788026042B798D5185F96D72D98&profile=pass
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/stations/a598.png",DIGI Sport 4
+http://188.26.201.255:88/stream/channelid/666118662?ticket=E769526C506A28B62B3136F569A553DF58C63F0B&profile=pass
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://archive.org/services/img/Eurosport1Hd",Eurosport 1 HD
+http://188.26.201.255:88/stream/channelid/126373844?ticket=A8A82347628DAD3A6B92FAD6E9723C1D11E78D60&profile=pass
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://archive.org/services/img/Eurosport1Hd",Eurosport 2 HD
+http://188.26.201.255:88/stream/channelid/2077319665?ticket=69CB65276829E1B3728FF6E86D2B6D01F1710F0C&profile=pass
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text-thumbnail.png",FightBox
+http://188.26.201.255:88/stream/channelid/1317966385?ticket=4D55811BE26C99D7BA9952B0868E298EEB4112FC&profile=pass
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png", SERIE A 1
 http://livecdn.fptplay.net/tvc/seriea01_2000.stream/playlist.m3u8
