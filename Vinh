@@ -426,8 +426,6 @@ http://188.26.201.255:88/stream/channelid/666118662?ticket=E769526C506A28B62B313
 http://188.26.201.255:88/stream/channelid/126373844?ticket=A8A82347628DAD3A6B92FAD6E9723C1D11E78D60&profile=pass
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://archive.org/services/img/Eurosport1Hd",Eurosport 2 HD
 http://188.26.201.255:88/stream/channelid/2077319665?ticket=69CB65276829E1B3728FF6E86D2B6D01F1710F0C&profile=pass
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text-thumbnail.png",FightBox
-http://188.26.201.255:88/stream/channelid/1317966385?ticket=4D55811BE26C99D7BA9952B0868E298EEB4112FC&profile=pass
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsbank.net/wp-content/uploads/2020/05/serie-a.png", SERIE A 1
 http://livecdn.fptplay.net/tvc/seriea01_2000.stream/playlist.m3u8
