@@ -20,7 +20,7 @@ https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png",VTV9
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png",VTV1FULHD
-http://14.233.182.36:8889/udp/232.84.1.117:10254
+http://14.169.59.87:8889/udp/232.84.1.117:10254
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/3.png",VTV3FULLHD
 http://14.189.228.108:4022/udp/232.84.1.118:10260
 
@@ -119,7 +119,7 @@ https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="http://img.btv.org.vn:81/upload/vod/25032020/1585128658_btv11.png",BTV 11
 https://livecdn.fptplay.net/sda/btv11_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://apprecs.org/ios/images/app-icons/256/70/665609072.jpg",MyTV Service.801
-http://14.189.228.108:4022/rtp/232.84.2.175:10858
+http://14.169.59.87:8889/rtp/232.84.2.175:10858
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://apprecs.org/ios/images/app-icons/256/70/665609072.jpg",MyTV Service.802
 http://14.189.228.108:4022/rtp/232.84.2.176:10864
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://apprecs.org/ios/images/app-icons/256/70/665609072.jpg",MyTV Service.803
@@ -234,7 +234,7 @@ http://14.189.228.108:4022/rtp/232.84.2.139:10654
 #EXTINF:-1 tvg-id="FOX Canal" group-title="PHIM" tvg-logo="https://www.vhv.rs/dpng/d/438-4382750_file-maxbyhbo-max-by-hbo-logo-hd-png.png",CINEMAX.FPT
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
 #EXTINF:-1 tvg-id="HBO.ASIA" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO.ASIA
-http://14.233.182.36:8889/rtp/232.84.2.138:10648
+http://14.169.59.87:8889/rtp/232.84.2.138:10648
 #EXTINF:0 tvg-id="HBO(NoSub)" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO(NoSub)
 http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO1
