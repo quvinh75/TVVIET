@@ -338,6 +338,8 @@ https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chun
 http://14.169.59.87:8889/rtp/232.84.3.194:11086
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="KÊNH QUỐC TẾ",Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/VHD.png" group-title="KÊNH QUỐC TẾ",[V] HD
+http://14.169.59.87:8889/rtp/232.84.2.132:9588
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/182/465/png-transparent-mtv-logo-tv-television-music-video-others-miscellaneous-television-text.png" group-title="KÊNH QUỐC TẾ",MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://img.wattpad.com/useravatar/MTV-Network.256.903381.jpg" group-title="KÊNH QUỐC TẾ",MTV Spankin' New
