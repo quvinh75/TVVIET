@@ -476,6 +476,19 @@ https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png",SKYNET.SPORT
 http://newhostshare.ddns.net:9981/stream/service/4e5c0539c647b1fdffffe11ca690e516?ticket=f90e4e2233921e7999148e4d5361ef14163cbe4c
 
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://en.apkshki.com/storage/4372/icon_5f1053202d991_4372_w256.png",BEIN.SPORT
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/4156.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://en.apkshki.com/storage/4372/icon_5f1053202d991_4372_w256.png",BEIN.SPORT1
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/9210.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://en.apkshki.com/storage/4372/icon_5f1053202d991_4372_w256.png",BEIN.SPORT2
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/2432.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://epg.iptvx.one/icn/bein-sport-2-fr.png",BEIN.SPORT2.Primium
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/665018215.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="http://kbbpf.lescigales.org/Logos/BEIN-SPORTS-3.HD.png",BEIN.SPORT3.Primium
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/665018216.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://en.apkshki.com/storage/4372/icon_5f1053202d991_4372_w256.png",BEIN.SPORT6
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/665019579.m3u8
+
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/stations/a598.png",DIGI Sport 1
 http://188.26.201.255:88/stream/channelid/930150988?ticket=3859703D3534A8905E1FEEA2C42508F05602F8F7&profile=pass
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/stations/a598.png",DIGI Sport 2
