@@ -531,15 +531,17 @@ https://livecdn.fptplay.net/footballassociation/facup09_2000.stream/chunklist.m3
 https://livecdn.fptplay.net/footballassociation/facup10_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png", ESPN 1
-https://gma2.blab.email/fs2.m3u8
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/5398.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png", ESPN 2
-https://gma2.blab.email/espn2.m3u8
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/5399.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png", ESPN 3
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/5400.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png", ESPN  Deportes
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/5401.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Espnnews.png", ESPN NEWS
 https://tv4.live/api/stream/sohapo8939@combcub.com/536874/livetv.epg/espn.news.us.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png", ESPN U
-https://tv4.live/api/stream/sohapo8939@combcub.com/536874/livetv.epg/espn.u.us.m3u8
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/5402.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_ASSP1.png/400px-Astro_ASSP1.png" group-title="KÊNH THỂ THAO",Astro SuperSport
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
@@ -551,11 +553,11 @@ http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/1280px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title="KÊNH THỂ THAO", Sky Sports Football
-http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/4211.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/TR0gwRh/SKYEPL-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sports Premier League
-http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/4213.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sports F1
-http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/4180.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="KÊNH THỂ THAO",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
