@@ -368,20 +368,78 @@ http://14.169.59.87:8889/rtp/232.84.2.143:10678
 #EXTINF:-1  group-title="KID" tvg-logo="https://mytv.com.vn/upload/channel/145.png",Disney Junior
 http://14.169.59.87:8889/rtp/232.84.3.200:11122
 
-#EXTINF:-1 tvg-id="TV3.TH" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="KÊNH THÁI LAN",ดูทีวีสีช่อง 3(Channel 3)
-https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TV5.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png" group-title="KÊNH THÁI LAN",ททบ. 5(Channel 5)
-https://tc-live1.sanook.com/live/22302_ch5.m3u8
-#EXTINF:-1 tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="KÊNH THÁI LAN",ช่อง 7(Channel 7)
-https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
-#EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="KÊNH THÁI LAN",Workpoint
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WPTV.m3u8
-#EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/one31.png" group-title="KÊNH THÁI LAN",ONE 31
-http://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH THÁI LAN" tvg-logo="http://www.thairath.co.th/assets/2017/img/logo-tv.png",Thairath HD
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="KÊNH THÁI LAN" tvg-logo="http://thaiip.tv/tvlogo2/series.jpg",Series(TH)
-http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/tv5.png?rev=8",TV5 HD
+http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/nbt.png?rev=8",NBT
+http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/thaipbs.png?rev=8",Thai PBS HD
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/altv.png?rev=8",ALTV HD
+https://iptv36.my.to/altv.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/workpoint.png?rev=8",Workpoint TV Backup
+http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/pptv.png?rev=8",PPTV HD [NO HW+] Backup
+https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/ch7.png?rev=8",CH7 Backup
+http://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/ch8.png?rev=8",CH8 HD Backup
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/mono29.png?rev=8",MONO29 HD Backup
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/tptv.png?rev=8",TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/one.png?rev=8",ONE HD Backup
+http://live2.dootvde.com/live/50022_one_hd.stream.smil/playist.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/thairath.png?rev=8",Thairath TV HD [NO HW+] Backup
+https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/ch3.png?rev=8",CH3 HD Backup
+http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/amarin.png?rev=8",Amarin TV HD Backup
+http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/gmm25.png?rev=8",GMM25 Backup
+http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/tnn16.png?rev=8",TNN16 HD
+https://iptv36.netlify.app/api/true?channel=tnn16hd
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/psi.png?rev=8",PSI Saradee HD
+http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/new18.png?rev=8",NEW 18 HD
+https://stream-03.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL547KLqHPBl27ZR6Ywb0_jeU0)/dm/3/x7kx5i7/s/live-4.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/m.png?rev=8",M Channel
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist_w142679599.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/cartoonclub.png?rev=8",Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/voice.png?rev=8",Voice TV HD
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist_w142679599.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/nation.png?rev=8",Nation TV HD
+https://stream-02.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSexO7H3BoaQJUiP4nL6mXuI)/dm/3/x6eoldf/d/live-3.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/workpoint.png?rev=8",Workpoint TV HD
+https://stream-01.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8rFpoD0RFtZxLX_8Mlu4nsM)/dm/3/x6g9qjj/s/live-3.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/true4u.png?rev=8",True4U HD
+https://iptv36.netlify.app/api/true?channel=true4uhd
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/gmm25.png?rev=8",GMM25 HD
+https://stream-05.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_VlExLS3Rgu8QYCz0WDL1Bo)/dm/3/x6rz4t7/s/live-4.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/tvb.png?rev=8",TVB Thai HD
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/ch8.png?rev=8",CH8 HD
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/mono29.png?rev=8",MONO29 HD Soundtrack
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080EN.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/mono29.png?rev=8",MONO29 HD
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/mcot.png?rev=8",MCOT HD 
+https://stream-01.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xqeshWydyhpCdL6Q8oBVeh4)/dm/3/x74wlgj/s/live-4.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/one.png?rev=8",ONE HD
+https://iptv36.my.to/one.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/thairath.png?rev=8",Thairath TV HD
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/ch3.png?rev=8",CH3 HD
+http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/amarin.png?rev=8",Amarin TV HD
+https://stream-04.sg1.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW43M8y4WiWAR4mfGWrND6WQ)/dm/3/x7z8zsu/s/live-4.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/ch7.png?rev=8",CH7 HD
+https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
+#EXTINF:-1 group-title="Kênh Thái Lan" tvg-logo="https://iptv36.my.to/logo/pptv.png?rev=8",PPTV HD
+https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1
 https://stream1.xn--l3cm7a5azd.live/02_PremierHD1_720p/chunklist.m3u8
@@ -473,9 +531,9 @@ https://livecdn.fptplay.net/footballassociation/facup09_2000.stream/chunklist.m3
 https://livecdn.fptplay.net/footballassociation/facup10_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png", ESPN 1
-https://tv4.live/api/stream/sohapo8939@combcub.com/536874/livetv.epg/espn.us.m3u8
+https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png", ESPN 2
-https://tv4.live/api/stream/sohapo8939@combcub.com/536874/livetv.epg/espn2.us.m3u8
+https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png", ESPN  Deportes
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Espnnews.png", ESPN NEWS
