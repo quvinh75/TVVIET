@@ -501,14 +501,11 @@ http://hotiptv.site:8080/zkby2013/1d469e6d9e42/3606
 http://securepoint.io:83/live/promo/promo/143036.ts
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://images.o2.cz/_pub/dc/3d/a7/647601_1532746_O2_premier_sport_logo_v1_250x150.png", Premier Sport 1
-
+http://securepoint.io:83/live/promo/promo/382466.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://images.o2.cz/_pub/dc/3d/a7/647601_1532746_O2_premier_sport_logo_v1_250x150.png", Premier Sport 2
-
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://images.o2.cz/_pub/dc/3d/a7/647601_1532746_O2_premier_sport_logo_v1_250x150.png", Premier Sport 3
-
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://images.o2.cz/_pub/dc/3d/a7/647601_1532746_O2_premier_sport_logo_v1_250x150.png", Premier Sport 4
-
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://images.o2.cz/_pub/dc/3d/a7/647601_1532746_O2_premier_sport_logo_v1_250x150.png", Premier Sport 5
+http://securepoint.io:83/live/promo/promo/309582.ts
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://images.o2.cz/_pub/dc/3d/a7/647601_1532746_O2_premier_sport_logo_v1_250x150.png", Premier Sport LaLiga
+http://securepoint.io:83/live/promo/promo/382405.ts
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png", ESPN 1
 http://securepoint.io:83/live/promo/promo/387259.ts
