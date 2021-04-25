@@ -127,7 +127,7 @@ http://14.189.228.108:4022/rtp/232.84.2.175:10858
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://apprecs.org/ios/images/app-icons/256/70/665609072.jpg",MyTV Service.802
 http://14.169.59.87:8889/rtp/232.84.2.176:10864
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://apprecs.org/ios/images/app-icons/256/70/665609072.jpg",MyTV Service.803
-http://14.169.59.87:8889/rtp/232.84.2.195:10954
+http://14.232.214.220:8888/udp/232.84.2.195:10954
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://apprecs.org/ios/images/app-icons/256/70/665609072.jpg",MyTV Service.804
 http://14.185.28.162:2806/rtp/232.84.2.196:10960
 
