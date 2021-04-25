@@ -61,7 +61,7 @@ http://14.169.59.87:8889/rtp/232.84.1.138:8802
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/YEAH1_TV_M.png",VTVcab17 - Yeah1 TV
 http://14.169.59.87:8889/rtp/232.84.1.217:9276
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/tvshows/CBG2/THETHAO_TINTUC_HD_M.jpg",VTVcab18 - Tin tức Thể thao
-http://14.169.59.87:8889/rtp/232.84.2.193:10942
+http://14.232.214.220:8888/rtp/232.84.2.193:10942
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/FILM_TV_M.png",VTVcab19 - Film TV
 http://14.169.59.87:8889/rtp/232.84.1.169:8988
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/VFAMILY_M.png",VTVcab20 - V Family
