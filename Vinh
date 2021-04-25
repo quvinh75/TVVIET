@@ -127,7 +127,7 @@ http://14.189.228.108:4022/rtp/232.84.2.175:10858
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://apprecs.org/ios/images/app-icons/256/70/665609072.jpg",MyTV Service.802
 http://14.169.59.87:8889/rtp/232.84.2.176:10864
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://apprecs.org/ios/images/app-icons/256/70/665609072.jpg",MyTV Service.803
-http://14.232.214.220:8888/udp/232.84.2.195:10954
+http://14.232.214.220:8888/rtp/232.84.2.195:10954
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://apprecs.org/ios/images/app-icons/256/70/665609072.jpg",MyTV Service.804
 http://14.185.28.162:2806/rtp/232.84.2.196:10960
 
@@ -142,7 +142,7 @@ https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="HTV4" group-title="VIETNAMTV" tvg-logo="https://i.postimg.cc/LSvDpMKV/htvkey.png", HTV Key
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="HTV7" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/8986847-logo-htv7a.png", HTV7
-http://14.169.59.87:8889/udp/232.84.1.223:9312
+http://14.232.214.220:8888/udp/232.84.1.223:9312
 #EXTINF:-1 tvg-id="HTV9" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/2931478-logo-htv9a.png", HTV9
 https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZkUUWWN.png" group-title="VIETNAMTV", HTV THỂ THAO 
