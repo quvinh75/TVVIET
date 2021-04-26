@@ -333,7 +333,7 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" group-title="KÊNH QUỐC TẾ",FashionTV
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FashionTV HD" tvg-name="Fashion TV HD" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" group-title="KÊNH QUỐC TẾ",FTV FHD
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="KÊNH QUỐC TẾ",Fashion Destination
 http://36.37.252.114:888/Apple/OneTV-059/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" group-title="KÊNH QUỐC TẾ",FashionTV UDP
@@ -516,21 +516,12 @@ https://tv4.live/api/stream/sohapo8939@combcub.com/536874/livetv.epg/espn.news.u
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png", ESPN U
 https://gma2.blab.email/espnu.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_ASSP1.png/400px-Astro_ASSP1.png" group-title="KÊNH THỂ THAO",Astro SuperSport
-http://securepoint.io:83/live/promo/promo/364352.ts
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport
 http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="KÊNH THỂ THAO",Astro SuperSport 2
-http://securepoint.io:83/live/promo/promo/364351.ts
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport 2
 http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-41l9hRneAR0/UgBSg85LszI/AAAAAAAAFmM/DVtdCY9_SFg/s1600/astro+supersport+3+logo+channel.PNG" group-title="KÊNH THỂ THAO",Astro SuperSport 3
-http://securepoint.io:83/live/promo/promo/364350.ts
-#http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport 3
 http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/TRcgqYz/Astro-Super-Sport-4.png",Astro SuperSport 4
-http://securepoint.io:83/live/promo/promo/364349.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png",Astro SuperSport 4
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 
