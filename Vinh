@@ -478,29 +478,23 @@ https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png",SKYNET.SPORT
 http://newhostshare.ddns.net:9981/stream/service/4e5c0539c647b1fdffffe11ca690e516?ticket=f90e4e2233921e7999148e4d5361ef14163cbe4c
 
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://en.apkshki.com/storage/4372/icon_5f1053202d991_4372_w256.png",BEIN.SPORT
-http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/4156.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://en.apkshki.com/storage/4372/icon_5f1053202d991_4372_w256.png",BEIN.SPORT1
-http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/9210.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://en.apkshki.com/storage/4372/icon_5f1053202d991_4372_w256.png",BEIN.SPORT2
-http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/2432.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://epg.iptvx.one/icn/bein-sport-2-fr.png",BEIN.SPORT2.Primium
-http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/665018215.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="http://kbbpf.lescigales.org/Logos/BEIN-SPORTS-3.HD.png",BEIN.SPORT3.Primium
-http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/665018216.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://en.apkshki.com/storage/4372/icon_5f1053202d991_4372_w256.png",BEIN.SPORT6
-http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/665019579.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.tvluch.ru/upload/iblock/363/36322b28140557d22ea655ad2c67a771.jpg",Матч! Футбол 1
+http://iptvh.it/MF1FHD
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.tvluch.ru/upload/iblock/363/36322b28140557d22ea655ad2c67a771.jpg",Матч! Футбол 2
+http://iptvh.it/MF2FHD
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.tvluch.ru/upload/iblock/363/36322b28140557d22ea655ad2c67a771.jpg",Матч! Футбол 3
+http://iptvh.it/MF3FHD
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 1
-http://securepoint.io:83/live/promo/promo/143033.ts
+http://iptvh.it/AS1FHD
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 2
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/263691
+http://iptvh.it/AS2FHD
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://ewsat.com/img/ARENA_SPORT_3.png", ARENA Sport 3
-http://securepoint.io:83/live/promo/promo/342058.ts
+http://iptvh.it/AS3FHD
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 4
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/3606
+http://iptvh.it/AS4FHD
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 5
-http://securepoint.io:83/live/promo/promo/143036.ts
+http://iptvh.it/AS5FHD
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://images.o2.cz/_pub/dc/3d/a7/647601_1532746_O2_premier_sport_logo_v1_250x150.png", Premier Sport 1
 http://securepoint.io:83/live/promo/promo/382466.ts
@@ -583,13 +577,13 @@ https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SPORTTV 5" tvg-logo="https://www.thesportsdb.com/images/media/logo/vvvqxp1470408443.png" group-title="KÊNH THỂ THAO",SPORT.TV5
 https://pcn784ba5wp8rkk.ezcdn462.net:8443/hls/war3u.m3u8?s=7kTJ-wfDULK6vxz8YyGSAQ&e=1619176038
 
-#EXTINF:0 group-title="IPTV" tvg-logo="https://i.imgur.com/A1xZDrV.png", Clarity 4K
+#EXTINF:0 group-title="4K TV" tvg-logo="https://i.imgur.com/A1xZDrV.png", Clarity 4K
 https://d1ilhlah7f9uzc.cloudfront.net/playlist.m3u8
-#EXTINF:0 group-title="IPTV" tvg-logo="https://i.imgur.com/AzOvgkV.png", LOVE Nature 4K
+#EXTINF:0 group-title="4k TV" tvg-logo="https://i.imgur.com/AzOvgkV.png", LOVE Nature 4K
 https://d27r4t30huw0iy.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" group-title="KÊNH QUỐC TẾ",FashionTV.4K
+#EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" group-title="4K TV",FashionTV.4K
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png" group-title="KÊNH QUỐC TẾ",Bloomberg 4K
+#EXTINF:-1 tvg-logo="https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png" group-title="4K TV",Bloomberg 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 group-title="IPTV" tvg-logo="https://findicons.com/files/icons/447/apple_tv/128/apple_tv_logo.png", IPTV3
