@@ -339,9 +339,10 @@ http://36.37.252.114:888/Apple/OneTV-059/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" group-title="KÊNH QUỐC TẾ",FashionTV UDP
 http://14.169.59.87:8889/udp/225.1.2.234:30120
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fMF8xNTU1MDAxNTE0XzA2OQ/screen-0.jpg?fakeurl=1&type=.jpg",MODEL
-https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/index.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fMF8xNTU1MDAxNTE0XzA2OQ/screen-0.jpg?fakeurl=1&type=.jpg",MODEL2
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="",Clubbing TV
 http://14.169.59.87:8889/rtp/232.84.3.194:11086
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="",Clubbing TV2
