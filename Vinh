@@ -226,7 +226,7 @@ https://chungxda.github.io/m3u8/TV24/SCTV/SCTV22HD.m3u8
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png",K+PM
 https://live.quangkv.com/vieon/kns.m3u8
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png",K+PM.2
-http://thatslife.cf/stream/channelid/1053664292?ticket=b5e7b05f72f7692143098278764b63bf1e82f3fa&profile=pass
+http://thatslife.cf/stream/channelid/1053664292?ticket=e3f47d122437de3cb0dc2be6790bec6184935713&profile=pass
 #EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",Red by HBO
 http://14.169.59.87:8889/rtp/232.84.2.172:10840
 #EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",RedbyHBO.FPT
