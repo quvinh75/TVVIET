@@ -323,7 +323,7 @@ https://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://jvtea44x1mh3gctjp1q2nymo-wpengine.netdna-ssl.com/wp-content/uploads/2012/08/BBC-Logo-drsign-Evolution-Story-marketing-facts-1200x630.jpg" group-title="KÊNH QUỐC TẾ",BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/256xn/p07grdrd.jpg" group-title="KÊNH QUỐC TẾ",BBC NEWS
-http://goiptv.co:8080/avatar/fVkKAhhBlr/29699
+http://tv.deluxetv.tvip.xyz:80/gLtM2aiLsZ734/ZGUakZ075/14701
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" group-title="KÊNH QUỐC TẾ",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/g717khX2L4sxX7d9mafhqQ-N2kG8hSLROg37_2isqJZcR2cHAmbX9LapD6k9r4i_z0Sm6GR5CMeELKtsmU_3hYh3lhyoFql3bOyCZnuM_OqDcolSrwLZvwCYmccdzm3smo2rPGRJecQRV1UoMTg2ooT_QzdKJotOBo0a-jRAcma5BLxF7rKC9Pk2" group-title="KÊNH QUỐC TẾ",BBC Lifestyle
@@ -529,7 +529,10 @@ http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/1280px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title="KÊNH THỂ THAO", Sky Sports Football
 http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/899
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/TR0gwRh/SKYEPL-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sports Premier League
+#http://ip.trboss.net:80/dindin/sdfsjfujskrez/3754
 http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/753
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/TR0gwRh/SKYEPL-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sports Premier League2
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/7342
 #EXTINF:-1 tvg-ID="" tvg-logo="https://pbs.twimg.com/profile_images/1293803435389792256/aDSKWuIH_400x400.jpg" group-title="KÊNH THỂ THAO", Sky Sports News
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/3748
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sports F1
