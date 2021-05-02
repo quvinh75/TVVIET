@@ -566,8 +566,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/496
 #https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SPORTTV 2" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="KÊNH THỂ THAO",SPORT.TV2
-#http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/497
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/497
+#https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SPORTTV 3" tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="KÊNH THỂ THAO",SPORT.TV3
 http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/499
 #https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
