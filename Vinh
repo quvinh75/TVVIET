@@ -286,6 +286,8 @@ http://14.169.59.87:8889/rtp/232.84.1.72:8406
 https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6371630_preview.png" group-title="KÊNH QUỐC TẾ",CNN.FullHD
 http://14.169.59.87:8889/udp/232.84.3.153:10690
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6371630_preview.png" group-title="KÊNH QUỐC TẾ",CNN.UK
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/14726
 #EXTINF:-1  tvg-logo="https://mytv.com.vn/upload/channel/146.png" group-title="KÊNH QUỐC TẾ",CNA
 http://14.169.59.87:8889/rtp/232.84.2.55:10540
 #EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="KÊNH QUỐC TẾ",Global News
