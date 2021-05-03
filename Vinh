@@ -542,6 +542,15 @@ http://epiciptvrestreamer.com:8000/stick/stick/40795
 http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/758
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport
 http://tv.deluxetv.tvip.xyz:80/gLtM2aiLsZ734/ZGUakZ075/1479
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport 2
+http://tv.deluxetv.tvip.xyz:80/gLtM2aiLsZ734/ZGUakZ075/1480
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://tbivision.com/files/2019/02/BT-Sport.jpg" group-title="KÊNH THỂ THAO", BT Sport1
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/14657
+#EXTINF:-1 tvg-ID="" tvg-logo="https://tbivision.com/files/2019/02/BT-Sport.jpg" group-title="KÊNH THỂ THAO", BT Sport2
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/14658
+#EXTINF:-1 tvg-ID="" tvg-logo="https://tbivision.com/files/2019/02/BT-Sport.jpg" group-title="KÊNH THỂ THAO", BT Sport3
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/14903
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="KÊNH THỂ THAO",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
