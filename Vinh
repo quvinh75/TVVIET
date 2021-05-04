@@ -488,6 +488,15 @@ http://iptvh.it/MF2FHD
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.tvluch.ru/upload/iblock/363/36322b28140557d22ea655ad2c67a771.jpg",Матч! Футбол 3
 http://iptvh.it/MF3FHD
 
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png",V Sport (Swiss)
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/11567
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png",V Sport Extra
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/14445
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png",V Sport Premium 
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/18226
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png",V Sport UHD 
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/30095
+
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 1
 http://iptvh.it/AS1FHD
 #http://livegamer.org:2086/Dindin/4835928856/28133
