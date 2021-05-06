@@ -507,6 +507,15 @@ http://sbe0dqvw.rostelekom.xyz/iptv/B8U2S3SNL6KCPT/2522/index.m3u
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://p1.hiclipart.com/preview/896/833/81/logo-blue-digi-sport-rcs-rds-electric-blue-png-clipart-thumbnail.jpg",DIGI Sport3
 http://sbe0dqvw.rostelekom.xyz/iptv/B8U2S3SNL6KCPT/2524/index.m3u
 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport 1
+http://sbe0dqvw.rostelekom.xyz/iptv/B8U2S3SNL6KCPT/2478/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport 2
+http://sbe0dqvw.rostelekom.xyz/iptv/B8U2S3SNL6KCPT/2479/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport Extra
+http://sbe0dqvw.rostelekom.xyz/iptv/B8U2S3SNL6KCPT/2492/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport NEWS
+http://sbe0dqvw.rostelekom.xyz/iptv/B8U2S3SNL6KCPT/2477/index.m3u8
+
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 1
 http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/1575
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 2
