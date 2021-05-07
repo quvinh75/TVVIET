@@ -626,10 +626,10 @@ https://raw.githubusercontent.com/quvinh75/TVVIET/master/RM2.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://e7.pngegg.com/pngimages/678/313/png-clipart-rmc-sport-sfr-sport-nextradiotv-others-text-sport-thumbnail.png", RMC Sport 3
 https://raw.githubusercontent.com/quvinh75/TVVIET/master/RM3.m3u8
 
-#EXTINF:0 group-title="4K TV" tvg-logo="https://i.imgur.com/A1xZDrV.png",Clarity 4K
-https://d1ilhlah7f9uzc.cloudfront.net/playlist.m3u8
+#EXTINF:0 group-title="4K TV" tvg-logo="https://cdn.imgbin.com/13/11/11/imgbin-united-kingdom-home-uktv-w-television-channel-united-kingdom-gbwSJuL7dWy8DFJUQBtigANEx.jpg",HOME 4K
+http://31.134.132.242:8080/home4k/mpegts
 #EXTINF:0 group-title="4K TV" tvg-logo="https://i.imgur.com/AzOvgkV.png",LOVE Nature 4K
-https://d27r4t30huw0iy.cloudfront.net/playlist.m3u8
+http://136.243.42.146:1400
 #EXTINF:-1 group-title="4K TV" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png",FashionTV.4K
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="4K TV" tvg-logo="https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",Bloomberg 4K
