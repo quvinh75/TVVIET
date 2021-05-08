@@ -228,7 +228,7 @@ http://14.232.214.220:8888/udp/239.2.100.61:5000
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png",K+PM
 https://live.quangkv.com/vieon/kns.m3u8
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png",K+PM.2
-http://thatslife.cf/stream/channelid/1053664292?ticket=e3f47d122437de3cb0dc2be6790bec6184935713&profile=pass
+http://thatslife.cf/stream/channelid/1414758079?ticket=b869196e540b0eeec3a9c4197e93648ba06d54a7&profile=pass
 #EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",Red by HBO
 http://thanhfpt.duckdns.org:4567/rtp/232.84.2.172:10840
 #EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",RedbyHBO.FPT
