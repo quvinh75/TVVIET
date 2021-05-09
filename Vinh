@@ -510,13 +510,13 @@ https://raw.githubusercontent.com/quvinh75/TVVIET/master/Dig2.m3u8
 https://raw.githubusercontent.com/quvinh75/TVVIET/master/Dig3.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport 1
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4927
+http://147.135.130.72:8011/100200300/100200300/77115
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport 2
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/7342
+http://147.135.130.72:8011/100200300/100200300/77114
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport Extra
 http://sbe0dqvw.rostelekom.xyz/iptv/B8U2S3SNL6KCPT/2492/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport NEWS
-http://sbe0dqvw.rostelekom.xyz/iptv/B8U2S3SNL6KCPT/2477/index.m3u8
+http://147.135.130.72:8011/100200300/100200300/77114
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 1
 http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/1575
