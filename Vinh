@@ -597,20 +597,15 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SPORTTV 1" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="KÊNH THỂ THAO",SPORT.TV1
-https://raw.githubusercontent.com/quvinh75/TVVIET/master/TV1.m3u8
-#https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SPORTTV 2" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="KÊNH THỂ THAO",SPORT.TV2
-https://raw.githubusercontent.com/quvinh75/TVVIET/master/TV2.M3U8
-#https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SPORTTV 3" tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="KÊNH THỂ THAO",SPORT.TV3
-https://raw.githubusercontent.com/quvinh75/TVVIET/master/TV3.m3u8
-#https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SPORTTV 4" tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png" group-title="KÊNH THỂ THAO",SPORT.TV4
-https://raw.githubusercontent.com/quvinh75/TVVIET/master/TV4.m3u8
-#https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SPORTTV 5" tvg-logo="https://www.thesportsdb.com/images/media/logo/vvvqxp1470408443.png" group-title="KÊNH THỂ THAO",SPORT.TV5
-https://raw.githubusercontent.com/quvinh75/TVVIET/master/TV5.m3u8
-#https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEin Sport 1
 http://144.217.253.140/beinsport1/tracks-v1a1/mono.m3u8
