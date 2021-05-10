@@ -286,6 +286,9 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 http://58.65.171.202:8000/play/4334/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV2
 http://89.160.178.236:8080/play/a03j/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV3
+http://tsn.streaming-elbrus.tk:8080/hgtv/video.m3u8?token=iptvin
+
 #http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/50.png" group-title="KÊNH QUỐC TẾ",NHK WORLD JAPAN
 http://14.169.59.87:8889/rtp/232.84.1.72:8406
@@ -504,21 +507,23 @@ http://iptvh.it/MF3FHD
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png",V Sport UHD 
 http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48640
 
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://p1.hiclipart.com/preview/896/833/81/logo-blue-digi-sport-rcs-rds-electric-blue-png-clipart-thumbnail.jpg",DIGI Sport1
-https://raw.githubusercontent.com/quvinh75/TVVIET/master/Dig1.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://p1.hiclipart.com/preview/896/833/81/logo-blue-digi-sport-rcs-rds-electric-blue-png-clipart-thumbnail.jpg",DIGI Sport2
-https://raw.githubusercontent.com/quvinh75/TVVIET/master/Dig2.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://p1.hiclipart.com/preview/896/833/81/logo-blue-digi-sport-rcs-rds-electric-blue-png-clipart-thumbnail.jpg",DIGI Sport3
-https://raw.githubusercontent.com/quvinh75/TVVIET/master/Dig3.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1445.png",MAX Sport1
+http://94.236.201.66:80/MAXSPORT1_HD/index.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1445.png",MAX Sport2
+http://94.236.201.66:80/MAXSPORT2_HD/index.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1445.png",MAX Sport3
+http://94.236.201.66:80/MAXSPORT3_HD/index.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1445.png",MAX Sport4
+http://94.236.201.66:80/MAXSPORT4_HD/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport 1
 http://147.135.130.72:8011/100200300/100200300/77115
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport 2
 http://147.135.130.72:8011/100200300/100200300/77114
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport Extra
-http://sbe0dqvw.rostelekom.xyz/iptv/B8U2S3SNL6KCPT/2492/index.m3u8
+http://185.234.111.37:8880/play/a04w
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport NEWS
-http://147.135.130.72:8011/100200300/100200300/77114
+http://185.234.111.37:8880/play/a056
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 1
 http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/1575
@@ -569,20 +574,6 @@ http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png",Astro SuperSport 4
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_sk1.png" group-title="KÊNH THỂ THAO", Sk Sports KLUB1
-http://91.212.150.248/SK1HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_sk1.png" group-title="KÊNH THỂ THAO", Sk Sports KLUB2
-http://91.212.150.248/SK2HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_sk1.png" group-title="KÊNH THỂ THAO", Sk Sports KLUB3
-http://91.212.150.248/SK3HD/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://tbivision.com/files/2019/02/BT-Sport.jpg" group-title="KÊNH THỂ THAO", BT Sport1
-https://raw.githubusercontent.com/quvinh75/TVVIET/master/BT1.m3u8
-#EXTINF:-1 tvg-logo="https://tbivision.com/files/2019/02/BT-Sport.jpg" group-title="KÊNH THỂ THAO", BT Sport2
-https://raw.githubusercontent.com/quvinh75/TVVIET/master/BT2.m3u8
-#EXTINF:-1 tvg-logo="https://tbivision.com/files/2019/02/BT-Sport.jpg" group-title="KÊNH THỂ THAO", BT Sport3
 
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="KÊNH THỂ THAO",Tennis Channel1
