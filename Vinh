@@ -615,6 +615,8 @@ http://144.217.253.140/beinsport2/tracks-v1a1/mono.m3u8
 http://144.217.253.140/beinsport3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="KÊNH THỂ THAO", BEin Sport 4
 http://144.217.253.140/beinsport4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="KÊNH THỂ THAO", BEin Sport 4
+http://147.50.145.234:4567/xxxx
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://e7.pngegg.com/pngimages/678/313/png-clipart-rmc-sport-sfr-sport-nextradiotv-others-text-sport-thumbnail.png", RMC Sport 1
 https://raw.githubusercontent.com/quvinh75/TVVIET/master/RM1.m3u8
