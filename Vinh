@@ -498,23 +498,6 @@ http://iptvh.it/MF2FHD
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.tvluch.ru/upload/iblock/363/36322b28140557d22ea655ad2c67a771.jpg",Матч! Футбол 3
 http://iptvh.it/MF3FHD
 
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png",V Sport (Swiss)
-
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png",V Sport Extra
-
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png",V Sport Premium 
-
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png",V Sport UHD 
-http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48640
-
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1445.png",MAX Sport1
-http://94.236.201.66:80/MAXSPORT1_HD/index.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1445.png",MAX Sport2
-http://94.236.201.66:80/MAXSPORT2_HD/index.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1445.png",MAX Sport3
-http://94.236.201.66:80/MAXSPORT3_HD/index.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1445.png",MAX Sport4
-http://94.236.201.66:80/MAXSPORT4_HD/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport 1
 http://147.135.130.72:8011/100200300/100200300/77115
@@ -569,11 +552,11 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport
 http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport 2
-http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+http://meu02.cularu.com:8880/YHJL122/3At2wuu5EM/1721
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport 3
 http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png",Astro SuperSport 4
-http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+http://meu02.cularu.com:8880/YHJL122/3At2wuu5EM/1719
 
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="KÊNH THỂ THAO",Tennis Channel1
