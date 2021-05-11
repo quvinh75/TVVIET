@@ -524,6 +524,10 @@ http://iptvh.it/AS5FHD
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://images.o2.cz/_pub/dc/3d/a7/647601_1532746_O2_premier_sport_logo_v1_250x150.png", Premier Sport 1
 http://wagnet.club:7000/test1234/test1234/126
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://images.o2.cz/_pub/dc/3d/a7/647601_1532746_O2_premier_sport_logo_v1_250x150.png", Premier Sport 2
+http://wagnet.club:7000/test1234/test1234/127
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://images.o2.cz/_pub/dc/3d/a7/647601_1532746_O2_premier_sport_logo_v1_250x150.png", Premier Sport LaLiga
+http://wagnet.club:7000/test1234/test1234/646395
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png", ESPN 1
 https://gma2.blab.email/fs2.m3u8
