@@ -553,11 +553,11 @@ http://14.169.59.87:8889/rtp/232.84.2.142:10672
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport
-http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+http://wagnet.club:7000/test1234/test1234/654399
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport 2
 http://meu02.cularu.com:8880/YHJL122/3At2wuu5EM/1721
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport 3
-http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+http://wagnet.club:7000/test1234/test1234/654401
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png",Astro SuperSport 4
 http://meu02.cularu.com:8880/YHJL122/3At2wuu5EM/1719
 
