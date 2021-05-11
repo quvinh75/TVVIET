@@ -197,7 +197,7 @@ http://vtsstr6.tv24.vn:1935/live/SCTV_HD_SanKhau_4/playlist.m3u8?uid=s2c526m574z
 #EXTINF:-1 tvg-id="SCTV8" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-UXe14uvM6eA/VpxAuT-C_vI/AAAAAAAAASo/d0m-l9-jUtQ/h120/sctv8.png",SCTV 8 HD - VITV Kinh Tế
 http://vtsstr6.tv24.vn:1935/live/SCTV8_SD_4/chunklist_w986885603.m3u8
 #EXTINF:-1 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944648887.png", SCTV9 - Phim TVB
-https://chungxda.github.io/m3u8/TV24/SCTV/SCTV9HD.m3u8
+http://mikc.vacovska.cf:1935/live/SCTV_HD_PhimChauA_4/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 tvg-id="SCTV10" group-title="SCTV" tvg-logo="https://mytv.com.vn/upload/channel/17.png", SCTV10 - VTV HUYNDAI
 https://chungxda.github.io/m3u8/TV24/SCTV/SCTV10.m3u8
 #EXTINF:-1 tvg-id="SCTV11" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-5bv8j-MLqqc/VpxArWqkXpI/AAAAAAAAARQ/D11xqjvTV3A/h120/sctv11.png",SCTV 11 HD - TVStar
@@ -259,9 +259,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="foxmovieshd" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" ,FOX FAMILY MOVIES
 https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="BoxMovies" group-title="PHIM" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/46/29/f4/4629f4a1-0af2-f34e-c161-4253e8374bd0/source/256x256bb.jpg", BOX MOVIE
-http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/1534929035
+http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 tvg-id="Holliwood Classic" group-title="PHIM" tvg-logo="https://i.pinimg.com/originals/7f/d3/2b/7fd32b6ebfa4d4fdb363eaff298c2e08.jpg", Hollywood Classics
-http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/211667027
+http://vtsstr1.tv24.vn:1935/live/Hollywood.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png", HBOXtreme
 http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35258
 #EXTINF:-1 tvg-id="ParamountHD"  group-title="PHIM" tvg-logo="http://img.hplus.com.vn/226x127/poster/2020/08/03/744316-Paramount-xanh-fix.png",Paramount Network
