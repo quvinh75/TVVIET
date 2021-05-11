@@ -627,11 +627,17 @@ https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_d
 #EXTINF:-1 group-title="4K TV" tvg-logo="https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",Bloomberg 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 group-title="IPTV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", IPTV3
+#EXTINF:0 group-title="IPTV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", BĐ1
+https://aloka-iptv.xyz:443/live/MEGA-TV5/TELEGRAM/126.ts
+#EXTINF:0 group-title="IPTV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", BĐ2
+https://aloka-iptv.xyz:443/live/MEGA-TV5/TELEGRAM/122.ts
+#EXTINF:0 group-title="IPTV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", BĐ3
+https://aloka-iptv.xyz:443/live/MEGA-TV5/TELEGRAM/127.ts
+#EXTINF:0 group-title="IPTV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", BĐ4
 http://wagnet.club:7000/test1234/test1234/100
-#EXTINF:0 group-title="IPTV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", IPTV4
+#EXTINF:0 group-title="IPTV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", BĐ5
 http://wagnet.club:7000/test1234/test1234/224796
-#EXTINF:0 group-title="IPTV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", IPTV5
+#EXTINF:0 group-title="IPTV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", BĐ6
 http://wagnet.club:7000/test1234/test1234/565479
-#EXTINF:0 group-title="IPTV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", IPTV6
+#EXTINF:0 group-title="IPTV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", BĐ7
 http://wagnet.club:7000/test1234/test1234/126
