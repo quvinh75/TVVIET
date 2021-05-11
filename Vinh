@@ -498,15 +498,18 @@ http://iptvh.it/MF2FHD
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.tvluch.ru/upload/iblock/363/36322b28140557d22ea655ad2c67a771.jpg",Матч! Футбол 3
 http://iptvh.it/MF3FHD
 
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport 1
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", SKY SPORTS PREMIER LEAGUE
+http://akamaizedx.com:80/odair100/odair100/10049552
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport DE 1
 http://147.135.130.72:8011/100200300/100200300/77115
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport 2
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport DE 2
 http://147.135.130.72:8011/100200300/100200300/77114
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport Extra
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", SkySport DE1
 http://185.234.111.37:8880/play/a04w
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport NEWS
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", SkySport DE2
 http://185.234.111.37:8880/play/a056
+
+
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 1
 http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/1575
@@ -591,15 +594,9 @@ http://144.217.253.140/beinsport2/tracks-v1a1/mono.m3u8
 http://144.217.253.140/beinsport3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="KÊNH THỂ THAO", BEin Sport 4
 http://144.217.253.140/beinsport4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="KÊNH THỂ THAO", BEin Sport 4
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="KÊNH THỂ THAO", BEin Sport 5
 http://147.50.145.234:4567/xxxx
 
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://e7.pngegg.com/pngimages/678/313/png-clipart-rmc-sport-sfr-sport-nextradiotv-others-text-sport-thumbnail.png", RMC Sport 1
-https://raw.githubusercontent.com/quvinh75/TVVIET/master/RM1.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://e7.pngegg.com/pngimages/678/313/png-clipart-rmc-sport-sfr-sport-nextradiotv-others-text-sport-thumbnail.png", RMC Sport 2
-https://raw.githubusercontent.com/quvinh75/TVVIET/master/RM2.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://e7.pngegg.com/pngimages/678/313/png-clipart-rmc-sport-sfr-sport-nextradiotv-others-text-sport-thumbnail.png", RMC Sport 3
-https://raw.githubusercontent.com/quvinh75/TVVIET/master/RM3.m3u8
 
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", BĐ1
 https://aloka-iptv.xyz:443/live/MEGA-TV5/TELEGRAM/126.ts
@@ -615,6 +612,12 @@ http://wagnet.club:7000/test1234/test1234/224796
 http://wagnet.club:7000/test1234/test1234/565479
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", BĐ7
 http://wagnet.club:7000/test1234/test1234/126
+#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", BĐ8
+http://akamaizedx.com:80/odair100/odair100/10040678
+#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", BĐ9
+http://akamaizedx.com:80/odair100/odair100/10049565
+#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", BĐ10
+http://akamaizedx.com:80/odair100/odair100/10049564
 
 #EXTINF:0 group-title="4K TV" tvg-logo="https://cdn.imgbin.com/13/11/11/imgbin-united-kingdom-home-uktv-w-television-channel-united-kingdom-gbwSJuL7dWy8DFJUQBtigANEx.jpg",HOME 4K
 http://31.134.132.242:8080/home4k/mpegts
@@ -624,3 +627,5 @@ http://136.243.42.146:1400
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="4K TV" tvg-logo="https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",Bloomberg 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 group-title="4k TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", BĐ4K
+http://akamaizedx.com:80/odair100/odair100/10048330
