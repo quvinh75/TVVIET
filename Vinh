@@ -505,10 +505,9 @@ http://147.135.130.72:8011/100200300/100200300/77115
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sport DE 2
 http://147.135.130.72:8011/100200300/100200300/77114
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", SkySport DE1
-http://185.234.111.37:8880/play/a04w
+http://akamaizedx.com:80/odair100/odair100/10049574
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", SkySport DE2
-http://185.234.111.37:8880/play/a056
-
+http://akamaizedx.com:80/odair100/odair100/10049573
 
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 1
