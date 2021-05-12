@@ -589,8 +589,10 @@ https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a054
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",true Tennis
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="KÊNH THỂ THAO",Tennis
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="KÊNH THỂ THAO",TennisDE1
 http://budtvlight.com:25461/pepe/1234/1617
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="KÊNH THỂ THAO",TennisDE2
+http://budtvlight.com:25461/pepe/1234/2594
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="KÊNH THỂ THAO",SPORT.TV1
 http://akamaizedx.com:80/odair100/odair100/10052991
