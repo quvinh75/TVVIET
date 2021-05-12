@@ -512,15 +512,17 @@ http://185.234.111.37:8880/play/a056
 
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 1
-http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/1575
+http://wagnet.club:7000/test1234/test1234/650082
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 2
-http://iptvh.it/AS2FHD
+http://wagnet.club:7000/test1234/test1234/650083
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://ewsat.com/img/ARENA_SPORT_3.png", ARENA Sport 3
-http://iptvh.it/AS3FHD
+http://wagnet.club:7000/test1234/test1234/650084
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 4
-http://iptvh.it/AS4FHD
+http://wagnet.club:7000/test1234/test1234/650085
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 5
-http://iptvh.it/AS5FHD
+http://wagnet.club:7000/test1234/test1234/650086
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 6
+http://wagnet.club:7000/test1234/test1234/650087
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://images.o2.cz/_pub/dc/3d/a7/647601_1532746_O2_premier_sport_logo_v1_250x150.png", Premier Sport 1
 http://wagnet.club:7000/test1234/test1234/126
@@ -559,7 +561,8 @@ http://meu02.cularu.com:8880/YHJL122/3At2wuu5EM/1721
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport 3
 http://wagnet.club:7000/test1234/test1234/654401
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png",Astro SuperSport 4
-http://meu02.cularu.com:8880/YHJL122/3At2wuu5EM/1719
+http://wagnet.club:7000/test1234/test1234/654402
+#http://meu02.cularu.com:8880/YHJL122/3At2wuu5EM/1719
 
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="KÊNH THỂ THAO",Tennis Channel1
@@ -626,14 +629,20 @@ http://akamaizedx.com:80/odair100/odair100/10052991
 http://akamaizedx.com:80/odair100/odair100/10052988
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", TTTV3
 http://akamaizedx.com:80/odair100/odair100/10052985
+#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", S.EPL
+http://wagnet.club:7000/test1234/test1234/477489
 
 #EXTINF:0 group-title="4K TV" tvg-logo="https://cdn.imgbin.com/13/11/11/imgbin-united-kingdom-home-uktv-w-television-channel-united-kingdom-gbwSJuL7dWy8DFJUQBtigANEx.jpg",HOME 4K
 http://31.134.132.242:8080/home4k/mpegts
 #EXTINF:0 group-title="4K TV" tvg-logo="https://i.imgur.com/AzOvgkV.png",LOVE Nature 4K
 http://136.243.42.146:1400
+#EXTINF:-1 group-title="4K TV" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png",FTV.4K_UDP
+http://quangvinh997.duckdns.org:8889/udp/225.1.2.232:30120
 #EXTINF:-1 group-title="4K TV" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png",FashionTV.4K
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="4K TV" tvg-logo="https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",Bloomberg 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 group-title="4K TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", BĐ4K
 http://akamaizedx.com:80/odair100/odair100/10048330
+#EXTINF:0 group-title="4K TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg", Kênh Sao.2K
+http://akamaizedx.com:80/odair100/odair100/10048426
