@@ -262,8 +262,6 @@ https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
 http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 tvg-id="Holliwood Classic" group-title="PHIM" tvg-logo="https://i.pinimg.com/originals/7f/d3/2b/7fd32b6ebfa4d4fdb363eaff298c2e08.jpg", Hollywood Classics
 http://vtsstr1.tv24.vn:1935/live/Hollywood.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-#EXTINF:-1 group-title="PHIM" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png", HBOXtreme
-http://hplay.xyz:80/cyftwwpz/tlBn98X56e/35258
 #EXTINF:-1 tvg-id="ParamountHD"  group-title="PHIM" tvg-logo="http://img.hplus.com.vn/226x127/poster/2020/08/03/744316-Paramount-xanh-fix.png",Paramount Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CinemaWorld" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="PHIM",CinemaWorld
@@ -488,6 +486,11 @@ https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-3-1072.png",TRUE SPORT HD 3
 https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-3-1072.png",TRUE SPORT HD 4
+http://mantul.biz.id:8888/294/294/11983
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-3-1072.png",TRUE SPORT HD 5
+http://mantul.biz.id:8888/294/294/11984
+
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.pinimg.com/originals/a1/9a/a6/a19aa64d191a64e606488bd14136ce25.png",SKYNET.SPORT
 http://newhostshare.ddns.net:9981/stream/service/4e5c0539c647b1fdffffe11ca690e516?ticket=f90e4e2233921e7999148e4d5361ef14163cbe4c
 
@@ -555,14 +558,21 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport
 http://wagnet.club:7000/test1234/test1234/654399
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport
+http://starshare.live:8080/live/arfat/arfat/5480.ts
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport 2
 http://meu02.cularu.com:8880/YHJL122/3At2wuu5EM/1721
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport 2
+http://starshare.live:8080/live/arfat/arfat/5481.ts
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport 3
 http://wagnet.club:7000/test1234/test1234/654401
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport 3
+http://starshare.live:8080/live/arfat/arfat/5482.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png",Astro SuperSport 4
 http://wagnet.club:7000/test1234/test1234/654402
 #http://meu02.cularu.com:8880/YHJL122/3At2wuu5EM/1719
-
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png",Astro SuperSport 4
+http://starshare.live:8080/live/arfat/arfat/5481.ts
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="KÊNH THỂ THAO",Tennis Channel1
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
