@@ -297,7 +297,7 @@ https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6371630_preview.png" group-title="KÊNH QUỐC TẾ",CNN.FullHD
 http://thanhfpt.duckdns.org:4567/udp/232.84.3.153:10690
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6371630_preview.png" group-title="KÊNH QUỐC TẾ",CNN.US
-http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/29822
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://mytv.com.vn/upload/channel/146.png" group-title="KÊNH QUỐC TẾ",CNA
 http://thanhfpt.duckdns.org:4567/rtp/232.84.2.55:10540
 #EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="KÊNH QUỐC TẾ",Global News
@@ -593,16 +593,22 @@ https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
 http://budtvlight.com:25461/pepe/1234/1617
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="KÊNH THỂ THAO",TennisDE2
 http://budtvlight.com:25461/pepe/1234/2594
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="KÊNH THỂ THAO",EPT
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="KÊNH THỂ THAO",SPORT.TV1
 http://akamaizedx.com:80/odair100/odair100/10052991
 #https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="KÊNH THỂ THAO",SPORT.TV1.2
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="KÊNH THỂ THAO",SPORT.TV2
 http://akamaizedx.com:80/odair100/odair100/10052988
 #https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="KÊNH THỂ THAO",SPORT.TV3
 http://akamaizedx.com:80/odair100/odair100/10052985
 #https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="KÊNH THỂ THAO",SPORT.TV3.2
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png" group-title="KÊNH THỂ THAO",SPORT.TV4
 http://akamaizedx.com:80/odair100/odair100/10052983
 #https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
