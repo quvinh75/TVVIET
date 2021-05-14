@@ -641,6 +641,10 @@ http://sawaiptv.vip:80/gxx/sawa/40078
 https://aloka-iptv.xyz:443/live/MEGA-TV5/TELEGRAM/126.ts
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", BT2
 https://aloka-iptv.xyz:443/live/MEGA-TV5/TELEGRAM/122.ts
+#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", BT2.50FPS
+http://pulselive.uk:8080/66666/66666/222646
+#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", BT3
+http://pulselive.uk:8080/66666/66666/222632
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", BĐ3
 https://aloka-iptv.xyz:443/live/MEGA-TV5/TELEGRAM/127.ts
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", SkyEPL
