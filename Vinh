@@ -213,7 +213,7 @@ https://chungxda.github.io/m3u8/TV24/SCTV/SCTV15.m3u8
 #EXTINF:-1 tvg-id="SCTV16" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV16.png", SCTV16 HD - Phim Nước Ngoài
 http://vtsstr6.tv24.vn:1935/live/SCTV_HD_phimnuocngoaidacsac_4/playlist.m3u8?uid=s2c526m574z5s4l5h4&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks?byhthanh
 #EXTINF:-1 tvg-id="SCTV17" group-title="SCTV" tvg-logo="https://tvonline.vn/wp-content/uploads/2018/07/large_sctv171.png", SCTV17 HD - Ssport
-https://chungxda.github.io/m3u8/TV24/SCTV/SCTV17HD.m3u8
+http://14.180.251.165:9981/stream/channelid/195732866?profile=pass
 #EXTINF:-1 tvg-id="SCTV18" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/645/1566445843766.png", SCTV18 HD - Kênh 18
 https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV18_HD.smil/chunklist_w83587666_b2692000.m3u8
 #EXTINF:-1 tvg-id="SCTV19" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhPhai/SCTV19HD.png", SCTV19 HD - Channel T
