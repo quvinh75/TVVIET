@@ -59,12 +59,13 @@ http://14.169.59.87:8889/rtp/232.84.1.244:9438
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/M_CHANNEL_M.png",VTVcab15 - M Channel
 https://chungxda.github.io/m3u8/VTVCab/VTVCab15.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://i.ibb.co/165qscC/VTVCAB16-BEARTV.png",VTVcab16SD
-
+http://139.180.145.78/vtvcab16hd/mpegts?fbclid=IwAR3Z0NmKpdneZKj4qx42Glbvi8JeBxeU1XC-34dFtP3Z2QBx0TW54Gbqx8U
 #http://14.169.59.87:8889/rtp/232.84.1.138:8802
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/YEAH1_TV_M.png",VTVcab17 - Yeah1 TV
 http://14.169.59.87:8889/rtp/232.84.1.217:9276
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/tvshows/CBG2/THETHAO_TINTUC_HD_M.jpg",VTVcab18 - Tin tức Thể thao
-http://thanhfpt.duckdns.org:4567/rtp/232.84.2.193:10942
+http://139.180.145.78/vtvcab18/mpegts?fbclid=IwAR04Bi5lHpjr-Dgm1a4Xr5AJsbY6tjldIOqvESZRlmWj9YErh5lpCg8UEvI
+#http://thanhfpt.duckdns.org:4567/rtp/232.84.2.193:10942
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/FILM_TV_M.png",VTVcab19 - Film TV
 http://14.169.59.87:8889/rtp/232.84.1.169:8988
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/VFAMILY_M.png",VTVcab20 - V Family
