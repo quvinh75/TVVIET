@@ -591,10 +591,9 @@ https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a054
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",true Tennis
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="KÊNH THỂ THAO",TennisDE1
-http://budtvlight.com:25461/pepe/1234/1617
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="KÊNH THỂ THAO",TennisDE2
-http://budtvlight.com:25461/pepe/1234/2594
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="KÊNH THỂ THAO",S Tennis
+http://ztvuk.com:8080/mick/mick123/17272
+
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/681-6814150_ert-sports-hd-logo-ert-sports-hd-hd.png" group-title="KÊNH THỂ THAO",EPT
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/681-6814150_ert-sports-hd-logo-ert-sports-hd-hd.png" group-title="KÊNH THỂ THAO",EPT.2
@@ -633,10 +632,8 @@ http://144.217.253.140/beinsport4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="KÊNH THỂ THAO", BEin Sport 5
 http://sawaiptv.vip:80/gxx/sawa/40095
 
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", B.SportHD.265
-http://sawaiptv.vip:80/gxx/sawa/11709
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", B.SportHD1
-http://sawaiptv.vip:80/gxx/sawa/11708
+http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", B.SportHD2
 http://sawaiptv.vip:80/gxx/sawa/11704
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", B.SportHD3.264
@@ -676,6 +673,8 @@ http://akamaizedx.com:80/odair100/odair100/10052988
 http://akamaizedx.com:80/odair100/odair100/10052985
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", S.EPL
 http://wagnet.club:7000/test1234/test1234/477489
+#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", S.EPL
+http://ztvuk.com:8080/mick/mick123/17188
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", TTLive.TV
 http://budtvlight.com:25461/pepe/1234/1552
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", SaoTT
