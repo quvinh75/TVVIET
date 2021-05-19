@@ -29,8 +29,7 @@ http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
 https://live-vthn.vieon.vn:443/vtvcab/live/hd_vtvcab_1_test/TV_HD/hd_vtvcab_1_test_1080p/chunks.m3u8?cre=BearTV
 #http://14.169.59.87:8889/rtp/232.84.1.143:8832
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt
-http://14.232.214.220:8888/udp/239.2.100.3:5000
-#http://s3.nihontv.net:21585/vtvcab2/index.m3u8
+https://rlink.vn/beartv-vtvcab2
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt2
 http://thanhfpt.duckdns.org:4567/rtp/232.84.1.168:8982
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://i.postimg.cc/tgbcjg8c/vtvcab3-thethaohd.png",VTVcab3 - Thể thao TV
@@ -50,7 +49,7 @@ http://14.232.214.220:8888/udp/239.2.100.181:5000
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/INFO_TV_M.png",VTVcab9 - InfoTV
 http://14.169.59.87:8889/rtp/232.84.2.191:10930
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/D-dramas-png220124.png", Vie Dramas
-http://14.169.59.87:8889/rtp/232.84.1.205:9204
+http://thanhfpt.duckdns.org:4567/rtp/232.84.1.169:8988
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/D-dramas-png220124.png", Vie Dramas
 https://live-vthn.vieon.vn:443/vtvcab/live/hd_vtvcab_10/TV_HD/hd_vtvcab_10_1080p/chunks.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/103.png",VTVcab12
@@ -63,8 +62,7 @@ http://139.180.145.78/vtvcab16hd/mpegts?fbclid=IwAR3Z0NmKpdneZKj4qx42Glbvi8JeBxe
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/YEAH1_TV_M.png",VTVcab17 - Yeah1 TV
 http://14.169.59.87:8889/rtp/232.84.1.217:9276
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/tvshows/CBG2/THETHAO_TINTUC_HD_M.jpg",VTVcab18 - Tin tức Thể thao
-http://139.180.145.78/vtvcab18/mpegts?fbclid=IwAR04Bi5lHpjr-Dgm1a4Xr5AJsbY6tjldIOqvESZRlmWj9YErh5lpCg8UEvI
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.2.193:10942
+http://thanhfpt.duckdns.org:4567/rtp/232.84.2.193:10942
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/FILM_TV_M.png",VTVcab19 - Film TV
 http://14.169.59.87:8889/rtp/232.84.1.169:8988
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/VFAMILY_M.png",VTVcab20 - V Family
@@ -72,7 +70,7 @@ http://14.169.59.87:8889/rtp/232.84.1.245:10344
 #EXTINF:0 group-title="VIETNAMTV"  tvg-logo="https://rsstv.gviet.vn/sctv/158/77/1570762675549.png",VTVcab22 - Life TV
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:0 group-title="VIETNAMTV"  tvg-logo="https://rsstv.gviet.vn/sctv/157/999/1569981249737.png",VTVcab23 - Golf TV
-http://14.232.214.220:8888/udp/239.2.100.183:5000
+http://thanhfpt.duckdns.org:4567/rtp/232.84.2.246:10876
 
 #EXTINF:-1 tvg-id="VTC1"group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1
 http://thanhfpt.duckdns.org:4567/rtp/232.84.2.173:10846
@@ -87,7 +85,7 @@ https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="VTC6" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/YasRGy0.png",VTC6
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="TODAYTV" group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/TC7_M.png",TODAYTV
-https://vtc130121.cdn.vnns.io/VTC7_abr/vtc130121/VTC7_abr_1080p/chunks.m3u8
+https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="VTC" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/FVM7co8.jpg",VTC8
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="VTC9" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/UOIPXAr.png",VTC9
