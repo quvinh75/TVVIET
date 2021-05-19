@@ -590,6 +590,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="KÊNH THỂ THAO",S Tennis
 http://ztvuk.com:8080/mick/mick123/17272
+#EXTINF:-1 tvg-logo="https://i.iinfo.cz/images/495/o2-tv-sport-perex-1.jpg" group-title="KÊNH THỂ THAO",O2TV
+http://84.42.140.148:8880/hdmi
 
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/681-6814150_ert-sports-hd-logo-ert-sports-hd-hd.png" group-title="KÊNH THỂ THAO",EPT
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
@@ -642,6 +644,8 @@ http://wagmaott.com:8080/87742946/65356456/7361
 http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/147890
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", B.SportMAX7
 http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/147893
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", B.SportExtra
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", BT1
 http://xtra.xcs521.cz:8080/00:1A:79:17:04:07/ziajdjjfdifjd64646/38642
