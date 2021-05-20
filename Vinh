@@ -599,6 +599,11 @@ http://84.42.140.148:8880/hdmi
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/681-6814150_ert-sports-hd-logo-ert-sports-hd-hd.png" group-title="KÊNH THỂ THAO",EPT.2
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
+#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/zs-assets-staging/lKkvMzAp_400x400.jpg" group-title="KÊNH THỂ THAO",Z Select
+http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/zs-assets-staging/lKkvMzAp_400x400.jpg" group-title="KÊNH THỂ THAO",Z Football
+http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="KÊNH THỂ THAO",SPORT.TV1
 http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2817
