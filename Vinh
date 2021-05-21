@@ -695,11 +695,16 @@ http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/144178
 
 
 #EXTINF:0 group-title="4K TV" tvg-logo="https://cdn.imgbin.com/13/11/11/imgbin-united-kingdom-home-uktv-w-television-channel-united-kingdom-gbwSJuL7dWy8DFJUQBtigANEx.jpg",HOME 4K
-http://31.134.132.242:8080/home4k/mpegts
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/72675
+#http://31.134.132.242:8080/home4k/mpegts
 #EXTINF:0 group-title="4K TV" tvg-logo="https://www.hdnumerique.com/medias/articles/original/ultra-nature-logo.jpg",Ultra Nature 4K
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/70344
 #EXTINF:0 group-title="4K TV" tvg-logo="https://i.imgur.com/AzOvgkV.png",LOVE Nature 4K
 http://136.243.42.146:1400
+#EXTINF:0 group-title="4K TV" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/wow-4k.png",WOW.TV 4K
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/72677
+#EXTINF:0 group-title="4K TV" tvg-logo="https://www.thematv.us/images/channels/4k-heritage-tv.png",Heritage UHD 
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/72674
 #EXTINF:-1 group-title="4K TV" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png",FTV.4K_UDP
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.232:30120
 #EXTINF:-1 group-title="4K TV" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png",FashionTV.4K
