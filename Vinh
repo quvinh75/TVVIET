@@ -517,6 +517,8 @@ http://iptvh.it/MF3FHD
 http://tv.rapidiptv.tvip.xyz:80/live/IxFFtu0nEs0308/4qEnsq6567/14655.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", SKY SPORTS FOOTBALL
 http://tv.rapidiptv.tvip.xyz:80/live/IxFFtu0nEs0308/4qEnsq6567/14651.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", SKY SPORTS
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/266792
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", SkySport DE1
 http://akamaizedx.com:80/odair100/odair100/10049574
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", SkySport DE2
@@ -609,6 +611,10 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
 http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/zs-assets-staging/lKkvMzAp_400x400.jpg" group-title="KÊNH THỂ THAO",Z Football
 http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a686.png" group-title="KÊNH THỂ THAO",TRING Sport
+http://79.106.224.178:25461/live/speed/net/21.m3u8
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a686.png" group-title="KÊNH THỂ THAO",TRING Sport2
+http://79.106.224.178:25461/live/speed/net/22.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="KÊNH THỂ THAO",SPORT.TV1
@@ -639,24 +645,6 @@ http://144.217.253.140/beinsport2/tracks-v1a1/mono.m3u8
 http://144.217.253.140/beinsport3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="KÊNH THỂ THAO", BEin Sport 4
 http://144.217.253.140/beinsport4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", B.SportHD1
-http://wagmaott.com:8080/87742946/65356456/7331
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", B.SportHD2
-http://wagmaott.com:8080/87742946/65356456/7337
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", B.SportHD3
-http://wagmaott.com:8080/87742946/65356456/7343
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", B.SportHD4
-http://wagmaott.com:8080/87742946/65356456/7349
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", B.SportHD5
-http://wagmaott.com:8080/87742946/65356456/7355
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", B.SportHD5
-http://wagmaott.com:8080/87742946/65356456/7361
-
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", B.SportMAX5
-http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/147890
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", B.SportMAX7
-http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/147893
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", B.SportExtra
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
