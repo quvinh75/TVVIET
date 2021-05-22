@@ -479,14 +479,60 @@ http://iptvh.it/MF3FHD
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/1954
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS EPL
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14655
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg" group-title="KÊNH THỂ THAO NN",Sky Sports Football
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/16970
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS Main Event
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14651
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS Action
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14653
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS Golf
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14654
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS F1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS F1
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14656
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportsarenahduk.jpg" group-title="KÊNH THỂ THAO NN",Sky Sports Arena
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/16969
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg" group-title="KÊNH THỂ THAO NN",Sky Sports Mix
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14902
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1hd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport 1
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14657
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport2hd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport 2
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14658
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport 3
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14659
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsportboxofficeuk.jpg" group-title="KÊNH THỂ THAO NN",BT Sport Box Office
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/23754
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsport1fr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport 1 4K FR
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/26277
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport Access 1
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28583
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport Access 2
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28584
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport Access 3
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28585
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport Live 5
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28586
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport Live 6
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28587
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport Live 7
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28588
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport Live 8
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28589
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport Live 9
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28590
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport Live 10
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28591
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport Live 11
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28592
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport Live 12
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28593
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport Live 13
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28594
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport Live 14
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28595
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport Live 15
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28596
 
 #EXTINF:-1 tvg-logo="https://www.nos.pt/institucional/PT/sobre-a-nos/empresas-e-negocios/PublishingImages/Logos/sport-tv.jpg" group-title="KÊNH THỂ THAO NN",SPORT.TV1
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/17744
