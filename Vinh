@@ -31,7 +31,7 @@ https://live-vthn.vieon.vn:443/vtvcab/live/hd_vtvcab_1_test/TV_HD/hd_vtvcab_1_te
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt
 https://rlink.vn/beartv-vtvcab2
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt2
-http://thanhfpt.duckdns.org:4567/rtp/232.84.1.168:8982
+http://quocthai.duckdns.org:18886/rtp/232.84.1.168:8982
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://i.postimg.cc/tgbcjg8c/vtvcab3-thethaohd.png",VTVcab3 - Thể thao TV
 http://51.210.99.3:21585/vtvcab3/index.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/194.png", VTVcab 4 - Văn hóa
