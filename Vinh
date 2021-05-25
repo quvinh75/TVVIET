@@ -487,14 +487,14 @@ http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14655
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/16970
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS Main Event
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14651
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportsarenahduk.jpg" group-title="KÊNH THỂ THAO NN",Sky Sports Arena
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/16969
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS Action
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14653
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS Golf
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14654
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS F1
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14656
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportsarenahduk.jpg" group-title="KÊNH THỂ THAO NN",Sky Sports Arena
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/16969
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg" group-title="KÊNH THỂ THAO NN",Sky Sports Mix
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14902
 
@@ -504,6 +504,8 @@ http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14657
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14658
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport 3
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14659
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsportespnhd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport ESPN
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/1980
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsportboxofficeuk.jpg" group-title="KÊNH THỂ THAO NN",BT Sport Box Office
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/23754
 
@@ -580,7 +582,14 @@ http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/8078
 #http://79.106.224.178:25461/live/speed/net/22.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg" group-title="KÊNH THỂ THAO NN",S.Premier League 
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28896
-
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ziggosportnl.jpg" group-title="KÊNH THỂ THAO NN",Ziggo Sport 
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/29050
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ziggosportselect.jpg" group-title="KÊNH THỂ THAO NN",Ziggo Sport Select 
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/12523
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ziggosportvoetbal.jpg" group-title="KÊNH THỂ THAO NN",Ziggo Sport Voetbal
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/15803
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ziggosportextranl.jpg" group-title="KÊNH THỂ THAO NN",Ziggo Sport Extra NL
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/7008
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", SKY SPORTS
 http://iptvtree.net:8080/vpngenerators/635ee5a5e7/266792
@@ -671,6 +680,8 @@ https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a054
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",true Tennis
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/maxsport1bg.jpg" group-title="Tennis",Max Sport1
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/23442
 
 
 #EXTINF:-1 tvg-logo="https://i.iinfo.cz/images/495/o2-tv-sport-perex-1.jpg" group-title="KÊNH THỂ THAO",O2TV
