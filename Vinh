@@ -72,13 +72,13 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:0 group-title="VIETNAMTV"  tvg-logo="https://rsstv.gviet.vn/sctv/157/999/1569981249737.png",VTVcab23 - Golf TV
 http://thanhfpt.duckdns.org:4567/rtp/232.84.2.246:10876
 
-#EXTINF:-1 tvg-id="VTC1"group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1
+#EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1
 http://thanhfpt.duckdns.org:4567/rtp/232.84.2.173:10846
 #EXTINF:-1 tvg-id="VTC2" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/8Y2vdek.png",VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="VTC3" group-title="VIETNAMTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Icon_355x2003.jpg",VTC3
 http://thanhfpt.duckdns.org:4567/rtp/232.84.1.81:8460
-#EXTINF:-1 tvg-id="VTC4"group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/v9DNS85.png",VTC4
+#EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/v9DNS85.png",VTC4
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="VTC5" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/w18H0gU.jpg",VTC5
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
