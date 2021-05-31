@@ -744,6 +744,8 @@ http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/144177
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://1.bp.blogspot.com/-bEfwNh-dIPE/VFgvGTpc_JI/AAAAAAAAAMs/V56HdSnG5y8/s1600/index3.jpg", OTE SPORT1
 http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/144178
 
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/eurosport4kru.jpg" group-title="4K TV",Eurosport 4K
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/57967
 #EXTINF:0 group-title="4K TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", SkyUHD
 http://5.147.3.82:8000/play/a04c/index.m3u8
 #EXTINF:0 group-title="4K TV" tvg-logo="https://cdn.imgbin.com/13/11/11/imgbin-united-kingdom-home-uktv-w-television-channel-united-kingdom-gbwSJuL7dWy8DFJUQBtigANEx.jpg",HOME 4K
