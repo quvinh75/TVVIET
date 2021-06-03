@@ -27,9 +27,9 @@ http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
 #http://14.169.59.87:8889/udp/232.84.1.118:10260
 
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png",VTVcab1 _ Vie Giải Trí
-https://sgn-vnpt-002-livecdn-vthn-vnd.vieon.vn/4891b758e85067632517665928e900c4/1622511191392/vtvcab/live/hd_vtvcab_1_test/TV_HD/hd_vtvcab_1_test_1080p/chunks.m3u8
+http://203.162.123.178:8080/vtvcab1/index.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt
-https://rlink.vn/beartv-vtvcab2
+http://203.162.123.178:8080/vtvcab2/index.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt2
 http://quocthai.duckdns.org:18886/rtp/232.84.1.168:8982
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://i.postimg.cc/tgbcjg8c/vtvcab3-thethaohd.png",VTVcab3 - Thể thao TV
@@ -57,7 +57,8 @@ http://14.169.59.87:8889/rtp/232.84.1.244:9438
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/M_CHANNEL_M.png",VTVcab15 - M Channel
 https://chungxda.github.io/m3u8/VTVCab/VTVCab15.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://i.ibb.co/165qscC/VTVCAB16-BEARTV.png",VTVcab16SD
-http://203.162.123.188/vtvcab16/index.m3u8
+http://203.162.123.178:8080/vtvcab16/index.m3u8
+#http://203.162.123.188/vtvcab16/index.m3u8
 #http://14.169.59.87:8889/rtp/232.84.1.138:8802
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/YEAH1_TV_M.png",VTVcab17 - Yeah1 TV
 http://14.169.59.87:8889/rtp/232.84.1.217:9276
@@ -224,7 +225,8 @@ http://quangvinh997.duckdns.org:8889/udp/225.1.4.90:30120
 #EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://aux.iconspalace.com/uploads/19971240062044726999.png", HBO2
 http://quocthai.duckdns.org:18886/rtp/232.84.2.138:10648
 #EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO HD
-http://quangvinh997.duckdns.org:8889/udp/225.1.2.233:30120
+http://51.210.99.3:8080/hbo/index.m3u8  
+#http://quangvinh997.duckdns.org:8889/udp/225.1.2.233:30120
 #EXTINF:-1 tvg-id="FOXMovies" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FOXMovies" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES2
