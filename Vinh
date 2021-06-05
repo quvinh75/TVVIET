@@ -502,14 +502,46 @@ http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14902
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1hd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport 1
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14657
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1hd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport 1 50fps
+http://pulsetv.uk:8080/88888/99999/222645
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport2hd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport 2
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14658
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport2hd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport 2 50fps
+http://pulsetv.uk:8080/88888/99999/222646
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport 3
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14659
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport 3 50fps
+http://pulsetv.uk:8080/88888/99999/222647
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsportespnhd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport ESPN
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/1980
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsportespnhd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport ESPN 50fps
+http://pulsetv.uk:8080/88888/99999/290497
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsportboxofficeuk.jpg" group-title="KÊNH THỂ THAO NN",BT Sport Box Office
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/23754
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-psl-za.jpg" group-title="KÊNH THỂ THAO NN", SuperSport PSL HD ZA
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28894
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport LaLiga HD ZA
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28895
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Premier League HD ZA
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28896
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-grandstand-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Grandstand HD ZA
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28897
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-variety-1-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Variety 1 HD ZA
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28899
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-variety-2-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Variety 2 HD ZA
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28898
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-variety-3-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Variety 3 HD ZA
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28903
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-variety-4-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Variety 4 HD ZA
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28902
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-action-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Action HD ZA
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28900
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-football-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Football HD ZA
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28901
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-blitz-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Blitz HD ZA
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28906
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-maximo-1-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Maximo 1 HD ZA
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsport1fr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport 1 4K FR
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/26277
@@ -533,16 +565,9 @@ http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28589
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28590
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport Live 10
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28591
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport Live 11
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28592
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport Live 12
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28593
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport Live 13
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28594
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport Live 14
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28595
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport Live 15
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28596
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/06/logo_nowsport_epg_pl_0-1.png" group-title="KÊNH THỂ THAO NN", Now HK Premier Sports 1 50fps
+http://pulsetv.uk:8080/88888/99999/251261
 
 #EXTINF:-1 tvg-logo="https://www.nos.pt/institucional/PT/sobre-a-nos/empresas-e-negocios/PublishingImages/Logos/sport-tv.jpg" group-title="KÊNH THỂ THAO NN",SPORT.TV1
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/17744
@@ -670,6 +695,8 @@ http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/18386
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/54966
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",Super Tennis
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/4084
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",EU Sport
+http://pulsetv.uk:8080/88888/99999/248378
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="Tennis",Tennis Channel1
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="Tennis",Tennis Channel2
