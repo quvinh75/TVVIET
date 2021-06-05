@@ -576,16 +576,142 @@ http://pulsetv.uk:8080/88888/99999/280019
 http://pulsetv.uk:8080/88888/99999/280020
 #EXTINF:-1,NZ: Sky Sport 9 FHD
 http://pulsetv.uk:8080/88888/99999/280021
-
-EXTINF:-1,LO BEINS PORTS 1 4K
-http://pn.tvott.info:80/307200100175/307200100175/164061
-#EXTINF:-1,LO BEINS PORTS PREMIUM 01 FHD
-http://pn.tvott.info:80/307200100175/307200100175/164060
-#EXTINF:-1,beIN SPORTS 1 PREMIUM ..
-http://pn.tvott.info:80/307200100175/307200100175/164059
-#EXTINF:-1,LO BEINS PORTS PREMIUM  01 SD
-http://pn.tvott.info:80/307200100175/307200100175/164058
-#EXTINF:-1,LO BEINS PORTS PREMIUM  02 FHD
-http://pn.tvott.info:80/307200100175/307200100175/164057
-
+#EXTINF:-1,|NO| EUROSPORT 1 HD
+http://pulsetv.uk:8080/88888/99999/284893
+#EXTINF:-1,|NO| EUROSPORT 2 HD
+http://pulsetv.uk:8080/88888/99999/284894
+#EXTINF:-1,|NO| EUROSPORT N HD
+http://pulsetv.uk:8080/88888/99999/284895
+#EXTINF:-1,|NO| Eurosport Pluss 1 HD
+http://pulsetv.uk:8080/88888/99999/284836
+#EXTINF:-1,|NO| Eurosport Pluss 2 HD
+http://pulsetv.uk:8080/88888/99999/284837
+#EXTINF:-1,|NO| Eurosport Pluss 3 HD
+http://pulsetv.uk:8080/88888/99999/284838
+#EXTINF:-1,|NO| Eurosport Pluss 4 HD
+http://pulsetv.uk:8080/88888/99999/284839
+#EXTINF:-1,|NO| Eurosport Pluss 5 HD
+http://pulsetv.uk:8080/88888/99999/284840
+#EXTINF:-1,VIP |RU| Eurosport 1
+http://pulsetv.uk:8080/88888/99999/247101
+#EXTINF:-1,VIP |RU| Eurosport 1 HD
+http://pulsetv.uk:8080/88888/99999/247102
+#EXTINF:-1,VIP |RU| Eurosport 2
+http://pulsetv.uk:8080/88888/99999/247103
+#EXTINF:-1,VIP |RU| Eurosport 2 HD
+http://pulsetv.uk:8080/88888/99999/247104
+#EXTINF:-1,VIP |RU| Eurosport 4k
+http://pulsetv.uk:8080/88888/99999/247105
+#EXTINF:-1,VIP |RU| Eurosport Gold
+http://pulsetv.uk:8080/88888/99999/247106
+#EXTINF:-1,VIP |RU| Eurosport Gold HD
+http://pulsetv.uk:8080/88888/99999/247107
+#EXTINF:-1,VIP |RU| Extreme Sports
+http://pulsetv.uk:8080/88888/99999/247108
+#EXTINF:-1,|COL| Winsport+ HD
+http://pulsetv.uk:8080/88888/99999/294493
+#EXTINF:-1,|COL| Winsports HD
+http://pulsetv.uk:8080/88888/99999/294494
+#EXTINF:-1,CZ : CT sport HD
+http://pulsetv.uk:8080/88888/99999/291739
+#EXTINF:-1,PT : Eurosport 1
+http://pulsetv.uk:8080/88888/99999/248378
+#EXTINF:-1,PT : Eurosport 2
+http://pulsetv.uk:8080/88888/99999/248379
+#EXTINF:-1,PT : Eleven Sport 1
+http://pulsetv.uk:8080/88888/99999/248371
+#EXTINF:-1,PT : Eleven Sport 2
+http://pulsetv.uk:8080/88888/99999/248372
+#EXTINF:-1,PT : Eleven Sport 3
+http://pulsetv.uk:8080/88888/99999/248373
+#EXTINF:-1,PT : Eleven Sport 4
+http://pulsetv.uk:8080/88888/99999/248374
+#EXTINF:-1,PT : Eleven Sport 5
+http://pulsetv.uk:8080/88888/99999/248375
+#EXTINF:-1,PT : Eleven Sport 6
+http://pulsetv.uk:8080/88888/99999/248376
+#EXTINF:-1,|PL| Eleven Sports 1 HD
+http://pulsetv.uk:8080/88888/99999/246089
+#EXTINF:-1,|PL| Eleven Sports 2 HD
+http://pulsetv.uk:8080/88888/99999/246090
+#EXTINF:-1,|PL| Eleven Sports 3 HD
+http://pulsetv.uk:8080/88888/99999/246091
+#EXTINF:-1,|PL| Eleven Sports 4 HD
+http://pulsetv.uk:8080/88888/99999/246092
+#EXTINF:-1,ZA: SuperSport WWE FHD
+http://pulsetv.uk:8080/88888/99999/292007#EXTINF:-1,|PL| Eleven Sports 1 HD
+http://pulsetv.uk:8080/88888/99999/246089
+#EXTINF:-1,|PL| Eleven Sports 2 HD
+http://pulsetv.uk:8080/88888/99999/246090
+#EXTINF:-1,|PL| Eleven Sports 3 HD
+http://pulsetv.uk:8080/88888/99999/246091
+#EXTINF:-1,|PL| Eleven Sports 4 HD
+http://pulsetv.uk:8080/88888/99999/246092
+#EXTINF:-1,ZA: SuperSport Variety 4 FHD
+http://pulsetv.uk:8080/88888/99999/292008
+#EXTINF:-1,ZA: SuperSport Variety 3 HD
+http://pulsetv.uk:8080/88888/99999/292009
+#EXTINF:-1,ZA: SuperSport Variety 2 FHD
+http://pulsetv.uk:8080/88888/99999/292010
+#EXTINF:-1,ZA: SuperSport Variety 1 FHD
+http://pulsetv.uk:8080/88888/99999/292011
+#EXTINF:-1,ZA: SuperSport Tennis FHD
+http://pulsetv.uk:8080/88888/99999/292012
+#EXTINF:-1,ZA: SuperSport Rugby FHD
+http://pulsetv.uk:8080/88888/99999/292013
+#EXTINF:-1,ZA: SuperSport PSL FHD
+http://pulsetv.uk:8080/88888/99999/292014
+#EXTINF:-1,ZA: SuperSport Premier League FHD
+http://pulsetv.uk:8080/88888/99999/292015
+#EXTINF:-1,ZA: SuperSport Play HD
+http://pulsetv.uk:8080/88888/99999/292016
+#EXTINF:-1,ZA: SuperSport MotorSport HD
+http://pulsetv.uk:8080/88888/99999/292017
+#EXTINF:-1,ZA: SuperSport Maximo HD
+http://pulsetv.uk:8080/88888/99999/292018
+#EXTINF:-1,ZA: SuperSport LaLiga FHD
+http://pulsetv.uk:8080/88888/99999/292019
+#EXTINF:-1,ZA: SuperSport Grandstand FHD
+http://pulsetv.uk:8080/88888/99999/292020
+#EXTINF:-1,ZA: SuperSport Golf FHD
+http://pulsetv.uk:8080/88888/99999/292021
+#EXTINF:-1,ZA: SuperSport Football FHD
+http://pulsetv.uk:8080/88888/99999/292022
+#EXTINF:-1,ZA: SuperSport Cricket FHD
+http://pulsetv.uk:8080/88888/99999/292023
+#EXTINF:-1,ZA: SuperSport Blitz FHD
+http://pulsetv.uk:8080/88888/99999/292024
+#EXTINF:-1,ZA: SuperSport Action FHD
+http://pulsetv.uk:8080/88888/99999/292025
+http://pulsetv.uk:8080/88888/99999/285049
+#EXTINF:-1,NL - Ziggo Sport Select HD
+http://pulsetv.uk:8080/88888/99999/285050
+#EXTINF:-1,NL - Ziggo Sport Voetbal
+http://pulsetv.uk:8080/88888/99999/285051
+#EXTINF:-1,PT : SPORT TV +
+http://pulsetv.uk:8080/88888/99999/248419
+#EXTINF:-1,PT : SPORT TV 1
+http://pulsetv.uk:8080/88888/99999/248420
+#EXTINF:-1,PT : SPORT TV 2
+http://pulsetv.uk:8080/88888/99999/248421
+#EXTINF:-1,PT : SPORT TV 3
+http://pulsetv.uk:8080/88888/99999/248422
+#EXTINF:-1,PT : SPORT TV 3
+http://pulsetv.uk:8080/88888/99999/248423
+#EXTINF:-1,PT : SPORT TV 4
+http://pulsetv.uk:8080/88888/99999/248424
+#EXTINF:-1,PT : SPORT TV 5
+http://pulsetv.uk:8080/88888/99999/248425
+#EXTINF:-1,PT : Sporting TV
+http://pulsetv.uk:8080/88888/99999/248426
+#EXTINF:-1,IT : Rai Sport
+http://pulsetv.uk:8080/88888/99999/284979
+#EXTINF:-1,IT : Rai Sport + HD
+http://pulsetv.uk:8080/88888/99999/284980
+#EXTINF:-1,CZ : Sport 1 HD
+http://pulsetv.uk:8080/88888/99999/291789
+#EXTINF:-1,CZ : Sport 2 HD
+http://pulsetv.uk:8080/88888/99999/291790
+#EXTINF:-1,CZ : Sport 5
+http://pulsetv.uk:8080/88888/99999/291791
 
