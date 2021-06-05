@@ -569,6 +569,8 @@ http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28591
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/06/logo_nowsport_epg_pl_0-1.png" group-title="KÊNH THỂ THAO NN", Now HK Premier Sports 1 50fps
 http://pulsetv.uk:8080/88888/99999/251261
 
+#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/logo/sporttvmais/medium.jpg" group-title="KÊNH THỂ THAO NN",SPORT+
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/19589
 #EXTINF:-1 tvg-logo="https://www.nos.pt/institucional/PT/sobre-a-nos/empresas-e-negocios/PublishingImages/Logos/sport-tv.jpg" group-title="KÊNH THỂ THAO NN",SPORT.TV1
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/17744
 #EXTINF:-1 tvg-logo="https://www.nos.pt/institucional/PT/sobre-a-nos/empresas-e-negocios/PublishingImages/Logos/sport-tv.jpg" group-title="KÊNH THỂ THAO NN",SPORT.TV2
@@ -617,6 +619,15 @@ http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/12523
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/15803
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ziggosportextranl.jpg" group-title="KÊNH THỂ THAO NN",Ziggo Sport Extra NL
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/7008
+
+#EXTINF:-1,tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-1200-80.jpg" group-title="KÊNH THỂ THAO NN", Eleven Sports 1 PL
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/15198
+#EXTINF:-1, tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-1200-80.jpg" group-title="KÊNH THỂ THAO NN", Eleven Sports 2 PL
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/15197
+#EXTINF:-1,tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-1200-80.jpg" group-title="KÊNH THỂ THAO NN", Eleven Sports 3 PL
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/15097
+#EXTINF:-1,tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-1200-80.jpg" group-title="KÊNH THỂ THAO NN", Eleven Sports 4 PL
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/19149
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", SKY SPORTS
 http://iptvtree.net:8080/vpngenerators/635ee5a5e7/266792
