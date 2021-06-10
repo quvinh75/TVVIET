@@ -697,7 +697,7 @@ http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/23442
 #EXTINF:-1 tvg-logo="https://i.iinfo.cz/images/495/o2-tv-sport-perex-1.jpg" group-title="KÊNH THỂ THAO",O2TV
 http://84.42.140.148:8880/hdmi
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="KÊNH THỂ THAO",SPORT.TV1
-http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2817
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/11
 #https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="KÊNH THỂ THAO",SPORT.TV1.2
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
@@ -752,6 +752,13 @@ http://wagnet.club:7000/test1234/test1234/477489
 http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/144177
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://1.bp.blogspot.com/-bEfwNh-dIPE/VFgvGTpc_JI/AAAAAAAAAMs/V56HdSnG5y8/s1600/index3.jpg", OTE SPORT1
 http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/144178
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2M1ygvb/worldcup2022-BEARTV.png" group-title="KÊNH THỂ THAO", DubaiSport - WC2022
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2M1ygvb/worldcup2022-BEARTV.png" group-title="KÊNH THỂ THAO", DubaiSport2 - WC2022
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2M1ygvb/worldcup2022-BEARTV.png" group-title="KÊNH THỂ THAO", DubaiSport3 - WC2022
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/eurosport4kru.jpg" group-title="4K TV",Eurosport 4K
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/57967
