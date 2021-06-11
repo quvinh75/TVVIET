@@ -250,7 +250,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV
 http://58.65.171.202:8000/play/4334/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV.US
-http://89.160.178.236:8080/play/a03j/index.m3u8
+http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/13835
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV.CA
 http://tsn.streaming-elbrus.tk:8080/hgtv/video.m3u8?token=iptvin
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV4
@@ -471,7 +471,7 @@ http://pulsetv.uk:8080/88888/99999/222627
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg" group-title="KÊNH THỂ THAO NN",Sky Sports Football
 http://pulsetv.uk:8080/88888/99999/222621
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS Main Event
-http://pulsetv.uk:8080/88888/99999/222623
+http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/14651
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportsarenahduk.jpg" group-title="KÊNH THỂ THAO NN",Sky Sports Arena
 http://pulsetv.uk:8080/88888/99999/222618
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS Action
