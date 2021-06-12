@@ -494,7 +494,7 @@ http://pulsetv.uk:8080/88888/99999/222647
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsportespnhd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport ESPN 50fps
 http://pulsetv.uk:8080/88888/99999/290497
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsportboxofficeuk.jpg" group-title="KÊNH THỂ THAO NN",BT Sport Box Office
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/23754
+http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/23754
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-psl-za.jpg" group-title="KÊNH THỂ THAO NN", SuperSport PSL
 http://pulsetv.uk:8080/88888/99999/292014
@@ -553,7 +553,7 @@ http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/3223
 #EXTINF:-1 tvg-logo="https://www.nos.pt/institucional/PT/sobre-a-nos/empresas-e-negocios/PublishingImages/Logos/sport-tv.jpg" group-title="KÊNH THỂ THAO NN",SPORT.TV4
 http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/3224
 #EXTINF:-1 tvg-logo="https://www.nos.pt/institucional/PT/sobre-a-nos/empresas-e-negocios/PublishingImages/Logos/sport-tv.jpg" group-title="KÊNH THỂ THAO NN",SPORT.TV5
-http://cloudcdn.tk:80/vHDC8vgA825/GxnkdG870/16297
+http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/16297
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", DE.SkySport1
 #http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/7326
 http://akamaizedx.com:80/odair100/odair100/10049574
@@ -634,10 +634,10 @@ https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png", ESPN 3
 https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png", ESPN  Deportes
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/23260
+http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/23260
 #http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/12084
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Espnnews.png", ESPN NEWS
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/19637
+http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/19637
 #https://tv4.live/api/stream/sohapo8939@combcub.com/536874/livetv.epg/espn.news.us.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png", ESPN U
 https://gma2.blab.email/espnu.m3u8
@@ -675,7 +675,7 @@ http://pulsetv.uk:8080/88888/99999/290851
 #http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",Tennis Channel HD
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/18386
+http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/18386
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",S Tennis
 http://pulsetv.uk:8080/88888/99999/292012
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",Super Tennis
@@ -695,7 +695,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",true Tennis
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/maxsport1bg.jpg" group-title="Tennis",Max Sport1
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/23442
+http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/23442
 
 
 #EXTINF:-1 tvg-logo="https://i.iinfo.cz/images/495/o2-tv-sport-perex-1.jpg" group-title="KÊNH THỂ THAO",O2TV
@@ -765,22 +765,22 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/eurosport4kru.jpg" group-title="4K TV",Eurosport 4K
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/57967
+http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/57967
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/sweden/logo/viasat_ultra_hd.png" group-title="4K TV", V Sport Ultra UHD
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/30091
 #EXTINF:0 group-title="4K TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", SkyUHD
 http://5.147.3.82:8000/play/a04c/index.m3u8
 #EXTINF:0 group-title="4K TV" tvg-logo="https://cdn.imgbin.com/13/11/11/imgbin-united-kingdom-home-uktv-w-television-channel-united-kingdom-gbwSJuL7dWy8DFJUQBtigANEx.jpg",HOME 4K
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/72675
+http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/72675
 #http://31.134.132.242:8080/home4k/mpegts
 #EXTINF:0 group-title="4K TV" tvg-logo="https://www.hdnumerique.com/medias/articles/original/ultra-nature-logo.jpg",Ultra Nature 4K
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/70344
+http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/70344
 #EXTINF:0 group-title="4K TV" tvg-logo="https://i.imgur.com/AzOvgkV.png",LOVE Nature 4K
 http://136.243.42.146:1400
 #EXTINF:0 group-title="4K TV" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/wow-4k.png",WOW.TV 4K
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/72677
+http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/72677
 #EXTINF:0 group-title="4K TV" tvg-logo="https://www.thematv.us/images/channels/4k-heritage-tv.png",Heritage UHD 
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/72674
+http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/72674
 #EXTINF:-1 group-title="4K TV" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png",FTV.4K_UDP
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.232:30120
 #EXTINF:-1 group-title="4K TV" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png",FashionTV.4K
