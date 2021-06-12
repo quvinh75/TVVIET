@@ -31,7 +31,7 @@ http://203.162.123.178:8080/vtvcab1/index.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt
 http://203.162.123.178:8080/vtvcab2/index.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt2
-http://trantuan11.ddns.net:22554/udp/239.2.100.3:5000
+http://trantuan11.ddns.net:22554/udp/232.84.1.168:8982
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://i.postimg.cc/tgbcjg8c/vtvcab3-thethaohd.png",VTVcab3 - Thể thao TV
 http://51.210.99.3:21585/vtvcab3/index.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/194.png", VTVcab 4 - Văn hóa
