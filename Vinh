@@ -196,23 +196,10 @@ http://vtsstr1.tv24.vn:1935/live/SCTVHDPhimTH_4/chunklist.m3u8
 #EXTINF:-1 tvg-id="SCTV22" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b0/Biểu_trưng_SCTV.png", SCTV22 HD - Ssport 1
 http://trantuan11.ddns.net:22554/udp/239.2.100.61:5000
 
-
-#EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",Red by HBO
-http://trantuan11.ddns.net:22554/udp/232.84.2.172:10840
-#EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",RedbyHBO.FPT
-http://quocthai.duckdns.org:18886/rtp/232.84.2.172:10840
-#EXTINF:-1 group-title="PHIM" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX
-http://14.232.214.220:8888/udp/239.2.100.90:5000
-#EXTINF:-1 group-title="PHIM" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX2
-http://trantuan11.ddns.net:22554/udp/232.84.2.139:10654
-#EXTINF:-1 tvg-id="FOX Canal" group-title="PHIM" tvg-logo="https://www.vhv.rs/dpng/d/438-4382750_file-maxbyhbo-max-by-hbo-logo-hd-png.png",CINEMAX.FPT
-http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
-#EXTINF:-1 tvg-id="HBO.ASIA" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO.ASIA
-http://14.232.214.220:8888/udp/239.2.100.33:5000
 #EXTINF:0 tvg-id="HBO(NoSub)" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO(NoSub)
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/17074
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/17074
 #EXTINF:0 tvg-id="HBO(NoSub)" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO.US
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/33945
+http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/33945
 #EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO1
 http://quangvinh997.duckdns.org:8889/udp/225.1.4.90:30120
 #EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://aux.iconspalace.com/uploads/19971240062044726999.png", HBO2
@@ -228,16 +215,28 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 http://trantuan11.ddns.net:22554/udp/232.84.1.77:8436
 #EXTINF:-1 tvg-id="foxmovieshd" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" ,FOX FAMILY MOVIES
 https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="BoxMovies" group-title="PHIM" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/46/29/f4/4629f4a1-0af2-f34e-c161-4253e8374bd0/source/256x256bb.jpg", BOX MOVIE
+#EXTINF:-1 group-title="PHIM" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX
+http://14.232.214.220:8888/udp/239.2.100.90:5000
+#EXTINF:-1 group-title="PHIM" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX2
+http://trantuan11.ddns.net:22554/udp/232.84.2.139:10654
+#EXTINF:-1 tvg-id="FOX Canal" group-title="PHIM" tvg-logo="https://www.vhv.rs/dpng/d/438-4382750_file-maxbyhbo-max-by-hbo-logo-hd-png.png",CINEMAX.FPT
+http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
+#EXTINF:-1 tvg-id="HBO.ASIA" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO.ASIA
+http://14.232.214.220:8888/udp/239.2.100.33:5000
+#EXTINF:-1 tvg-id="BoxMovies" group-title="PHIM" tvg-logo="https://static-stage.tv24.vn/channel/245/BoxMovie_new.jpg", BOX MOVIE
 http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 tvg-id="Holliwood Classic" group-title="PHIM" tvg-logo="https://i.pinimg.com/originals/7f/d3/2b/7fd32b6ebfa4d4fdb363eaff298c2e08.jpg", Hollywood Classics
 http://vtsstr1.tv24.vn:1935/live/Hollywood.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",Red by HBO
+http://trantuan11.ddns.net:22554/udp/232.84.2.172:10840
+#EXTINF:-1 group-title="PHIM"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",RedbyHBO.FPT
+http://quocthai.duckdns.org:18886/rtp/232.84.2.172:10840
 #EXTINF:-1 tvg-id="ParamountHD"  group-title="PHIM" tvg-logo="http://img.hplus.com.vn/226x127/poster/2020/08/03/744316-Paramount-xanh-fix.png",Paramount Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CinemaWorld" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="PHIM",CinemaWorld
 http://14.232.214.220:8888/udp/239.2.100.152:5000
 #https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="AXN" group-title="PHIM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0sy0pnhZC1KImHbGuqfOyh7EG0beYvT9XzOC-0U_jOEpoD4sZ&shttps://i.imgur.com/5Gtp7WP.png" ,AXN
+#EXTINF:-1 tvg-id="AXN" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/500px-AXN_logo.svg.png" ,AXN
 https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="warner_tv_hd" group-title="PHIM" tvg-logo="https://imgur.com/9qJI1Mg.png",Warner TV
 https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
@@ -254,6 +253,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 http://58.65.171.202:8000/play/4334/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV.US
 http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/13835
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV.US2
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/13835
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV.CA
 http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/29476
 #http://tsn.streaming-elbrus.tk:8080/hgtv/video.m3u8?token=iptvin
@@ -303,13 +304,13 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/V6dxmRT.jpg" group-title="KÊNH QUỐC TẾ",Animal Planet HD
 https://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://jvtea44x1mh3gctjp1q2nymo-wpengine.netdna-ssl.com/wp-content/uploads/2012/08/BBC-Logo-drsign-Evolution-Story-marketing-facts-1200x630.jpg" group-title="KÊNH QUỐC TẾ",BBC World News
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OQaj1_ttRQg/maxresdefault.jpg" group-title="KÊNH QUỐC TẾ",BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/256xn/p07grdrd.jpg" group-title="KÊNH QUỐC TẾ",BBC NEWS
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/26270
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" group-title="KÊNH QUỐC TẾ",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/g717khX2L4sxX7d9mafhqQ-N2kG8hSLROg37_2isqJZcR2cHAmbX9LapD6k9r4i_z0Sm6GR5CMeELKtsmU_3hYh3lhyoFql3bOyCZnuM_OqDcolSrwLZvwCYmccdzm3smo2rPGRJecQRV1UoMTg2ooT_QzdKJotOBo0a-jRAcma5BLxF7rKC9Pk2" group-title="KÊNH QUỐC TẾ",BBC Lifestyle
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png" group-title="KÊNH QUỐC TẾ",BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/200px-Channel_V_Logo.svg.png" group-title="KÊNH QUỐC TẾ",Channel V HD
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
@@ -681,6 +682,8 @@ http://pulsetv.uk:8080/88888/99999/290851
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",Tennis Channel HD
 http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/18386
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",Tennis Channel HD2
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/18386
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",S Tennis
 http://pulsetv.uk:8080/88888/99999/292012
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",Super Tennis
