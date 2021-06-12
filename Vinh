@@ -261,7 +261,7 @@ http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/29476
 http://pulsetv.uk:8080/88888/99999/247066
 
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/50.png" group-title="KÊNH QUỐC TẾ",NHK WORLD JAPAN
-http://thanhfpt.duckdns.org:4567/rtp/232.84.1.72:8406
+http://trantuan11.ddns.net:22554/udp/232.84.1.72:8406
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6371630_preview.png" group-title="KÊNH QUỐC TẾ",CNN
 https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6371630_preview.png" group-title="KÊNH QUỐC TẾ",CNN.FullHD
@@ -270,7 +270,7 @@ http://trantuan11.ddns.net:22554/udp/232.84.3.153:10690
 http://pulsetv.uk:8080/88888/99999/223787
 #http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://mytv.com.vn/upload/channel/146.png" group-title="KÊNH QUỐC TẾ",CNA
-http://thanhfpt.duckdns.org:4567/rtp/232.84.2.55:10540
+http://trantuan11.ddns.net:22554/udp/232.84.2.55:10540
 #EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="KÊNH QUỐC TẾ",Global News
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/80027Kweslogo.png" group-title="KÊNH QUỐC TẾ",CBS
@@ -469,19 +469,24 @@ http://newhostshare.ddns.net:9981/stream/service/4e5c0539c647b1fdffffe11ca690e51
 
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://www.esfl.co.uk/wp-content/uploads/2020/04/Sky-Sports-News-Image.jpg" group-title="KÊNH THỂ THAO NN", SKY SPORT News
-http://pulsetv.uk:8080/88888/99999/222625
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/1954
+#http://pulsetv.uk:8080/88888/99999/222625
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS EPL
-http://pulsetv.uk:8080/88888/99999/222627
+http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/14655
+#http://pulsetv.uk:8080/88888/99999/222627
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg" group-title="KÊNH THỂ THAO NN",Sky Sports Football
-http://pulsetv.uk:8080/88888/99999/222621
+http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/16970
+#http://pulsetv.uk:8080/88888/99999/222621
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS Main Event
 http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/14651
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportsarenahduk.jpg" group-title="KÊNH THỂ THAO NN",Sky Sports Arena
-http://pulsetv.uk:8080/88888/99999/222618
+http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/16969
+#http://pulsetv.uk:8080/88888/99999/222618
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS Action
-http://pulsetv.uk:8080/88888/99999/222626
+http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/14653
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS F1
-http://pulsetv.uk:8080/88888/99999/222620
+http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/14656
+#http://pulsetv.uk:8080/88888/99999/222620
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg" group-title="KÊNH THỂ THAO NN",Sky Sports Mix
 http://pulsetv.uk:8080/88888/99999/222624
 
@@ -680,6 +685,8 @@ http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/18386
 http://pulsetv.uk:8080/88888/99999/292012
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",Super Tennis
 http://pulsetv.uk:8080/88888/99999/249680
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",EU Sport.UK
+http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/13091
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",EU Sport
 http://pulsetv.uk:8080/88888/99999/248378
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="Tennis",Tennis Channel1
