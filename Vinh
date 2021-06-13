@@ -468,10 +468,12 @@ http://mantul.biz.id:8888/294/294/11984
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.pinimg.com/originals/a1/9a/a6/a19aa64d191a64e606488bd14136ce25.png",SKYNET.SPORT
 http://newhostshare.ddns.net:9981/stream/service/4e5c0539c647b1fdffffe11ca690e516?ticket=f90e4e2233921e7999148e4d5361ef14163cbe4c
 
-
+#EXTINF:-1 tvg-ID="" tvg-logo="https://www.esfl.co.uk/wp-content/uploads/2020/04/Sky-Sports-News-Image.jpg" group-title="KÊNH THỂ THAO NN", SKY SPORT News2
+http://pulsetv.uk:8080/88888/99999/222625
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/1954
 #EXTINF:-1 tvg-ID="" tvg-logo="https://www.esfl.co.uk/wp-content/uploads/2020/04/Sky-Sports-News-Image.jpg" group-title="KÊNH THỂ THAO NN", SKY SPORT News
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/1954
-#http://pulsetv.uk:8080/88888/99999/222625
+http://pulsetv.uk:8080/88888/99999/222625
+#http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/1954
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS EPL
 http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/14655
 #http://pulsetv.uk:8080/88888/99999/222627
