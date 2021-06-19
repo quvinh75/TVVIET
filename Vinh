@@ -544,16 +544,7 @@ http://pulsetv.uk:8080/88888/99999/247866
 http://pulsetv.uk:8080/88888/99999/247867
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport 5
 http://pulsetv.uk:8080/88888/99999/247879
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport 6
-http://pulsetv.uk:8080/88888/99999/247936
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport 7
-http://pulsetv.uk:8080/88888/99999/247935
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport 8
-http://pulsetv.uk:8080/88888/99999/247934
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport 9
-http://pulsetv.uk:8080/88888/99999/247933
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport 10
-http://pulsetv.uk:8080/88888/99999/247932
+
 
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/06/logo_nowsport_epg_pl_0-1.png" group-title="KÊNH THỂ THAO NN", Now HK Premier Sports 1 50fps
 http://pulsetv.uk:8080/88888/99999/251261
@@ -621,6 +612,33 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/19149
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", SKY SPORTS
 http://iptvtree.net:8080/vpngenerators/635ee5a5e7/266792
 
+#EXTINF:-1 tvg-logo="https://www.theandroidsoul.com/wp-content/uploads/2017/07/OptusSport.jpg" group-title="KÊNH THỂ THAO",OPTUS SPORT 1 
+http://wagnet.club:7000/test1234/test1234/644655
+#EXTINF:-1 tvg-logo="https://www.theandroidsoul.com/wp-content/uploads/2017/07/OptusSport.jpg" group-title="KÊNH THỂ THAO",OPTUS SPORT 2 
+http://wagnet.club:7000/test1234/test1234/644656
+#EXTINF:-1 tvg-logo="https://www.theandroidsoul.com/wp-content/uploads/2017/07/OptusSport.jpg" group-title="KÊNH THỂ THAO",OPTUS SPORT 3
+http://wagnet.club:7000/test1234/test1234/644657
+#EXTINF:-1 tvg-logo="https://www.theandroidsoul.com/wp-content/uploads/2017/07/OptusSport.jpg" group-title="KÊNH THỂ THAO",OPTUS SPORT 4
+http://wagnet.club:7000/test1234/test1234/644658
+#EXTINF:-1 tvg-logo="https://www.theandroidsoul.com/wp-content/uploads/2017/07/OptusSport.jpg" group-title="KÊNH THỂ THAO",OPTUS SPORT 5
+http://wagnet.club:7000/test1234/test1234/644659
+#EXTINF:-1 tvg-logo="https://www.theandroidsoul.com/wp-content/uploads/2017/07/OptusSport.jpg" group-title="KÊNH THỂ THAO",OPTUS SPORT 6
+http://wagnet.club:7000/test1234/test1234/644660
+#EXTINF:-1 tvg-logo="https://www.theandroidsoul.com/wp-content/uploads/2017/07/OptusSport.jpg" group-title="KÊNH THỂ THAO",OPTUS SPORT 7
+http://wagnet.club:7000/test1234/test1234/644661
+#EXTINF:-1 tvg-logo="https://www.theandroidsoul.com/wp-content/uploads/2017/07/OptusSport.jpg" group-title="KÊNH THỂ THAO",OPTUS SPORT 8
+http://wagnet.club:7000/test1234/test1234/644662
+
+#EXTINF:-1 tvg-logo="http://www.thetechguyni.co.uk/wp-content/uploads/ALLPICONS/picons3/usacatsn1hd.png" group-title="KÊNH THỂ THAO",TSN 1
+http://wagnet.club:7000/test1234/test1234/644650
+#EXTINF:-1 tvg-logo="http://www.thetechguyni.co.uk/wp-content/uploads/ALLPICONS/picons3/usacatsn2hd.png" group-title="KÊNH THỂ THAO",TSN 2
+http://wagnet.club:7000/test1234/test1234/644651
+#EXTINF:-1 tvg-logo="http://www.thetechguyni.co.uk/wp-content/uploads/ALLPICONS/picons3/usacatsn3hd.png" group-title="KÊNH THỂ THAO",TSN 3
+http://wagnet.club:7000/test1234/test1234/644652
+#EXTINF:-1 tvg-logo="http://www.thetechguyni.co.uk/wp-content/uploads/ALLPICONS/picons3/usacatsn4hd.png" group-title="KÊNH THỂ THAO",TSN 4
+http://wagnet.club:7000/test1234/test1234/644653
+#EXTINF:-1 tvg-logo="http://www.thetechguyni.co.uk/wp-content/uploads/ALLPICONS/picons3/usacatsn5hd.png" group-title="KÊNH THỂ THAO",TSN 5
+http://wagnet.club:7000/test1234/test1234/644654
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 1
 http://wagnet.club:7000/test1234/test1234/650082
