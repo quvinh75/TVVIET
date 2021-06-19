@@ -739,23 +739,21 @@ http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/23442
 #EXTINF:-1 tvg-logo="https://i.iinfo.cz/images/495/o2-tv-sport-perex-1.jpg" group-title="KÊNH THỂ THAO",O2TV
 http://84.42.140.148:8880/hdmi
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="KÊNH THỂ THAO",SPORT.TV1
-http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/11
-#https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+http://152.89.62.111:8080/88888/99999/248420
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="KÊNH THỂ THAO",SPORT.TV1.2
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="KÊNH THỂ THAO",SPORT.TV2
-http://akamaizedx.com:80/odair100/odair100/10052988
+http://152.89.62.111:8080/88888/99999/248421
 #https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="KÊNH THỂ THAO",SPORT.TV3
-http://akamaizedx.com:80/odair100/odair100/10052985
-#https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+http://152.89.62.111:8080/88888/99999/248423
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="KÊNH THỂ THAO",SPORT.TV3.2
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png" group-title="KÊNH THỂ THAO",SPORT.TV4
-http://akamaizedx.com:80/odair100/odair100/10052983
+http://152.89.62.111:8080/88888/99999/248424
 #https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/vvvqxp1470408443.png" group-title="KÊNH THỂ THAO",SPORT.TV5
-http://akamaizedx.com:80/odair100/odair100/10052981
+http://152.89.62.111:8080/88888/99999/248425
 #https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEin Sport 1
