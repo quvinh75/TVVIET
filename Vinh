@@ -28,7 +28,7 @@ http://103.207.38.11/vtv6fpt/mpegts
 
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png",VTVcab1 _ Vie Giải Trí
 http://trantuan11.ddns.net:22554/udp/232.84.1.143:8832
-#EXTINF:0 group232.84.1.143:8832-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt
+#EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt
 http://203.162.123.178:8080/vtvcab2/index.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt2
 http://trantuan11.ddns.net:22554/udp/232.84.1.168:8982
