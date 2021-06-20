@@ -204,22 +204,19 @@ http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/33945
 http://kodi.vncctv.info:8381/rtp/232.84.3.101:10648
 #http://quangvinh997.duckdns.org:8889/udp/225.1.4.90:30120
 #EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://aux.iconspalace.com/uploads/19971240062044726999.png", HBO2
-http://trantuan11.ddns.net:22554/udp/232.84.2.138:10648
+http://hodam:hothanhdam@hothanhdam.duckdns.org:9981/stream/channelid/304339107?profile=pass
 #EXTINF:-1 tvg-id="HBO" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO HD
-http://trantuan11.ddns.net:22554/udp/232.84.3.101:10648
-#http://51.210.99.3:8080/hbo/index.m3u8
+http://51.210.99.3:8080/hbo/index.m3u8
 #EXTINF:-1 tvg-id="FOXMovies" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="fox_movies" group-title="PHIM" tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png",FOX Movies.FHD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="FOXMovies" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES2
-http://trantuan11.ddns.net:22554/udp/232.84.1.77:8436
+http://hodam:hothanhdam@hothanhdam.duckdns.org:9981/stream/channelid/1026919549?profile=pass
 #EXTINF:-1 tvg-id="foxmovieshd" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" ,FOX FAMILY MOVIES
 https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX
 http://14.232.214.220:8888/udp/239.2.100.90:5000
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX2
-http://trantuan11.ddns.net:22554/udp/232.84.2.139:10654
+http://hodam:hothanhdam@hothanhdam.duckdns.org:9981/stream/channelid/1806666386?profile=pass
 #EXTINF:-1 tvg-id="FOX Canal" group-title="PHIM" tvg-logo="https://www.vhv.rs/dpng/d/438-4382750_file-maxbyhbo-max-by-hbo-logo-hd-png.png",CINEMAX.FPT
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
 #EXTINF:-1 tvg-id="HBO.ASIA" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO.ASIA
