@@ -19,14 +19,12 @@ https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png",VTV9
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png",VTV1FULHD
-http://trantuan11.ddns.net:22554/rtp/232.84.1.117:10254
-#http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/3.png",VTV3FULLHD
-http://14.231.240.241:8381/rtp/232.84.1.118:10260
-#http://trantuan11.ddns.net:22554/rtp/232.84.1.118:10260
+http://103.207.38.11/vtv3fpt/mpegts
 #http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6 FHD
-http://trantuan11.ddns.net:22554/rtp/232.84.1.119:10266
+http://103.207.38.11/vtv6fpt/mpegts
 
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png",VTVcab1 _ Vie Giải Trí
 http://trantuan11.ddns.net:22554/udp/232.84.1.143:8832
