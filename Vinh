@@ -21,23 +21,23 @@ https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png",VTV1FULHD
 http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/3.png",VTV3FULLHD
-http://103.207.38.11/vtv3fpt/mpegts
+http://103.207.38.11/vtv3/mpegts
 #http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6 FHD
-http://103.207.38.11/vtv6fpt/mpegts
+http://103.207.38.11/vtv6/mpegts
 
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png",VTVcab1 _ Vie Giải Trí
 http://trantuan11.ddns.net:22554/udp/232.84.1.143:8832
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt
 http://203.162.123.178:8080/vtvcab2/index.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt2
-http://trantuan11.ddns.net:22554/udp/232.84.1.168:8982
+http://hodam:hothanhdam@hothanhdam.duckdns.org:9981/stream/channelid/1070084090?profile=pass
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://i.postimg.cc/tgbcjg8c/vtvcab3-thethaohd.png",VTVcab3 - Thể thao TV
 http://51.210.99.3:21585/vtvcab3/index.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/194.png", VTVcab 4 - Văn hóa
 http://kodi.vncctv.info:8381/rtp/232.84.2.190:10924
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/194.png", VTVcab 4 - Văn hóa
-http://trantuan11.ddns.net:22554/udp/232.84.2.190:10924
+http://hodam:hothanhdam@hothanhdam.duckdns.org:9981/stream/channelid/1982563356?profile=pass
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/-nh-logo---i-t-c/adt-echannel-haytv-04-copy2_w200_h200.png",VTVcab5 -  E Channel
 http://trantuan11.ddns.net:22554/udp/239.2.100.175:5000
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/HAY_TV_M.png",VTVcab6 - HayTV
