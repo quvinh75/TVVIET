@@ -1,48 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Animal Planet-ClipTV" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/ooy2lyY.png",Animal Planet
-http://kodi.vncctv.info:8381/rtp/232.84.3.139:10702
-#EXTINF:-1 tvg-id="Asian Food Channel" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/rQ3Sgrn.png",Asian Food Channel
-http://kodi.vncctv.info:8381/rtp/232.84.2.129:9570
-#EXTINF:-1 tvg-id="AXN-ClipTV" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/5Gtp7WP.png",AXN HD
-http://kodi.vncctv.info:8381/rtp/232.84.3.121:10660
-#EXTINF:-1 tvg-id="Baby TV HD" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/s28XuHs.pngg",Baby TV HD
-http://kodi.vncctv.info:8381/rtp/232.84.3.128:10624
-#EXTINF:-1 tvg-id="Bloomberg" group-title="Kênh quốc tế" tvg-logo="https://imgur.com/HC1WD0K.png",Bloomberg
-http://kodi.vncctv.info:8381/rtp/232.84.3.157:10696
-#EXTINF:-1 tvg-id="CARTOON NETWORK" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/nzvNMfP.png",Cartoon Network HD
-http://kodi.vncctv.info:8381/rtp/232.84.2.144:10684
-#EXTINF:-1 tvg-id="Channel V" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/BT8eRjq.png",Channel V
-http://kodi.vncctv.info:8381/rtp/232.84.3.144:9588
-#EXTINF:-1 tvg-id="Clubbing TV" group-title="Kênh quốc tế" tvg-logo="https://imgur.com/Hnuw4Go.png",Clubbing TV
-http://kodi.vncctv.info:8381/rtp/232.84.3.194:11086
-#EXTINF:-1 tvg-id="Channel News Asia - CNA" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/eyzGJhD.png",Channel News Asia - CNA
-http://kodi.vncctv.info:8381/rtp/232.84.2.55:10540
-#EXTINF:-1 tvg-id="CNN" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/krupazx.png",CNN
-http://kodi.vncctv.info:8381/rtp/232.84.3.153:10690
-#EXTINF:-1 tvg-id="Da Vinci" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/ZkEEeM9.png",Da Vinci
-http://kodi.vncctv.info:8381/rtp/232.84.2.131:9582
-#EXTINF:-1 tvg-id="Discovery Channel" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery Channel
-http://kodi.vncctv.info:8381/rtp/232.84.2.53:10528
-#EXTINF:-1 tvg-id="Disney Channel" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/06F6gjj.png",Disney Channel
-http://kodi.vncctv.info:8381/rtp/232.84.2.143:10678
-#EXTINF:-1 tvg-id="DW" group-title="Kênh quốc tế" tvg-logo="https://imgur.com/UAqsZvd.png",DW
-http://kodi.vncctv.info:8381/rtp/232.84.2.233:10416
-#EXTINF:-1 tvg-id="Fashion TV" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/Zyy11Cs.png",Fashion TV
-http://kodi.vncctv.info:8381/rtp/232.84.3.149:10522
-#EXTINF:-1 tvg-id="Fox HD" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/cwVCPqN.png",FOX HD
-http://kodi.vncctv.info:8381/rtp/232.84.2.120:8448
-#EXTINF:-1 tvg-id="Fox Life" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/8COzEQg.png",Fox Life HD
-http://kodi.vncctv.info:8381/rtp/232.84.1.78:8442
-#EXTINF:-1 tvg-id="Fox Movies HD" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/1bzBhnP.png",Fox Movies HD
-http://kodi.vncctv.info:8381/rtp/232.84.1.77:8436
-#EXTINF:-1 tvg-id="FOX SPORTS" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/OTGc8pX.png",Fox Sports HD
-http://kodi.vncctv.info:8381/rtp/232.84.3.111:10666
-#EXTINF:-1 tvg-id="FOX SPORTS 2" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/TPL8d6Y.png",Fox Sports 2 HD
-http://kodi.vncctv.info:8381/rtp/232.84.3.129:10672
-#EXTINF:-1 tvg-id="HBO HD" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/OwHrcW9.png",HBO HD
-http://kodi.vncctv.info:8381/rtp/232.84.3.101:10648
-#EXTINF:-1 tvg-id="Max by HBO" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/PklWJDL.png",MAX by HBO HD
-http://kodi.vncctv.info:8381/rtp/232.84.3.117:10654
 
 #EXTINF:-1,SPORT TV + ᶠᴴᴰ
 http://146.59.187.5:8080/2talp0AmKx/IGUXc5Xbwe/52265
