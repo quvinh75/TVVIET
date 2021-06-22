@@ -19,7 +19,8 @@ https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png",VTV9
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png",VTV1FULHD
-http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
+http://58.187.23.236:2107/udp/225.1.2.249:30120
+#http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/3.png",VTV3FULLHD
 http://103.207.38.11/vtv3/mpegts
 #http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
@@ -802,7 +803,7 @@ http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/72677
 #EXTINF:0 group-title="4K TV" tvg-logo="https://www.thematv.us/images/channels/4k-heritage-tv.png",Heritage UHD 
 http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/72674
 #EXTINF:-1 group-title="4K TV" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png",FTV.4K_UDP
-http://quangvinh997.duckdns.org:8889/udp/225.1.2.232:30120
+http://58.187.23.236:2107/udp/225.1.2.232:30120
 #EXTINF:-1 group-title="4K TV" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png",FashionTV.4K
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="4K TV" tvg-logo="https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",Bloomberg 4K
