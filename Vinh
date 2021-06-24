@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://gg.gg/epgbeartv" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
@@ -74,12 +75,12 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 http://trantuan11.ddns.net:22554/udp/232.84.2.246:10876
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Uljs81.png" group-title="VIETNAMTV", VTC1
-http://42.114.59.39:2107/udp/225.1.2.254:30120
+https://vtc130121.cdn.vnns.io/VTC1_abr/vtc130121/VTC1_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="VTC2" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/8Y2vdek.png",VTC2
-https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+https://vtc130121.cdn.vnns.io/VTC2/playlist.m3u8
+#https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="VTC3" group-title="VIETNAMTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Icon_355x2003.jpg",VTC3
-http://42.114.59.39:2107/udp/225.1.2.251:30120
-#https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8
+https://vtc130121.cdn.vnns.io/VTC3_abr/vtc130121/VTC3_1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9DNS85.png" group-title="VIETNAMTV", VTC4
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="VTC5" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/w18H0gU.jpg",VTC5
@@ -91,15 +92,13 @@ https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="VTC" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/FVM7co8.jpg",VTC8
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="VTC9" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/UOIPXAr.png",VTC9
-http://42.114.59.39:2107/udp/225.1.2.195:30120
+https://vtc130121.cdn.vnns.io/VTC9_abr/vtc130121/VTC9_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="VTC10" group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/TC10_M.png",NETVIET TV
 https://vtc130121.cdn.vnns.io/VTC10_abr/vtc130121/VTC10_abr_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="VTC11" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/JARfwUf.png",VTC11
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="VTC12" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/DqHGORv.jpg",VTC12
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="VTC13" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/hLQNEhy.png",VTC13.4k
-http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/chunklist_w82265077_b4096000_sleng.m3u8
 #EXTINF:-1 tvg-id="VTC13" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/hLQNEhy.png",VTC13
 https://vtc130121.cdn.vnns.io/VTC13_abr/vtc130121/VTC13_abr_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="VTC14" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/85swmKd.png",VTC14
