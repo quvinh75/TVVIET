@@ -724,4 +724,5 @@ http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/72674
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="4K TV" tvg-logo="https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",Bloomberg 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
+#EXTINF:0 group-title="4K TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/1200px-Sky_Group_logo_2020.svg.png", SKY SELECTED 4K
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17007
