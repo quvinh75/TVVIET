@@ -650,15 +650,20 @@ http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/23442
 
 #EXTINF:-1 tvg-logo="https://i.iinfo.cz/images/495/o2-tv-sport-perex-1.jpg" group-title="KÊNH THỂ THAO",O2TV
 http://84.42.140.148:8880/hdmi
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="KÊNH THỂ THAO",SPORT.TV+
+http://usa3.iptvteam.org:8000/paulo/2016/531
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="KÊNH THỂ THAO",SPORT.TV1
-http://152.89.62.111:8080/88888/99999/248420
+http://usa3.iptvteam.org:8000/paulo/2016/108
+#http://152.89.62.111:8080/88888/99999/248420
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="KÊNH THỂ THAO",SPORT.TV1.2
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="KÊNH THỂ THAO",SPORT.TV2
-http://152.89.62.111:8080/88888/99999/248421
+http://usa3.iptvteam.org:8000/paulo/2016/102
+#http://152.89.62.111:8080/88888/99999/248421
 #https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="KÊNH THỂ THAO",SPORT.TV3
-http://152.89.62.111:8080/88888/99999/248423
+http://usa3.iptvteam.org:8000/paulo/2016/132
+#http://152.89.62.111:8080/88888/99999/248423
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="KÊNH THỂ THAO",SPORT.TV3.2
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png" group-title="KÊNH THỂ THAO",SPORT.TV4
