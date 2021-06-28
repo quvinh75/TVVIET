@@ -22,52 +22,25 @@ https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png",VTV1FULHD
 http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/3.png",VTV3FULLHD
-http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
+http://103.216.122.72:8889/udp/225.0.0.3:5000
+#http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6 FHD
 http://103.207.38.11/vtv6/mpegts
 
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png",VTVcab1 _ Vie Giải Trí
-http://trantuan11.ddns.net:22554/udp/232.84.1.143:8832
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/bad5db5867d184d5e2e0978839414368/1624943085858/vtvcab/live/hd_vtvcab_1_test/playlist.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt
-http://203.162.123.178:8080/vtvcab2/index.m3u8
-#EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt2
-http://hodam:hothanhdam@hothanhdam.duckdns.org:9981/stream/channelid/1070084090?profile=pass
+http://112.197.12.59/hls/vtvcab2/index.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://i.postimg.cc/tgbcjg8c/vtvcab3-thethaohd.png",VTVcab3 - Thể thao TV
-http://51.210.99.3:21585/vtvcab3/index.m3u8
+http://112.197.12.59/hls/vtvcab3/index.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/194.png", VTVcab 4 - Văn hóa
-http://42.114.59.39:2107/rtp/232.84.2.190:10924
-#EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/194.png", VTVcab 4 - Văn hóa
-http://hodam:hothanhdam@hothanhdam.duckdns.org:9981/stream/channelid/1982563356?profile=pass
-#EXTINF:0 group-title="VIETNAMTV" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/-nh-logo---i-t-c/adt-echannel-haytv-04-copy2_w200_h200.png",VTVcab5 -  E Channel
-http://trantuan11.ddns.net:22554/udp/239.2.100.175:5000
-#EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/HAY_TV_M.png",VTVcab6 - HayTV
-http://trantuan11.ddns.net:22554/udp/232.84.1.220:9294
-#EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/984/1569832376891.png",VTVcab7 - 02TV
-http://trantuan11.ddns.net:22554/udp/232.84.1.26:8130
-#EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/BIBI_M.png",VTVcab8 - BIBI
-http://trantuan11.ddns.net:22554/udp/232.84.1.206:9210
-#EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/INFO_TV_M.png",VTVcab9 - InfoTV
-http://trantuan11.ddns.net:22554/udp/232.84.2.191:10930
+http://mika.vacovska.cf:1935/live/_definst_/VTVcab4_HD_4/chunklist.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/D-dramas-png220124.png", Vie Dramas
-http://trantuan11.ddns.net:22554/udp/232.84.3.218:11230
-#EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/103.png",VTVcab12
-http://trantuan11.ddns.net:22554/udp/232.84.1.244:9438
-#EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/M_CHANNEL_M.png",VTVcab15 - M Channel
-http://trantuan11.ddns.net:22554/udp/239.2.100.10:5000
+http://mika.vacovska.cf:1935/live/_definst_/VTVcab10_SD_4/chunklist.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://i.ibb.co/165qscC/VTVCAB16-BEARTV.png",VTVcab16_BĐTV
-http://103.207.38.11/bdtvhd/mpegts
-#EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/YEAH1_TV_M.png",VTVcab17 - Yeah1 TV
-http://trantuan11.ddns.net:22554/udp/232.84.1.217:9276
+http://112.197.12.59/hls/vtvcab16/index.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/tvshows/CBG2/THETHAO_TINTUC_HD_M.jpg",VTVcab18 - Tin tức Thể thao
 http://trantuan11.ddns.net:22554/udp/232.84.2.193:10942
-#EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/FILM_TV_M.png",VTVcab19 - Film TV
-http://trantuan11.ddns.net:22554/udp/232.84.1.169:8988
-#EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/VFAMILY_M.png",VTVcab20 - V Family
-http://trantuan11.ddns.net:22554/udp/232.84.1.245:10344
-#EXTINF:0 group-title="VIETNAMTV"  tvg-logo="https://rsstv.gviet.vn/sctv/158/77/1570762675549.png",VTVcab22 - Life TV
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:0 group-title="VIETNAMTV"  tvg-logo="https://rsstv.gviet.vn/sctv/157/999/1569981249737.png",VTVcab23 - Golf TV
-http://trantuan11.ddns.net:22554/udp/232.84.2.246:10876
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Uljs81.png" group-title="VIETNAMTV", VTC1
 https://vtc130121.cdn.vnns.io/VTC1_abr/vtc130121/VTC1_1080p/playlist.m3u8
@@ -173,15 +146,9 @@ https://livecdn.fptplay.net/sdc/danang2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="SCTV1" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-N7N00xEzwdk/WseTQ4JIZAI/AAAAAAAAD54/3CBRPE78BnARomYiVfxbMN2cMgR8G4o5gCLcBGAs/h1200/s1.png", SCTV1 HD - Hài
 https://vtsstr1.tv24.vn/live/SCTV_HD_Hai_new.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944648887.png", SCTV9 - Phim TVB
-
+http://s4live.tv1asia.com:21585/sctv9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SCTV16" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV16.png", SCTV16 HD - Phim Nước Ngoài
-http://vtsstr6.tv24.vn:1935/live/SCTV_HD_phimnuocngoaidacsac_4/playlist.m3u8
-#EXTINF:-1 tvg-id="SCTV17" group-title="SCTV" tvg-logo="https://tvonline.vn/wp-content/uploads/2018/07/large_sctv171.png", SCTV17 HD - Ssport
-http://14.180.251.165:9981/stream/channelid/195732866?profile=pass
-#EXTINF:-1 tvg-id="SCTVPTH" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/577/1565767887100.png", SCTV HD Phim Tổng Hợp
-http://vtsstr1.tv24.vn:1935/live/SCTVHDPhimTH_4/chunklist.m3u8
-#EXTINF:-1 tvg-id="SCTV22" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b0/Biểu_trưng_SCTV.png", SCTV22 HD - Ssport 1
-http://trantuan11.ddns.net:22554/udp/239.2.100.61:5000
+http://112.197.12.54/hls/sctv16/sd1/index.m3u8
 
 #EXTINF:0 tvg-id="HBO(NoSub)" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO(NoSub)
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/17074
