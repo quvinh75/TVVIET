@@ -49,7 +49,7 @@ http://103.216.122.72:8889/udp/225.0.0.63:5000
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/K%2BPC.png", KA3
 http://103.216.122.72:8889/udp/225.0.0.64:5000
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K%2BNS_HD.png", KA4
-http://103.216.122.72:8889/udp/225.0.0.64:5000
+http://103.216.122.72:8889/udp/225.0.0.62:5000
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Uljs81.png" group-title="VIETNAMTV", VTC1
 https://vtc130121.cdn.vnns.io/VTC1_abr/vtc130121/VTC1_1080p/playlist.m3u8
