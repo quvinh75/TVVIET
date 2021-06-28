@@ -213,6 +213,8 @@ http://152.89.62.111:8080/88888/99999/222961
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV4
 http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/46557
 #http://152.89.62.111:8080/88888/99999/250600
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV.CA2
+http://185.134.22.131:8080/chuck1/chuck1/1188
 
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/50.png" group-title="KÊNH QUỐC TẾ",NHK WORLD JAPAN
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
