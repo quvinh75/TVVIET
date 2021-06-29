@@ -439,26 +439,17 @@ http://152.89.62.111:8080/88888/99999/290497
 http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/23754
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-psl-za.jpg" group-title="KÊNH THỂ THAO NN", SuperSport PSL
-http://pulsetv.uk:8080/88888/99999/292014
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/28894
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport LaLiga
-http://pulsetv.uk:8080/88888/99999/292019
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/28895
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Premier League
-http://pulsetv.uk:8080/88888/99999/292015
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/28896
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-grandstand-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Grandstand
-http://pulsetv.uk:8080/88888/99999/292020
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-variety-1-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Variety 1
-http://pulsetv.uk:8080/88888/99999/292011
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-variety-2-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Variety 2
-http://pulsetv.uk:8080/88888/99999/292010
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-variety-3-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Variety 3
-http://pulsetv.uk:8080/88888/99999/241149
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-variety-4-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Variety 4
-http://pulsetv.uk:8080/88888/99999/292008
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/28897
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-action-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Action
-http://pulsetv.uk:8080/88888/99999/292025
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/28900
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-football-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Football
-http://pulsetv.uk:8080/88888/99999/292022
-
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/28901
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsport1fr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport 1
 http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/13182
@@ -603,33 +594,25 @@ http://trantuan11.ddns.net:22554/udp/232.84.2.142:10672
 #EXTINF:0 tvg-id="FOX SPORTS 3" group-title="KÊNH THỂ THAO" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/07/16/851322-foxsport_3.png", FOXSPORT 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="KÊNH THỂ THAO NN",Astro SuperSport
-http://pulsetv.uk:8080/88888/99999/241164
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="KÊNH THỂ THAO NN",Astro SuperSport 2
-http://pulsetv.uk:8080/88888/99999/241165
-#http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" group-title="KÊNH THỂ THAO NN",Astro SuperSport 3
-http://pulsetv.uk:8080/88888/99999/287835
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport 3.1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport 3
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
-#EXTINF:-1 group-title="KÊNH THỂ THAO NN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png",Astro SuperSport 4
-http://pulsetv.uk:8080/88888/99999/241166
 #EXTINF:-1 group-title="KÊNH THỂ THAO NN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png",Astro SuperSport 4
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png",Astro ARENA
-http://pulsetv.uk:8080/88888/99999/290851
-#http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",Tennis Channel HD
 http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/18386
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",Tennis Channel HD2
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/18386
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",S Tennis
-http://pulsetv.uk:8080/88888/99999/292012
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/54966
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",Super Tennis
-http://pulsetv.uk:8080/88888/99999/249680
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/4084
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",EU Sport.UK
 http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/13091
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",EU Sport
