@@ -615,8 +615,6 @@ http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/54966
 http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/4084
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",EU Sport.UK
 http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/13091
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",EU Sport
-http://pulsetv.uk:8080/88888/99999/248378
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="Tennis",Tennis Channel1
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="Tennis",Tennis Channel2
@@ -670,18 +668,10 @@ http://144.217.253.140/beinsport4/tracks-v1a1/mono.m3u8
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", SkyEPL
-http://wagnet.club:7000/test1234/test1234/100
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/14655
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", Skynews
 http://wagnet.club:7000/test1234/test1234/224796
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", BT1
-http://wagnet.club:7000/test1234/test1234/565479
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", S.EPL
-http://wagnet.club:7000/test1234/test1234/477489
 
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://1.bp.blogspot.com/-bEfwNh-dIPE/VFgvGTpc_JI/AAAAAAAAAMs/V56HdSnG5y8/s1600/index3.jpg", OTE SPORT1
-http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/144177
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://1.bp.blogspot.com/-bEfwNh-dIPE/VFgvGTpc_JI/AAAAAAAAAMs/V56HdSnG5y8/s1600/index3.jpg", OTE SPORT1
-http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/144178
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2M1ygvb/worldcup2022-BEARTV.png" group-title="KÊNH THỂ THAO", DubaiSport - WC2022
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
@@ -693,13 +683,14 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/eurosport4kru.jpg" group-title="4K TV",Eurosport 4K
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/57967
 #http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/57967
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/eurosport4kru.jpg" group-title="4K TV",Eurosport 4K
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/57967
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/sweden/logo/viasat_ultra_hd.png" group-title="4K TV", V Sport Ultra UHD
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/30091
 #EXTINF:0 group-title="4K TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", SkyUHD
 http://5.147.3.82:8000/play/a04c/index.m3u8
 #EXTINF:0 group-title="4K TV" tvg-logo="https://cdn.imgbin.com/13/11/11/imgbin-united-kingdom-home-uktv-w-television-channel-united-kingdom-gbwSJuL7dWy8DFJUQBtigANEx.jpg",HOME 4K
 http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/72675
-#http://31.134.132.242:8080/home4k/mpegts
 #EXTINF:0 group-title="4K TV" tvg-logo="https://i.ytimg.com/vi/W-nn-8YuBMg/hqdefault_live.jpg",TRT 4K
 http://152.89.62.111:8080/88888/99999/289364
 #EXTINF:0 group-title="4K TV" tvg-logo="https://www.grandcccam.com/IMG_Files/bigthumb-rai-4k-2071047523.jpg",RAI 4K
