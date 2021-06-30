@@ -466,8 +466,10 @@ http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/21522
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport 4
 http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/13148
 
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/06/logo_nowsport_epg_pl_0-1.png" group-title="KÊNH THỂ THAO NN", Now HK Premier Sports 1 50fps
-http://pulsetv.uk:8080/88888/99999/251261
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/06/logo_nowsport_epg_pl_0-1.png" group-title="KÊNH THỂ THAO NN", Now HK Premier Sports
+http://152.89.62.111:8080/88888/99999/251261
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/06/logo_nowsport_epg_pl_0-1.png" group-title="KÊNH THỂ THAO NN", Now HK Premier Sports_2
+http://wagnet.club:7000/test1234/test1234/654403
 
 #EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/logo/sporttvmais/medium.jpg" group-title="KÊNH THỂ THAO NN",SPORT.TV+
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/19589
