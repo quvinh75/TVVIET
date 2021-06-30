@@ -205,8 +205,7 @@ http://58.65.171.202:8000/play/4334/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV.US
 http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/13835
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV.US2
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/13835
-#http://152.89.62.111:8080/88888/99999/250597
+http://152.89.62.111:8080/88888/99999/250597
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV.CA
 http://152.89.62.111:8080/88888/99999/222961
 #http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/29476
@@ -409,23 +408,26 @@ http://mantul.biz.id:8888/294/294/11984
 http://newhostshare.ddns.net:9981/stream/service/4e5c0539c647b1fdffffe11ca690e516?ticket=f90e4e2233921e7999148e4d5361ef14163cbe4c
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://www.esfl.co.uk/wp-content/uploads/2020/04/Sky-Sports-News-Image.jpg" group-title="KÊNH THỂ THAO NN", SKY SPORT News2
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/1954
+http://185.134.22.131:8080/chuck1/chuck1/45346
+#http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/1954
 #EXTINF:-1 tvg-ID="" tvg-logo="https://www.esfl.co.uk/wp-content/uploads/2020/04/Sky-Sports-News-Image.jpg" group-title="KÊNH THỂ THAO NN", SKY SPORT News
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/1954
+http://152.89.62.111:8080/88888/99999/222625
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS EPL
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/14655
+http://152.89.62.111:8080/88888/99999/222627
+#http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/14655
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg" group-title="KÊNH THỂ THAO NN",Sky Sports Football
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/16970
+http://152.89.62.111:8080/88888/99999/222621
+#http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/16970
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS Main Event
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/14651
+http://152.89.62.111:8080/88888/99999/222623
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportsarenahduk.jpg" group-title="KÊNH THỂ THAO NN",Sky Sports Arena
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/16969
+http://152.89.62.111:8080/88888/99999/222618
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS Action
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/14653
+http://152.89.62.111:8080/88888/99999/222610
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS F1
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/14656
+http://152.89.62.111:8080/88888/99999/222620
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg" group-title="KÊNH THỂ THAO NN",Sky Sports Mix
-http://pulsetv.uk:8080/88888/99999/222624
+http://152.89.62.111:8080/88888/99999/222624
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1hd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport 1
 http://152.89.62.111:8080/88888/99999/222645
