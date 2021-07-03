@@ -692,7 +692,7 @@ http://tv1.cs10.tv:80/Alexandra/Alexandra/57569
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/sweden/logo/viasat_ultra_hd.png" group-title="4K TV", V Sport Ultra UHD
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/30091
 #EXTINF:0 group-title="4K TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", SkyUHD
-http://5.147.3.82:8000/play/a04c/index.m3u8
+http://5.146.3.193:8000/play/a04c/index.m3u8
 #EXTINF:0 group-title="4K TV" tvg-logo="https://cdn.imgbin.com/13/11/11/imgbin-united-kingdom-home-uktv-w-television-channel-united-kingdom-gbwSJuL7dWy8DFJUQBtigANEx.jpg",HOME 4K
 http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/72675
 #EXTINF:0 group-title="4K TV" tvg-logo="https://i.ytimg.com/vi/W-nn-8YuBMg/hqdefault_live.jpg",TRT 4K
