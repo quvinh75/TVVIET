@@ -42,13 +42,11 @@ http://112.197.12.59/hls/vtvcab16/index.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/tvshows/CBG2/THETHAO_TINTUC_HD_M.jpg",VTVcab18 - Tin tức Thể thao
 http://trantuan11.ddns.net:22554/udp/232.84.2.193:10942
 
-#EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://e7.pngegg.com/pngimages/437/452/png-clipart-vietnam-television-k-m3u-others-miscellaneous-television.png", KA1
-http://103.216.122.72:8889/udp/225.0.0.61:5000
-#EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://avajsc.com/hoanghung/30/images/K+PM_HD.png", KA2
-http://103.216.122.72:8889/udp/225.0.0.63:5000
-#EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/K%2BPC.png", KA3
-http://103.216.122.72:8889/udp/225.0.0.64:5000
-#EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K%2BNS_HD.png", KA4
+#EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://e7.pngegg.com/pngimages/437/452/png-clipart-vietnam-television-k-m3u-others-miscellaneous-television.png", K1
+http://s4live.tv1asia.com:21585/kplus2/index.m3u8
+#EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/K%2BPC.png", K_PC
+http://s4live.tv1asia.com:21585/kpc2/index.m3u8
+#EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K%2BNS_HD.png", K_NS
 http://s4live.tv1asia.com:21585/kns2/index.m3u8
 #http://103.216.122.72:8889/udp/225.0.0.62:5000
 
