@@ -435,8 +435,8 @@ http://wagnet.club:7000/test1234/test1234/477491
 http://wagnet.club:7000/test1234/test1234/477496
 #http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/28900
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",S Tennis
-http://tv.shqip.hitv.one:80/fn3huGQ/1AsGbU/54966
-#http://185.134.22.131:8080/chuck1/chuck1/43160
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/54966
+
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsport1fr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport 1
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/26277
@@ -471,36 +471,33 @@ http://152.89.62.111:8080/88888/99999/292864
 http://152.89.62.111:8080/88888/99999/292865
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO NN" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEin Sport Premium 1
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/75533
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/75533
 #EXTINF:-1 group-title="KÊNH THỂ THAO NN" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEin Sport Premium 2
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/75534
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/75534
 #EXTINF:-1 group-title="KÊNH THỂ THAO NN" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEin Sport Premium 3
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/75535
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/75535
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/681-6814150_ert-sports-hd-logo-ert-sports-hd-hd.png" group-title="KÊNH THỂ THAO NN",EPT
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/681-6814150_ert-sports-hd-logo-ert-sports-hd-hd.png" group-title="KÊNH THỂ THAO NN",EPT.2
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
 #EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/zs-assets-staging/lKkvMzAp_400x400.jpg" group-title="KÊNH THỂ THAO NN",Z Select
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/12523
-#http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
+http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/zs-assets-staging/lKkvMzAp_400x400.jpg" group-title="KÊNH THỂ THAO NN",Z Football
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/15803
-#http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
+http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a686.png" group-title="KÊNH THỂ THAO NN",TRING Sport
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/8078
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/8079
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a686.png" group-title="KÊNH THỂ THAO NN",TRING Sport2
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/8078
-#http://79.106.224.178:25461/live/speed/net/22.m3u8
+http://79.106.224.178:25461/live/speed/net/22.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg" group-title="KÊNH THỂ THAO NN",S.Premier League 
 http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/28896
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ziggosportnl.jpg" group-title="KÊNH THỂ THAO NN",Ziggo Sport 
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/29050
+http://cms.ktlsat.co.uk:2095/5GfqDuTHgT/gB8zL3NEoR/25053
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ziggosportselect.jpg" group-title="KÊNH THỂ THAO NN",Ziggo Sport Select 
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/12523
+http://cms.ktlsat.co.uk:2095/5GfqDuTHgT/gB8zL3NEoR/25054
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ziggosportvoetbal.jpg" group-title="KÊNH THỂ THAO NN",Ziggo Sport Voetbal
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/15803
+http://cms.ktlsat.co.uk:2095/5GfqDuTHgT/gB8zL3NEoR/25055
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ziggosportextranl.jpg" group-title="KÊNH THỂ THAO NN",Ziggo Sport Extra NL
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/7008
+http://cms.ktlsat.co.uk:2095/5GfqDuTHgT/gB8zL3NEoR/25074
 
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-1200-80.jpg" group-title="KÊNH THỂ THAO NN", Eleven Sports 1 PL
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/15198
@@ -659,7 +656,8 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/eurosport4kru.jpg" group-title="4K TV",Eurosport 4K
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/57967
-#http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/57967
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/eurosport4kru.jpg" group-title="4K TV",Eurosport 4K.RU
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/57967
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/sportv_02.png" group-title="4K TV", SPORTV
 http://tv1.cs10.tv:80/Alexandra/Alexandra/57569
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/sweden/logo/viasat_ultra_hd.png" group-title="4K TV", V Sport Ultra UHD
@@ -676,10 +674,10 @@ http://152.89.62.111:8080/88888/99999/284966
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/70344
 #EXTINF:0 group-title="4K TV" tvg-logo="https://i.imgur.com/AzOvgkV.png",LOVE Nature 4K
 http://136.243.42.146:1400
-#EXTINF:0 group-title="4K TV" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/wow-4k.png",WOW.TV 4K
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/72677
+#EXTINF:0 group-title="4K TV" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/wow-4k.png",Mooz 4K UHD
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/72676
 #EXTINF:0 group-title="4K TV" tvg-logo="https://www.thematv.us/images/channels/4k-heritage-tv.png",Heritage UHD 
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/72674
+http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/72674
 #EXTINF:-1 group-title="4K TV" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png",FashionTV.4K
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="4K TV" tvg-logo="https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",Bloomberg 4K
