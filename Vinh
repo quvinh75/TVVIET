@@ -30,7 +30,8 @@ http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png",VTVcab1 _ Vie Giải Trí
 https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/43053ca25f04e342bb49120aaad81f0d/1625323782331/vtvcab/live/hd_vtvcab_1_test/playlist.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt
-http://112.197.12.59/hls/vtvcab2/index.m3u8
+http://203.162.123.178:8080/vtvcab2/index.m3u8
+#http://112.197.12.59/hls/vtvcab2/index.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://i.postimg.cc/tgbcjg8c/vtvcab3-thethaohd.png",VTVcab3 - Thể thao TV
 http://112.197.12.59/hls/vtvcab3/index.m3u8
 #EXTINF:0 group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/194.png", VTVcab 4 - Văn hóa
