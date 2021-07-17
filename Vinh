@@ -172,7 +172,7 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX
 http://hodam:hothanhdam@hothanhdam.duckdns.org:9981/stream/channelid/163948296?profile=pass
 #EXTINF:-1 tvg-id="FOX Canal" group-title="PHIM" tvg-logo="https://www.vhv.rs/dpng/d/438-4382750_file-maxbyhbo-max-by-hbo-logo-hd-png.png",CINEMAX.FPT
-
+http://thanh.ddns.net:4026/rtp/232.84.3.117:10654
 #http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
 #EXTINF:-1 tvg-id="foxmovieshd" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" ,FOX FAMILY MOVIES
 https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
