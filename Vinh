@@ -688,3 +688,20 @@ https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_d
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png",VTV1FULHD
 https://hni-vnpt-002-livecdn-vthn-vnd.vieon.vn/7be8002cb1382161d26ce7c6be752284/1627017508533/vtc/live/hd_vtv1_test/TV_HD/hd_vtv1_test_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/493-4936417_nbc-sports-philadelphia-nbc-sports-philadelphia-logo-png.png" group-title="Olympic",USA- NBC Sports Philadelphia HD
+http://wagnet.club:7000/test1234/test1234/649036
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/NBC_Sports_Northwest.png" group-title="Olympic",USA- NBC Sports Northwest HD
+http://wagnet.club:7000/test1234/test1234/649037
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/NBC_Sports_logo_1989-2011.svg/200px-NBC_Sports_logo_1989-2011.svg.png" group-title="Olympic",USA- NBC SPORTS NETWORK
+http://wagnet.club:7000/test1234/test1234/649038
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Nbc-sports-chicago.png" group-title="Olympic",USA- NBC Sports Chicago HD
+http://wagnet.club:7000/test1234/test1234/649039
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/icehockey/images/7/75/NBC_Sports_California.png" group-title="Olympic",USA- NBC Sports California HD
+http://wagnet.club:7000/test1234/test1234/649040
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1333843071486877697/gupLPTRM_400x400.png" group-title="Olympic",USA- NBC Sports Boston HD
+http://wagnet.club:7000/test1234/test1234/649041
+#EXTINF:-1 tvg-logo="https://www.soda.com/wp-content/uploads/2017/03/NBC-Sports-Bay-Area-live-stream-600x361.jpg" group-title="Olympic",USA- NBC Sports Bay Area HD
+http://wagnet.club:7000/test1234/test1234/649042
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/1200px-NBC_Sports_2012.svg.png" group-title="Olympic",USA- NBC Sport
+http://wagnet.club:7000/test1234/test1234/649043
