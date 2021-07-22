@@ -685,5 +685,5 @@ http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/72674
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="4K TV" tvg-logo="https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",Bloomberg 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 group-title="4K TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/1200px-Sky_Group_logo_2020.svg.png", SKY SELECTED 4K
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17007
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png",VTV1FULHD
+https://hni-vnpt-002-livecdn-vthn-vnd.vieon.vn/7be8002cb1382161d26ce7c6be752284/1627017508533/vtc/live/hd_vtv1_test/TV_HD/hd_vtv1_test_1080p/chunks.m3u8
