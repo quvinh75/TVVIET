@@ -164,11 +164,13 @@ http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/33945
 http://thanh.ddns.net:4026/rtp/232.84.3.101:10648
 #http://quangvinh997.duckdns.org:8889/udp/225.1.4.90:30120
 #EXTINF:-1 tvg-id="HBOhd" group-title="PHIM" tvg-logo="https://aux.iconspalace.com/uploads/19971240062044726999.png", HBO2
-http://hodam:hothanhdam@hothanhdam.duckdns.org:9981/stream/channelid/749598078?profile=pass
+https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#http://hodam:hothanhdam@hothanhdam.duckdns.org:9981/stream/channelid/749598078?profile=pass
 #EXTINF:-1 tvg-id="FOXMovieshd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="PHIM" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX
-http://hodam:hothanhdam@hothanhdam.duckdns.org:9981/stream/channelid/163948296?profile=pass
+https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+#http://hodam:hothanhdam@hothanhdam.duckdns.org:9981/stream/channelid/163948296?profile=pass
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="PHIM" tvg-logo="https://www.vhv.rs/dpng/d/438-4382750_file-maxbyhbo-max-by-hbo-logo-hd-png.png",CINEMAX.FPT
 http://thanh.ddns.net:4026/rtp/232.84.3.117:10654
 #http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
