@@ -578,6 +578,8 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport 2
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport 2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" group-title="KÊNH THỂ THAO",Astro SuperSport 3
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png",Astro SuperSport 4
