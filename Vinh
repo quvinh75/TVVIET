@@ -186,9 +186,9 @@ http://thanh.ddns.net:4026/rtp/232.84.3.117:10654
 #EXTINF:-1 tvg-id="foxfamilymovieshd" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" ,FOX FAMILY MOVIES
 https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="PHIM" tvg-logo="https://dzg5tmiekeobj.vcdn.cloud/Media/files/channels/thumb_1626834087channel3_BoxHit.png", BOX HITS
-http://61.14.233.11:8000/play/boxhits/69581735.m3u8
+http://gg.gg/cocaboxhi
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="PHIM" tvg-logo="https://8387a88d1b.vws.vegacdn.vn/Media/files/channels/thumb_1623926685c_BOX%20W.png", Box Channel
-http://61.14.233.11:8000/play/itb/36754490.m3u8
+http://gg.gg/cocaboxch
 #EXTINF:-1 tvg-id="paramouthd"  group-title="PHIM" tvg-logo="http://img.hplus.com.vn/226x127/poster/2020/08/03/744316-Paramount-xanh-fix.png", Paramount Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/500px-AXN_logo.svg.png", AXN
