@@ -493,9 +493,9 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/3224
 #EXTINF:-1 tvg-logo="https://www.nos.pt/institucional/PT/sobre-a-nos/empresas-e-negocios/PublishingImages/Logos/sport-tv.jpg" group-title="KÊNH THỂ THAO NN",SPORT.TV5
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/16297
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="⚽KÊNH THỂ THAO NN", DE.SkySport1
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="⚽KÊNH THỂ THAO", DE.SkySport1
 http://restream.tivivo.cc:25461/QamilSulejmani/NQ4U1CX4HL/409
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="⚽KÊNH THỂ THAO NN", DE.SkySport2
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="⚽KÊNH THỂ THAO", DE.SkySport2
 http://restream.tivivo.cc:25461/QamilSulejmani/NQ4U1CX4HL/410
 
 #EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEin Sport Premium 1
