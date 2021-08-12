@@ -38,18 +38,19 @@ http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png",VTVcab1 _ Vie Giải Trí
 http://thanh.ddns.net:4026/rtp/232.84.1.143:8832
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt
-http://203.162.123.178:8080/vtvcab2/index.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
+#http://203.162.123.178:8080/vtvcab2/index.m3u8
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt2
 http://thanh.ddns.net:4026/rtp/232.84.1.168:8982
 #http://112.197.12.59/hls/vtvcab2/index.m3u8
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VIETNAMTV" tvg-logo="https://i.postimg.cc/tgbcjg8c/vtvcab3-thethaohd.png",VTVcab3 - Thể thao TV
-http://112.197.12.59/hls/vtvcab3/index.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/194.png", VTVcab 4 - Văn hóa
-http://mika.vacovska.cf:1935/live/_definst_/VTVcab4_HD_4/chunklist.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab10hd" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/D-dramas-png220124.png", Vie Dramas
-http://mika.vacovska.cf:1935/live/_definst_/VTVcab10_SD_4/chunklist.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="VIETNAMTV" tvg-logo="https://i.ibb.co/165qscC/VTVCAB16-BEARTV.png",VTVcab16_BĐTV
-http://112.197.12.59/hls/vtvcab16/index.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="k1hd" group-title="VIETNAMTV" tvg-logo="https://kplus-website-production-cdn.azureedge.net/content/upload/1/root/kplus-logo.png", K1
 http://s4live.tv1asia.com:21585/kplus2/index.m3u8
@@ -93,7 +94,7 @@ https://vtc130121.cdn.vnns.io/VTC16_abr/vtc130121/VTC16_abr_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",Hà Nội 1
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="hanoi1" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",Hà Nội 2
+#EXTINF:-1 tvg-id="hanoi2" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",Hà Nội 2
 http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="http://chungxda.github.io/logo/avgphimhay.png",Phim Hay AVG
 https://ott.avg.vn/live/phimhay/chunklist_1.m3u8
@@ -125,9 +126,7 @@ https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="HTV9hd" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/2931478-logo-htv9a.png", HTV9
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://i.imgur.com/ZkUUWWN.png" group-title="VIETNAMTV", HTV THỂ THAO 
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://i.imgur.com/ZkUUWWN.png" group-title="VIETNAMTV", HTV THỂ THAO2
-http://42.114.59.39:2107/udp/225.1.1.165:30120
+https://vips-livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/879824-ThuanVietHD1.png" group-title="VIETNAMTV", HTVC Thuần Việt HTV+
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="http://htvc.vn/uploads/channel/2017/02/20/9667644-9189649-htvc-th.png" group-title="VIETNAMTV",HTVC Thuần Việt CLIPTV
@@ -175,7 +174,7 @@ http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/33945
 #EXTINF:-1 tvg-id="hbohd" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO1
 http://thanh.ddns.net:4026/rtp/232.84.3.101:10648
 #http://quangvinh997.duckdns.org:8889/udp/225.1.4.90:30120
-#EXTINF:-1 tvg-id="HBOhd" group-title="PHIM" tvg-logo="https://aux.iconspalace.com/uploads/19971240062044726999.png", HBO2
+#EXTINF:-1 tvg-id="hbohd" group-title="PHIM" tvg-logo="https://aux.iconspalace.com/uploads/19971240062044726999.png", HBO2
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #http://hodam:hothanhdam@hothanhdam.duckdns.org:9981/stream/channelid/749598078?profile=pass
 #EXTINF:-1 tvg-id="FOXMovieshd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES
@@ -203,9 +202,9 @@ https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="PHIM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png", KIX HD
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="BoxMovies" group-title="PHIM" tvg-logo="https://static-stage.tv24.vn/channel/245/BoxMovie_new.jpg", BOX MOVIE
+#EXTINF:-1 tvg-id="boxmovie1" group-title="PHIM" tvg-logo="https://static-stage.tv24.vn/channel/245/BoxMovie_new.jpg", BOX MOVIE
 https://e3.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="Holliwood Classic" group-title="PHIM" tvg-logo="https://i.pinimg.com/originals/7f/d3/2b/7fd32b6ebfa4d4fdb363eaff298c2e08.jpg", Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclasboxmovie1sics" group-title="PHIM" tvg-logo="https://i.pinimg.com/originals/7f/d3/2b/7fd32b6ebfa4d4fdb363eaff298c2e08.jpg", Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV
