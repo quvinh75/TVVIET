@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="🌾| VTV ¹⁰⁸⁰" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1
+#EXTINF:-1 tvg-id="vtv1hd" group-title="🌾| VTV ¹⁰⁸⁰" tvg-logo="https://mytv.com.vn/upload/channel/1.png",VTV1FULHD
 http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="🌾| VTV ¹⁰⁸⁰" tvg-logo="https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png",VTV2 ¹⁰⁸⁰ᵖ
 http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
