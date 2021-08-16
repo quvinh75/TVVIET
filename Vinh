@@ -114,15 +114,15 @@ https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="http://img.btv.org.vn:81/upload/vod/25032020/1585128658_btv11.png",BTV 11
 https://livecdn.fptplay.net/sda/btv11_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="HTV1" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/1586931-logo-htv1a.png", HTV1
+#EXTINF:-1 tvg-id="htv1" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/1586931-logo-htv1a.png", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="HTV2hd" group-title="VIETNAMTV" tvg-logo="https://yt3.ggpht.com/a/AATXAJzNkXJ8-VHVZZNnhuHJK4PZ-94C_t3GJoeg8lXjNV8=s900-c-k-c0x00ffffff-no-rj", HTV2
+#EXTINF:-1 tvg-id="htv2hd" group-title="VIETNAMTV" tvg-logo="https://yt3.ggpht.com/a/AATXAJzNkXJ8-VHVZZNnhuHJK4PZ-94C_t3GJoeg8lXjNV8=s900-c-k-c0x00ffffff-no-rj", HTV2
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="HTV2hd" group-title="VIETNAMTV" tvg-logo="https://yt3.ggpht.com/a/AATXAJzNkXJ8-VHVZZNnhuHJK4PZ-94C_t3GJoeg8lXjNV8=s900-c-k-c0x00ffffff-no-rj", HTV2.FullHD
+#EXTINF:-1 tvg-id="htv2hd" group-title="VIETNAMTV" tvg-logo="https://yt3.ggpht.com/a/AATXAJzNkXJ8-VHVZZNnhuHJK4PZ-94C_t3GJoeg8lXjNV8=s900-c-k-c0x00ffffff-no-rj", HTV2.FullHD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="HTV3" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/7068413-logo-htv3a.png", HTV3
+#EXTINF:-1 tvg-id="htv3" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/7068413-logo-htv3a.png", HTV3
 https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="HTVKEY" group-title="VIETNAMTV" tvg-logo="https://i.postimg.cc/LSvDpMKV/htvkey.png", HTV Key
+#EXTINF:-1 tvg-id="htvkey" group-title="VIETNAMTV" tvg-logo="https://i.postimg.cc/LSvDpMKV/htvkey.png", HTV Key
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/8986847-logo-htv7a.png", HTV7
 https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
