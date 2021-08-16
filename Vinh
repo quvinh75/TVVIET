@@ -95,14 +95,12 @@ https://vtc130121.cdn.vnns.io/VTC13_abr/vtc130121/VTC13_abr_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="VTC14hd" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/85swmKd.png",VTC14
 https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-id="VTC16" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/amaDGnw.jpg",VTC16
-https://vtc130121.cdn.vnns.io/VTC16_abr/vtc130121/VTC16_abr_1080p/chunks.m3u8
+https://vtc130121.cdn.vnns.io/VTC16/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",Hà Nội 1
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",Hà Nội 2
 http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
-#EXTINF:-1 group-title="VIETNAMTV" tvg-logo="http://chungxda.github.io/logo/avgphimhay.png",Phim Hay AVG
-https://ott.avg.vn/live/phimhay/chunklist_1.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="https://imgur.com/Jod5zk5.png",BTV1 HD
 https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VIETNAMTV" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/18/245539-444791-BTV2.png",BTV2 HD
@@ -119,16 +117,16 @@ https://livecdn.fptplay.net/sda/btv11_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="HTV1" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/1586931-logo-htv1a.png", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="HTV2hd" group-title="VIETNAMTV" tvg-logo="https://yt3.ggpht.com/a/AATXAJzNkXJ8-VHVZZNnhuHJK4PZ-94C_t3GJoeg8lXjNV8=s900-c-k-c0x00ffffff-no-rj", HTV2
-http://livecdn.fptplay.net/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="HTV2hd" group-title="VIETNAMTV" tvg-logo="https://yt3.ggpht.com/a/AATXAJzNkXJ8-VHVZZNnhuHJK4PZ-94C_t3GJoeg8lXjNV8=s900-c-k-c0x00ffffff-no-rj", HTV2.FullHD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="HTV3" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/7068413-logo-htv3a.png", HTV3
 https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="HTVKEY" group-title="VIETNAMTV" tvg-logo="https://i.postimg.cc/LSvDpMKV/htvkey.png", HTV Key
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="HTV7hd" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/8986847-logo-htv7a.png", HTV7
+#EXTINF:-1 tvg-id="htv7hd" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/8986847-logo-htv7a.png", HTV7
 https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="HTV9hd" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/2931478-logo-htv9a.png", HTV9
+#EXTINF:-1 tvg-id="htv9hd" group-title="VIETNAMTV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/2931478-logo-htv9a.png", HTV9
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://i.imgur.com/ZkUUWWN.png" group-title="VIETNAMTV", HTV THỂ THAO 
 https://vips-livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
@@ -140,7 +138,7 @@ https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_hls.smil/chunklist_b250000
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/566530-Gia-Dinh.png" group-title="VIETNAMTV", HTVC Gia Đình (Full HD 1080)
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/371943-htvplus.png" group-title="VIETNAMTV", HTVC Plus (Full HD 1080)
+#EXTINF:-1 tvg-id="htvcplushd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/371943-htvplus.png" group-title="VIETNAMTV", HTVC Plus (Full HD 1080)
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" tvg-logo="http://htvc.vn/uploads/channel/2017/04/10/563560-logo-kenh-phim-.png" group-title="VIETNAMTV", HTVC Phim
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
