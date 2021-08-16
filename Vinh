@@ -180,7 +180,7 @@ http://thanh.ddns.net:4026/rtp/232.84.3.101:10648
 #EXTINF:-1 tvg-id="hbohd" group-title="PHIM" tvg-logo="https://aux.iconspalace.com/uploads/19971240062044726999.png", HBO2
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #http://hodam:hothanhdam@hothanhdam.duckdns.org:9981/stream/channelid/749598078?profile=pass
-#EXTINF:-1 tvg-id="FOXMovieshd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES
+#EXTINF:-1 tvg-id="foxmovieshd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="PHIM" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
