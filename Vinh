@@ -222,7 +222,8 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/29476
 #http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/29476
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV3
 http://smartntv.pro:25461/mirounitediptv/Pfikf6avuQ/6990
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV4
+http://orr-tk.site:80/armindocliente/pg5jzRdOZf/76841
 
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/50.png" group-title="KÊNH QUỐC TẾ",NHK WORLD JAPAN
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
@@ -616,13 +617,17 @@ http://84.42.140.148:8880/hdmi
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="⚽KÊNH THỂ THAO",SPORT.TV+
 http://usa3.iptvteam.org:8000/paulo/2016/531
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="⚽KÊNH THỂ THAO",SPORT.TV1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+http://orr-tk.site:80/armindocliente/pg5jzRdOZf/77685
+#https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="⚽KÊNH THỂ THAO",SPORT.TV2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+http://orr-tk.site:80/armindocliente/pg5jzRdOZf/53734
+#https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="⚽KÊNH THỂ THAO",SPORT.TV3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+http://orr-tk.site:80/armindocliente/pg5jzRdOZf/53735
+#https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png" group-title="⚽KÊNH THỂ THAO",SPORT.TV4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+http://orr-tk.site:80/armindocliente/pg5jzRdOZf/53736
+#https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/vvvqxp1470408443.png" group-title="⚽KÊNH THỂ THAO",SPORT.TV5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
@@ -636,6 +641,8 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2M1ygvb/worldcup2022-BEARTV.png" group-title="⚽KÊNH THỂ THAO", DubaiSport3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="4K TV",Eleven.Sport.2k
+http://orr-tk.site:80/armindocliente/pg5jzRdOZf/77672
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/eurosport4kru.jpg" group-title="4K TV",Eurosport 4K
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/57967
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Sport5_Logo.png" group-title="4K TV", Sport5
@@ -644,14 +651,8 @@ https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/sport5
 http://tv1.cs10.tv:80/Alexandra/Alexandra/57569
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/sweden/logo/viasat_ultra_hd.png" group-title="4K TV", V Sport Ultra UHD
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/30091
-#EXTINF:0 group-title="4K TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png", SkyUHD
-http://5.146.3.193:8000/play/a04c/index.m3u8
 #EXTINF:0 group-title="4K TV" tvg-logo="https://cdn.imgbin.com/13/11/11/imgbin-united-kingdom-home-uktv-w-television-channel-united-kingdom-gbwSJuL7dWy8DFJUQBtigANEx.jpg",HOME 4K
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/72675
-#EXTINF:0 group-title="4K TV" tvg-logo="https://i.ytimg.com/vi/W-nn-8YuBMg/hqdefault_live.jpg",TRT 4K
-http://152.89.62.111:8080/88888/99999/289364
-#EXTINF:0 group-title="4K TV" tvg-logo="https://www.grandcccam.com/IMG_Files/bigthumb-rai-4k-2071047523.jpg",RAI 4K
-http://152.89.62.111:8080/88888/99999/284966
 #EXTINF:0 group-title="4K TV" tvg-logo="https://www.hdnumerique.com/medias/articles/original/ultra-nature-logo.jpg",Ultra Nature 4K
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/70344
 #EXTINF:0 group-title="4K TV" tvg-logo="https://i.imgur.com/AzOvgkV.png",LOVE Nature 4K
