@@ -44,8 +44,6 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTM3U
-
 #EXTINF:-1,***DESPORTO***
 http://orr-tk.site:80/armindocliente/pg5jzRdOZf/365
 #EXTINF:-1,SPORT+ TV
