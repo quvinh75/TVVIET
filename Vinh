@@ -397,8 +397,6 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/17112
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://www.esfl.co.uk/wp-content/uploads/2020/04/Sky-Sports-News-Image.jpg" group-title="KÊNH THỂ THAO NN", SKY SPORT News2
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/1954
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.esfl.co.uk/wp-content/uploads/2020/04/Sky-Sports-News-Image.jpg" group-title="KÊNH THỂ THAO NN", SKY SPORT News
-http://152.89.62.111:8080/88888/99999/222625
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO NN", SKY SPORTS EPL
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/14655
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg" group-title="KÊNH THỂ THAO NN",Sky Sports Football
@@ -414,7 +412,6 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/14656
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg" group-title="KÊNH THỂ THAO NN",Sky Sports Mix
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/14902
 
-
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1hd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport 1
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/14657
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport2hd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport 2
@@ -426,28 +423,6 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/1980
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsportboxofficeuk.jpg" group-title="KÊNH THỂ THAO NN",BT Sport Box Office
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/23755
 
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-psl-za.jpg" group-title="KÊNH THỂ THAO NN", SuperSport PSL
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/28894
-#http://wagnet.club:7000/test1234/test1234/477492
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport LaLiga
-#http://livepulse2.uk:8080/Tiff123/Tiff123/292019
-http://wagnet.club:7000/test1234/test1234/477493
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Premier League
-#http://livepulse2.uk:8080/Tiff123/Tiff123/292015
-http://wagnet.club:7000/test1234/test1234/477489
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-football-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Football
-#http://livepulse2.uk:8080/Tiff123/Tiff123/292022
-http://wagnet.club:7000/test1234/test1234/477490
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-grandstand-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Grandstand
-#http://livepulse2.uk:8080/Tiff123/Tiff123/292020
-http://wagnet.club:7000/test1234/test1234/477491
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-action-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Action
-#http://livepulse2.uk:8080/Tiff123/Tiff123/292025
-http://wagnet.club:7000/test1234/test1234/477496
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",S Tennis
-http://livepulse2.uk:8080/Tiff123/Tiff123/241133
-
-
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsport1fr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport 1
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/28583
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport 2
@@ -456,6 +431,25 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/28584
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/28585
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport 4
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/28586
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="⚽KÊNH THỂ THAO", Canal+Sport
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/13535
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="⚽KÊNH THỂ THAO", Canal+Sport2
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/15709
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-psl-za.jpg" group-title="KÊNH THỂ THAO NN", SuperSport PSL
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/28894
+#http://wagnet.club:7000/test1234/test1234/477492
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport LaLiga
+http://wagnet.club:7000/test1234/test1234/477493
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Premier League
+http://wagnet.club:7000/test1234/test1234/477489
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-football-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Football
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/8078
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-grandstand-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Grandstand
+http://wagnet.club:7000/test1234/test1234/477491
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-action-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Action
+http://wagnet.club:7000/test1234/test1234/477496
+
 
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/06/logo_nowsport_epg_pl_0-1.png" group-title="KÊNH THỂ THAO NN", Now HK Premier Sports
 http://152.89.62.111:8080/88888/99999/251261
@@ -476,24 +470,35 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/3224
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/16297
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="⚽KÊNH THỂ THAO", DE.SkySport1
-http://restream.tivivo.cc:25461/QamilSulejmani/NQ4U1CX4HL/409
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/7326
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="⚽KÊNH THỂ THAO", DE.SkySport2
-http://restream.tivivo.cc:25461/QamilSulejmani/NQ4U1CX4HL/410
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/7327
+
 
 #EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEin Sport Premium 1
-http://wagnet.club:7000/test1234/test1234/138
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/75533
 #EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEin Sport Premium 2
-http://wagnet.club:7000/test1234/test1234/139
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/75534
 #EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEin Sport Premium 3
-http://wagnet.club:7000/test1234/test1234/140
-#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/681-6814150_ert-sports-hd-logo-ert-sports-hd-hd.png" group-title="⚽KÊNH THỂ THAO",EPT
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/681-6814150_ert-sports-hd-logo-ert-sports-hd-hd.png" group-title="⚽KÊNH THỂ THAO",EPT.2
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/75535
+#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", B.SportExtra
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/zs-assets-staging/lKkvMzAp_400x400.jpg" group-title="⚽KÊNH THỂ THAO",Z Select
 http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/zs-assets-staging/lKkvMzAp_400x400.jpg" group-title="⚽KÊNH THỂ THAO",Z Football
-http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/15803
+#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/zs-assets-staging/lKkvMzAp_400x400.jpg" group-title="⚽KÊNH THỂ THAO",Z Sport
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/29050
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1288408759748956160/OAkI7Zbi_400x400.jpg" group-title="⚽KÊNH THỂ THAO",VOO Sport World 1
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/62716
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1288408759748956160/OAkI7Zbi_400x400.jpg" group-title="⚽KÊNH THỂ THAO",VOO Sport World 2
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/62713
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1288408759748956160/OAkI7Zbi_400x400.jpg" group-title="⚽KÊNH THỂ THAO",VOO Sport World 3
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/67450
+#EXTINF:-1 tvg-logo="https://tv-tabla.se/assets/img/channels/original/v-sport-se.png" group-title="⚽KÊNH THỂ THAO",V Sport DK
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/30091
 
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk-1200-80.jpg" group-title="KÊNH THỂ THAO NN", Eleven Sports 1 PL
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/15198
@@ -505,38 +510,33 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/15097
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/19149
 
 
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 1
-http://wagnet.club:7000/test1234/test1234/650082
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 2
-http://wagnet.club:7000/test1234/test1234/650083
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://ewsat.com/img/ARENA_SPORT_3.png", ARENA Sport 3
-http://wagnet.club:7000/test1234/test1234/650084
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 4
-http://wagnet.club:7000/test1234/test1234/650085
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 5
-http://wagnet.club:7000/test1234/test1234/650086
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png", ARENA Sport 6
-http://wagnet.club:7000/test1234/test1234/650087
+#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://www.tvshqipon.com/wp-content/uploads/2019/06/Super-Sport-1-Live.pngg", SuperSport 1_AL
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/22807
+#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://www.tvshqipon.com/wp-content/uploads/2019/06/Super-Sport-1-Live.png", SuperSport 2_AL
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/22808
+#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://www.tvshqipon.com/wp-content/uploads/2019/06/Super-Sport-1-Live.png", SuperSport 3_AL
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/22809
+#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://www.tvshqipon.com/wp-content/uploads/2019/06/Super-Sport-1-Live.png", SuperSport 4_AL
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/22810
+#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://www.tvshqipon.com/wp-content/uploads/2019/06/Super-Sport-1-Live.png", SuperSport 5_AL
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/22811
+
 
 #EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://images.o2.cz/_pub/dc/3d/a7/647601_1532746_O2_premier_sport_logo_v1_250x150.png", Premier Sport 1
-http://wagnet.club:7000/test1234/test1234/126
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/28180
 #EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://images.o2.cz/_pub/dc/3d/a7/647601_1532746_O2_premier_sport_logo_v1_250x150.png", Premier Sport 2
 http://wagnet.club:7000/test1234/test1234/127
 #EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://images.o2.cz/_pub/dc/3d/a7/647601_1532746_O2_premier_sport_logo_v1_250x150.png", Premier Sport LaLiga
 http://wagnet.club:7000/test1234/test1234/646395
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png" group-title="⚽KÊNH THỂ THAO",Sport Klub 1 HD HR
-http://wagnet.club:7000/test1234/test1234/650072
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/17256
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png" group-title="⚽KÊNH THỂ THAO",Sport Klub 2 HD HR
-http://wagnet.club:7000/test1234/test1234/650073
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/17254
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png" group-title="⚽KÊNH THỂ THAO",Sport Klub 3 HD HR
-http://wagnet.club:7000/test1234/test1234/650074
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/17917
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png" group-title="⚽KÊNH THỂ THAO",Sport Klub 4 HD HR
-http://wagnet.club:7000/test1234/test1234/650075
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png" group-title="⚽KÊNH THỂ THAO",Sport Klub 5 HD HR
-http://wagnet.club:7000/test1234/test1234/650076
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png" group-title="⚽KÊNH THỂ THAO",Sport Klub 6 HD HR
-http://wagnet.club:7000/test1234/test1234/650077
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/17249
 
 #EXTINF:0 tvg-id="foxsportshd" group-title="⚽KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1024px-Fox_Sports_Logo.svg.png", FOXSPORT
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
@@ -565,10 +565,11 @@ http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",Tennis Channel HD
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/18386
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",S Tennis
-http://livepulse2.uk:8080/Tiff123/Tiff123/292012
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/54966
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",Super Tennis
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/4084
-#http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/4084
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",Super Tennis_IT
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/4084
 #EXTINF:-1 group-title="Tennis" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",true Tennis
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/maxsport1bg.jpg" group-title="Tennis",Max Sport1
@@ -578,24 +579,24 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/23442
 #EXTINF:-1 tvg-logo="https://i.iinfo.cz/images/495/o2-tv-sport-perex-1.jpg" group-title="⚽KÊNH THỂ THAO",O2TV
 http://84.42.140.148:8880/hdmi
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="⚽KÊNH THỂ THAO",SPORT.TV+
-http://usa3.iptvteam.org:8000/paulo/2016/531
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/19589
+#http://usa3.iptvteam.org:8000/paulo/2016/531
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="⚽KÊNH THỂ THAO",SPORT.TV1
-http://orr-tk.site:80/armindocliente/pg5jzRdOZf/77685
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/17744
 #https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="⚽KÊNH THỂ THAO",SPORT.TV2
-http://orr-tk.site:80/armindocliente/pg5jzRdOZf/53734
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/3222
 #https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="⚽KÊNH THỂ THAO",SPORT.TV3
-http://orr-tk.site:80/armindocliente/pg5jzRdOZf/53735
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/3223
 #https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png" group-title="⚽KÊNH THỂ THAO",SPORT.TV4
-http://orr-tk.site:80/armindocliente/pg5jzRdOZf/53736
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/3224
 #https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/vvvqxp1470408443.png" group-title="⚽KÊNH THỂ THAO",SPORT.TV5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/16297
+#https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", B.SportExtra
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2M1ygvb/worldcup2022-BEARTV.png" group-title="⚽KÊNH THỂ THAO", DubaiSport
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
@@ -604,8 +605,8 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2M1ygvb/worldcup2022-BEARTV.png" group-title="⚽KÊNH THỂ THAO", DubaiSport3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="4K TV",Eleven.Sport.2k
-http://orr-tk.site:80/armindocliente/pg5jzRdOZf/77672
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/ProSieben_HD_Logo.svg" group-title="4K TV",UHD.de
+http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/86628
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/eurosport4kru.jpg" group-title="4K TV",Eurosport 4K
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/57967
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Sport5_Logo.png" group-title="4K TV", Sport5
