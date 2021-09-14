@@ -40,7 +40,6 @@ http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 http://thanh.ddns.net:4026/rtp/232.84.1.143:8832
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
-#http://203.162.123.178:8080/vtvcab2/index.m3u8
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt2
 http://thanh.ddns.net:4026/rtp/232.84.1.168:8982
 #http://112.197.12.59/hls/vtvcab2/index.m3u8
@@ -66,7 +65,7 @@ http://103.207.38.11/kns/mpegts
 http://103.207.38.11/kpm/mpegts
 
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://i.imgur.com/4Uljs81.png" group-title="VIETNAMTV", VTC1
-https://vtc130121.cdn.vnns.io/VTC1_abr/vtc130121/VTC1_1080p/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc2" group-title="VIETNAMTV" tvg-logo="https://i.imgur.com/8Y2vdek.png",VTC2
 https://vtc130121.cdn.vnns.io/VTC2/playlist.m3u8
 #https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
