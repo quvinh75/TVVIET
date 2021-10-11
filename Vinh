@@ -217,16 +217,14 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="PHIM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png", KIX HD
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|English_Club
+#EXTINF:-1 tvg-logo="https://www.english-club.tv/wp-content/uploads/2015/09/Logo_ECTV_big.png" group-title="KÊNH QUỐC TẾ",🏡|English_Club
 http://193.33.88.172/english_club_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV
 http://58.65.171.202:8000/play/4334/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV.US
-http://152.89.62.111:8080/88888/99999/250597
+http://xcui.vitvabc.xyz:8880/287994003826/287994003826/31121
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV.US2
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/13835
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV.CA
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/29476
 
 #EXTINF:0 tvg-id="dmaxhd"group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/kxqGzQM/dmax-BEARTV.png",DMAX
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
@@ -426,9 +424,9 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/14656
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/14902
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1hd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport 1
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/14657
+http://5.182.229.75:8080/2505/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport2hd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport 2
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/14658
+http://5.182.229.75:8080/2506/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport 3
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/14659
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsportespnhd.jpg" group-title="KÊNH THỂ THAO NN",BT Sport ESPN
@@ -437,37 +435,40 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/1980
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/23755
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsport1fr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport 1
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/28583
+http://xcchui2.mrnova.online/live/60688_.m3u8?token=tienmedia
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport 2
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/28584
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport 3
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/28585
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="KÊNH THỂ THAO NN",RMC Sport 4
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/28586
+http://xcchui2.mrnova.online/live/60689_.m3u8?token=tienmedia
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfUriM4ASCH6TWoiftnCCZGr7HTRsQSbVKdQ&usqp=CAU", group-title="KÊNH THỂ THAO NN",Bein Pháp 1HD
+http://xcchui2.mrnova.online/live/60685_.m3u8?token=tienmedia
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfUriM4ASCH6TWoiftnCCZGr7HTRsQSbVKdQ&usqp=CAU", group-title="KÊNH THỂ THAO NN",Bein Pháp 2HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/138
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfUriM4ASCH6TWoiftnCCZGr7HTRsQSbVKdQ&usqp=CAU", group-title="KÊNH THỂ THAO NN",Bein Pháp 3HD
+http://xcchui2.mrnova.online/live/60687_.m3u8?token=tienmedia
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="⚽KÊNH THỂ THAO", Canal+Sport
-http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/13535
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png", CANAL + 1
+http://royall.xyz:2082/6949003927915110/1y7gicb9l086jhc/295851
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="⚽KÊNH THỂ THAO", Canal+Sport2
-http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/15709
+http://royall.xyz:2082/live/6949003927915110/1y7gicb9l086jhc/224117.ts
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-psl-za.jpg" group-title="KÊNH THỂ THAO NN", SuperSport PSL
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/28894
-#http://wagnet.club:7000/test1234/test1234/477492
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52291.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport LaLiga
 http://wagnet.club:7000/test1234/test1234/477493
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Premier League
-http://wagnet.club:7000/test1234/test1234/477489
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52299.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-football-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Football
 http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/8078
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-grandstand-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Grandstand
-http://wagnet.club:7000/test1234/test1234/477491
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52290.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport-action-za.jpg" group-title="KÊNH THỂ THAO NN",SuperSport Action
-http://wagnet.club:7000/test1234/test1234/477496
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52300.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/06/logo_nowsport_epg_pl_0-1.png" group-title="KÊNH THỂ THAO NN", Now HK Premier Sports
-http://152.89.62.111:8080/88888/99999/251261
+https://360sportvn.000webhostapp.com/vn360sport/sports/channels/playlist.php?id=nowsporthk1
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/06/logo_nowsport_epg_pl_0-1.png" group-title="KÊNH THỂ THAO NN", Now HK Premier Sports_2
-http://wagnet.club:7000/test1234/test1234/654403
+https://360sportvn.000webhostapp.com/vn360sport/sports/channels/playlist.php?id=nowsporthk2
 
 #EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/logo/sporttvmais/medium.jpg" group-title="KÊNH THỂ THAO NN",SPORT.TV+
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/19589
@@ -489,13 +490,13 @@ http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/7327
 
 
 #EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEin Sport Premium 1
-http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/75533
+http://viewplayer.ip1v.com:25461/maan/test/22
 #EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEin Sport Premium 2
-http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/75534
+http://viewplayer.ip1v.com:25461/maan/test/23
 #EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEin Sport Premium 3
-http://cloudcdn.tk:80/BobVilla7/HRh0Ms52/75535
+http://viewplayer.ip1v.com:25461/maan/test/24
 #EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", B.SportExtra
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+http://172.107.226.94:25461/upvckuzx/rgdfdh/20
 
 #EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/zs-assets-staging/lKkvMzAp_400x400.jpg" group-title="⚽KÊNH THỂ THAO",Z Select
 http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
