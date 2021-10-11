@@ -377,15 +377,18 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/pptvhd/chunklist_w1517173526.m3
 
 
 #EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021TA50-L.jpg",Premier HD1
-https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+http://209.145.58.109:25461/myapp/omohaktv/63
+#https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021TA50-L.jpg",Premier HD1(PC)
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021TA50-L.jpg",Premier HD2(PC)
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+http://209.145.58.109:25461/myapp/omohaktv/35
+#http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021TA50-L.jpg",Premier HD3
-http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+http://209.145.58.109:25461/myapp/omohaktv/64
+#http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021TA50-L.jpg",Premier HD4
-http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
+http://209.145.58.109:25461/myapp/omohaktv/70
 #EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png", True Premier Football 1
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png", True Premier Football 2
