@@ -274,32 +274,34 @@ http://xcui.vitvabc.xyz:8880/287994003826/287994003826/31150
 
 #EXTINF:-1 tvg-id="NEWS_DIGITAL_EN.bein" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/Logo/main/TramTien_TVR.jpg",Trầm Tiến - Tvr
 http://xcchui2.mrnova.online/live/60810_.m3u8?token=tienmedia
+#EXTINF:-1 tvg-id="NEWS_DIGITAL_EN.bein" tvg-logo="https://image.shutterstock.com/image-vector/loading-icon-logo-isolated-on-260nw-1453631144.jpg",Làm mới List
+http://xcchui2.mrnova.online/live/60810_.m3u8?token=tienmedia
 #EXTINF:-1 tvg-id="NEWS_DIGITAL_EN.bein" tvg-logo="https://3.bp.blogspot.com/-4S_V_ACUERc/W_AgJcQXDpI/AAAAAAAAGhc/3KED7KT9qDYKOUg1XX_VZNzFIguR8kwlwCK4BGAYYCw/s1600/logo%2BBein%2Bsport%2BNews.png", group-title="IPTV Sports",Bein Sports New 
 http://62.210.251.227:8081/yacinetv/BeinSportNews/chunks.m3u8
 #EXTINF:-1 tvg-id="beIN_SPORTS1_PREMIUM_Digital_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAfMgq14nDO8SypP7tNUXosUcmB88RUUHeA&usqp=CAU", group-title="IPTV Sports",Bein Premium 1HD
-http://viewplayer.ip1v.com:25461/maan/test/22
+http://ctn.bounbrzouw.xyz/live/6161655/index.m3u8
 #EXTINF:-1 tvg-id="beIN_SPORTS2_PREMIUM_Digital_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAfMgq14nDO8SypP7tNUXosUcmB88RUUHeA&usqp=CAU", group-title="IPTV Sports",Bein Premium 2HD
-http://viewplayer.ip1v.com:25461/maan/test/23
+http://gog.daroudaraw.xyz/live/616194987/index.m3u8
 #EXTINF:-1 tvg-id="beIN_SPORTS3_PREMIUM_Digital_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAfMgq14nDO8SypP7tNUXosUcmB88RUUHeA&usqp=CAU", group-title="IPTV Sports",Bein Premium 3HD
-http://viewplayer.ip1v.com:25461/maan/test/24
+http://sos.moukrasa.xyz/live/6151278887/index.m3u8
 #EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj05KUUkj7pTh7pXMYcRws18m_CyxMjDdPMA&usqp=CAU", group-title="IPTV Sports",Bein Sports 1HD
-http://viewplayer.ip1v.com:25461/maan/test/25
+http://sos.moukrasa.xyz/live/918454578/index.m3u8
 #EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj05KUUkj7pTh7pXMYcRws18m_CyxMjDdPMA&usqp=CAU", group-title="IPTV Sports",Bein Sports 2HD
-http://viewplayer.ip1v.com:25461/maan/test/26
+http://sos.moukrasa.xyz/live/69854211/index.m3u8
 #EXTINF:-1 tvg-id="beIN_SPORTS3_DIGITAL_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj05KUUkj7pTh7pXMYcRws18m_CyxMjDdPMA&usqp=CAU", group-title="IPTV Sports",Bein Sports 3HD
-http://viewplayer.ip1v.com:25461/maan/test/27
+http://sos.moukrasa.xyz/live/645587700/index.m3u8
 #EXTINF:-1 tvg-id="beIN_SPORTS4_DIGITAL_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj05KUUkj7pTh7pXMYcRws18m_CyxMjDdPMA&usqp=CAU", group-title="IPTV Sports",Bein Sports 4HD
-http://ricoootv.xyz:8080/Ricootv23/Ricootv23/7
+http://sos.moukrasa.xyz/live/9787488847/index.m3u8
 #EXTINF:-1 tvg-id="beIN_SPORTS5_DIGITAL_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj05KUUkj7pTh7pXMYcRws18m_CyxMjDdPMA&usqp=CAU", group-title="IPTV Sports",Bein Sports 5HD
-http://ricoootv.xyz:8080/Ricootv23/Ricootv23/8
+http://sos.moukrasa.xyz/live/610303030/index.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj05KUUkj7pTh7pXMYcRws18m_CyxMjDdPMA&usqp=CAU", group-title="IPTV Sports",Bein Sports 6HD
-http://ricoootv.xyz:8080/Ricootv23/Ricootv23/9
+http://sos.moukrasa.xyz/live/1515000000/index.m3u8
 #EXTINF:-1 tvg-id="beIN_SPORTS7_DIGITAL_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj05KUUkj7pTh7pXMYcRws18m_CyxMjDdPMA&usqp=CAU", group-title="IPTV Sports",Bein Sports 7HD
-http://ricoootv.xyz:8080/Ricootv23/Ricootv23/10
+http://sos.moukrasa.xyz/live/791001144/index.m3u8
 #EXTINF:-1 tvg-id="beIN_SPORTS_XTRA1_Digital_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJlQNUI-U9EiEJjH84kJRcRO0uSPxyiV5NQ&usqp=CAU", group-title="IPTV Sports",Bein Extral 1HD
-http://172.107.226.94:25461/upvckuzx/rgdfdh/20
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 tvg-id="beIN_SPORTS_XTRA2_Digital_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJlQNUI-U9EiEJjH84kJRcRO0uSPxyiV5NQ&usqp=CAU", group-title="IPTV Sports",Bein Extral 2HD
-http://172.107.226.94:25461/upvckuzx/rgdfdh/21
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1  tvg-id="beIN.SPORTS.MAX.6.FR.bein" group-title="IPTV Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRCBCyHERjXilL4TmnZmTdIhHDlnZxFFcpqQ&usqp=CAU",WWE
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF:-1  tvg-id="beIN.SPORTS.MAX.6.FR.bein" group-title="IPTV Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXllFOPcx9jkjViQZuozbCbS65cWJk2fswlw&usqp=CAU",Sony Ten 1
@@ -464,7 +466,32 @@ http://royall.xyz:2082/live/6949003927915110/1y7gicb9l086jhc/224118.ts
 http://royall.xyz:2082/live/6949003927915110/1y7gicb9l086jhc/224119.ts
 #EXTINF:0 group-title="IPTV Sports" tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png", CANAL +5
 http://royall.xyz:2082/live/6949003927915110/1y7gicb9l086jhc/224120.ts
-
+#EXTINF:-1 tvg-id="NEWS_DIGITAL_EN.bein" tvg-logo="https://3.bp.blogspot.com/-4S_V_ACUERc/W_AgJcQXDpI/AAAAAAAAGhc/3KED7KT9qDYKOUg1XX_VZNzFIguR8kwlwCK4BGAYYCw/s1600/logo%2BBein%2Bsport%2BNews.png", group-title="IPTV Sports",Bein Sports New 
+#http://62.210.251.227:8081/yacinetv/BeinSportNews/chunks.m3u8
+#EXTINF:-1 tvg-id="beIN_SPORTS1_PREMIUM_Digital_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAfMgq14nDO8SypP7tNUXosUcmB88RUUHeA&usqp=CAU", group-title="Bein Sports 2 dự phòng",Bein Premium 1HD
+#http://172.107.226.94:25461/upvckuzx/rgdfdh/1
+#EXTINF:-1 tvg-id="beIN_SPORTS2_PREMIUM_Digital_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAfMgq14nDO8SypP7tNUXosUcmB88RUUHeA&usqp=CAU", group-title="Bein Sports 2 dự phòng",Bein Premium 2HD
+#http://172.107.226.94:25461/upvckuzx/rgdfdh/2
+#EXTINF:-1 tvg-id="beIN_SPORTS3_PREMIUM_Digital_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAfMgq14nDO8SypP7tNUXosUcmB88RUUHeA&usqp=CAU", group-title="Bein Sports 2 dự phòng",Bein Premium 3HD
+#http://172.107.226.94:25461/upvckuzx/rgdfdh/3
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj05KUUkj7pTh7pXMYcRws18m_CyxMjDdPMA&usqp=CAU", group-title="Bein Sports 2 dự phòng",Bein Sports 1HD
+#http://172.107.226.94:25461/upvckuzx/rgdfdh/4
+#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj05KUUkj7pTh7pXMYcRws18m_CyxMjDdPMA&usqp=CAU", group-title="Bein Sports 2 dự phòng",Bein Sports 2HD
+#http://172.107.226.94:25461/upvckuzx/rgdfdh/5
+#EXTINF:-1 tvg-id="beIN_SPORTS3_DIGITAL_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj05KUUkj7pTh7pXMYcRws18m_CyxMjDdPMA&usqp=CAU", group-title="Bein Sports 2 dự phòng",Bein Sports 3HD
+#http://172.107.226.94:25461/upvckuzx/rgdfdh/6
+#EXTINF:-1 tvg-id="beIN_SPORTS4_DIGITAL_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj05KUUkj7pTh7pXMYcRws18m_CyxMjDdPMA&usqp=CAU", group-title="Bein Sports 2 dự phòng",Bein Sports 4HD
+#http://172.107.226.94:25461/upvckuzx/rgdfdh/7
+#EXTINF:-1 tvg-id="beIN_SPORTS5_DIGITAL_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj05KUUkj7pTh7pXMYcRws18m_CyxMjDdPMA&usqp=CAU", group-title="Bein Sports 2 dự phòng",Bein Sports 5HD
+#http://172.107.226.94:25461/upvckuzx/rgdfdh/8
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj05KUUkj7pTh7pXMYcRws18m_CyxMjDdPMA&usqp=CAU", group-title="Bein Sports 2 dự phòng",Bein Sports 6HD
+#http://172.107.226.94:25461/upvckuzx/rgdfdh/9
+#EXTINF:-1 tvg-id="beIN_SPORTS7_DIGITAL_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj05KUUkj7pTh7pXMYcRws18m_CyxMjDdPMA&usqp=CAU", group-title="Bein Sports 2 dự phòng",Bein Sports 7HD
+#http://172.107.226.94:25461/upvckuzx/rgdfdh/10
+#EXTINF:-1 tvg-id="beIN_SPORTS_XTRA1_Digital_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJlQNUI-U9EiEJjH84kJRcRO0uSPxyiV5NQ&usqp=CAU", group-title="Bein Sports 2 dự phòng",Bein Extral 1HD
+#http://172.107.226.94:25461/upvckuzx/rgdfdh/20
+#EXTINF:-1 tvg-id="beIN_SPORTS_XTRA2_Digital_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJlQNUI-U9EiEJjH84kJRcRO0uSPxyiV5NQ&usqp=CAU", group-title="Bein Sports 2 dự phòng",Bein Extral 2HD
+#http://172.107.226.94:25461/upvckuzx/rgdfdh/21
 
 
 
