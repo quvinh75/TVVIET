@@ -70,7 +70,7 @@ http://103.81.84.80:46803/vtvcab16
 http://113.165.234.35:9981/stream/channelid/1249772759?ticket=1EC4FC13378347BDAAE3FFD761C9C1F936F5C0D4&profile=pass
 #http://s4live.tv1asia.com:21585/kplus2/index.m3u8
 #EXTINF:0 tvg-id="kpchd" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/K%2BPC.png", K_PC
-http://103.207.38.11/kpc/mpegts
+https://kpluslive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
 #EXTINF:0 tvg-id="knshd" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K%2BNS_HD.png", K_NS
 http://180.93.172.37:80/aisharelamcho/index.m3u8
 #EXTINF:0 tvg-id="kpmhd" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png", K_PM
