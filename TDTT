@@ -272,8 +272,6 @@ http://xcui.vitvabc.xyz:8880/287994003826/287994003826/31149
 #EXTINF:-1,ESPN HD+
 http://xcui.vitvabc.xyz:8880/287994003826/287994003826/31150
 
-#EXTM3U url-tvg="https://rebrand.ly/Tien-BeinSportsEPG" tvg-shift=0 m3uautoload=1
-#=>(list share phục vụ cộng đồng - Không copy😝 - Nếu có copy inbox chủ list :))😝
 #EXTINF:-1 tvg-id="NEWS_DIGITAL_EN.bein" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/Logo/main/TramTien_TVR.jpg",Trầm Tiến - Tvr
 http://xcchui2.mrnova.online/live/60810_.m3u8?token=tienmedia
 #EXTINF:-1 tvg-id="NEWS_DIGITAL_EN.bein" tvg-logo="https://3.bp.blogspot.com/-4S_V_ACUERc/W_AgJcQXDpI/AAAAAAAAGhc/3KED7KT9qDYKOUg1XX_VZNzFIguR8kwlwCK4BGAYYCw/s1600/logo%2BBein%2Bsport%2BNews.png", group-title="IPTV Sports",Bein Sports New 
