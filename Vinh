@@ -43,23 +43,23 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/C5G4qCb.png" group-title="VTV",VTV1 HD
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/C5G4qCb.png" group-title="VIETNAMTV",VTV1 HD
 http://thanhfpt.duckdns.org:45678/rtp/232.84.1.117:10254
-#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 HD" tvg-logo="https://i.imgur.com/WTg772e.png" group-title="VTV",VTV2 HD
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 HD" tvg-logo="https://i.imgur.com/WTg772e.png" group-title="VIETNAMTV",VTV2 HD
 http://thanhfpt.duckdns.org:45678/rtp/232.84.2.31:10594
-#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3 HD" tvg-logo="https://i.imgur.com/N1PiqLg.png" group-title="VTV",VTV3 HD
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3 HD" tvg-logo="https://i.imgur.com/N1PiqLg.png" group-title="VIETNAMTV",VTV3 HD
 http://thanhfpt.duckdns.org:45678/rtp/232.84.1.118:10260
-#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 HD" tvg-logo="https://i.imgur.com/0L8Hm1D.png" group-title="VTV",VTV4 HD
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 HD" tvg-logo="https://i.imgur.com/0L8Hm1D.png" group-title="VIETNAMTV",VTV4 HD
 http://thanhfpt.duckdns.org:45678/rtp/232.84.2.32:10600
-#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 HD" tvg-logo="https://i.imgur.com/deB8Ime.png" group-title="VTV",VTV5 HD
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 HD" tvg-logo="https://i.imgur.com/deB8Ime.png" group-title="VIETNAMTV",VTV5 HD
 http://thanhfpt.duckdns.org:45678/rtp/232.84.2.33:10606
-#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6 HD" tvg-logo="https://i.imgur.com/5FxLblm.png" group-title="VTV",VTV6 HD
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6 HD" tvg-logo="https://i.imgur.com/5FxLblm.png" group-title="VIETNAMTV",VTV6 HD
 http://thanhfpt.duckdns.org:45678/rtp/232.84.1.119:10266
-#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 HD" tvg-logo="https://i.imgur.com/BNWG2Bu.png" group-title="VTV",VTV7 HD
+#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 HD" tvg-logo="https://i.imgur.com/BNWG2Bu.png" group-title="VIETNAMTV",VTV7 HD
 http://thanhfpt.duckdns.org:45678/rtp/232.84.2.202:10996
-#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8 HD" tvg-logo="https://i.imgur.com/eoycRVP.png" group-title="VTV",VTV8 HD
+#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8 HD" tvg-logo="https://i.imgur.com/eoycRVP.png" group-title="VIETNAMTV",VTV8 HD
 http://thanhfpt.duckdns.org:45678/rtp/232.84.2.34:10612
-#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 HD" tvg-logo="https://i.imgur.com/HeGw9y1.png" group-title="VTV",VTV9 HD
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 HD" tvg-logo="https://i.imgur.com/HeGw9y1.png" group-title="VIETNAMTV",VTV9 HD
 http://thanhfpt.duckdns.org:45678/rtp/232.84.2.35:10618
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png",VTV1FULHD
