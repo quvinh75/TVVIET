@@ -80,12 +80,12 @@ http://thanhvnpt.duckdns.org:15186/udp/232.84.1.168:8982
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/194.png", VTVcab 4 - Văn hóa
-http://thanhfpt.duckdns.org:45678/rtp/232.84.2.190:10924
+http://thanhvnpt.duckdns.org:15186/udp/232.84.2.190:10924
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab6hd" group-title="VIETNAMTV" tvg-logo="https://i.ibb.co/wrB7mXF/ONSPORTS-BEARTV.png", VTVcab 6 - OnSport+
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab10hd" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/D-dramas-png220124.png", Vie Dramas
-http://thanhvnpt.duckdns.org:15186/rtp/232.84.3.218:11230
+http://thanhvnpt.duckdns.org:15186/udp/232.84.3.218:11230
 #https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2-k5aGSCR8Q&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="VIETNAMTV" tvg-logo="https://i.ibb.co/165qscC/VTVCAB16-BEARTV.png",VTVcab16_BĐTV
 http://103.81.84.80:46803/vtvcab16
@@ -240,7 +240,7 @@ https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="PHIM" tvg-logo="https://www.vhv.rs/dpng/d/438-4382750_file-maxbyhbo-max-by-hbo-logo-hd-png.png",CINEMAX
 http://thanhfpt.duckdns.org:45678/rtp/232.84.3.117:10654
 #EXTINF:-1 tvg-id="boxhits" group-title="PHIM" tvg-logo="https://dzg5tmiekeobj.vcdn.cloud/Media/files/channels/thumb_1626834087channel3_BoxHit.png", BOX HITS
-http://thanhfpt.duckdns.org:45678/rtp/232.84.1.77:8436
+http://thanhvnpt.duckdns.org:15186/udp/232.84.1.77:8436
 #EXTINF:-1 tvg-id="hits" group-title="PHIM" tvg-logo="https://onetv.click/logo/hits.jpg", HITS
 http://thanhvnpt.duckdns.org:15186/udp/232.84.3.214:11206
 #EXTINF:-1 tvg-id="boxmovie1" group-title="PHIM" tvg-logo="https://static-stage.tv24.vn/channel/245/BoxMovie_new.jpg", BOX MOVIE
