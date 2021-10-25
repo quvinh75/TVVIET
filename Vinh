@@ -44,11 +44,11 @@ https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/C5G4qCb.png" group-title="VIETNAMTV",VTV1 HD
-http://thanhfpt.duckdns.org:8888/rtp/232.84.1.117:10254
+http://thanhvnpt.duckdns.org:15186/udp/232.84.1.117:10254
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/WTg772e.png" group-title="VIETNAMTV",VTV2 HD
 http://thanhfpt.duckdns.org:8888/rtp/232.84.2.31:10594
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/N1PiqLg.png" group-title="VIETNAMTV",VTV3 HD
-http://thanhfpt.duckdns.org:8888/rtp/232.84.1.118:10260
+http://thanhvnpt.duckdns.org:15186/udp/232.84.1.118:10260
 #EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.imgur.com/0L8Hm1D.png" group-title="VIETNAMTV",VTV4 HD
 http://thanhfpt.duckdns.org:8888/rtp/232.84.2.32:10600
 #EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/deB8Ime.png" group-title="VIETNAMTV",VTV5 HD
@@ -232,13 +232,13 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctv16/sd1/index.m3u8?md5=xVPLXiUpF
 #EXTINF:0 tvg-id="hbohd" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO.TH
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/17074
 #EXTINF:-1 tvg-id="hbohd" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO1
-http://thanhfpt.duckdns.org:8888/rtp/232.84.3.101:10648
+http://thanhvnpt.duckdns.org:15186/udp/232.84.3.101:10648
 #EXTINF:-1 tvg-id="hbohd" group-title="PHIM" tvg-logo="https://aux.iconspalace.com/uploads/19971240062044726999.png", HBO2
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="PHIM" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX_FPT
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="PHIM" tvg-logo="https://www.vhv.rs/dpng/d/438-4382750_file-maxbyhbo-max-by-hbo-logo-hd-png.png",CINEMAX
-http://thanhfpt.duckdns.org:8888/rtp/232.84.3.117:10654
+http://thanhvnpt.duckdns.org:15186/udp/232.84.3.117:10654
 #EXTINF:-1 tvg-id="boxhits" group-title="PHIM" tvg-logo="https://dzg5tmiekeobj.vcdn.cloud/Media/files/channels/thumb_1626834087channel3_BoxHit.png", BOX HITS
 http://thanhvnpt.duckdns.org:15186/udp/232.84.1.77:8436
 #EXTINF:-1 tvg-id="hits" group-title="PHIM" tvg-logo="https://onetv.click/logo/hits.jpg", HITS
@@ -254,7 +254,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/500px-AXN_logo.svg.png", AXN
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="PHIM" tvg-logo="https://imgur.com/9qJI1Mg.png", Warner TV
-http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+http://thanhvnpt.duckdns.org:15186/udp/232.84.2.51:10516
+#http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="blueantent" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946217550.png" group-title="PHIM", Blue Ant Entertainment
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="PHIM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png", KIX HD
@@ -278,8 +279,6 @@ https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6371630_preview.png" group-title="KÊNH QUỐC TẾ",CNN
 http://thanhfpt.duckdns.org:8888/rtp/232.84.3.153:10690
 #https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="CNN International" tvg-logo="https://i.dlpng.com/static/png/6371630_preview.png" group-title="KÊNH QUỐC TẾ",CNN.US
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/9029
 #EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="KÊNH QUỐC TẾ",Global News
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://1v1d1e1lmiki1lgcvx32p49h8fe-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/1547104448-abc-logo.png" group-title="KÊNH QUỐC TẾ",ABC Australia
