@@ -44,7 +44,7 @@ https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/C5G4qCb.png" group-title="VIETNAMTV",VTV1 HD
-http://thanhvnpt.duckdns.org:15186/udp/232.84.1.117:10254
+http://thanhfpt.duckdns.org:63791/rtp/232.84.1.117:10254
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/WTg772e.png" group-title="VIETNAMTV",VTV2 HD
 http://thanhvnpt.duckdns.org:15186/udp/232.84.2.31:10594
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/N1PiqLg.png" group-title="VIETNAMTV",VTV3 HD
