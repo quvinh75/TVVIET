@@ -71,18 +71,17 @@ http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
 http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="VIETNAMTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png",VTVcab1 _ Vie Giải Trí
-http://vthanh.xyz/vieon.m3u8?type=tivi&kenh=vie-giai-tri-hd
-#http://thanhvnpt.duckdns.org:15186/udp/232.84.1.143:8832
+http://vthanh.me/vieon.m3u8?pass=vienthi&type=tivi&kenh=vie-giai-tri-hd
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt
 http://thanhmytv.ddns.net:49753/rtp/232.84.1.168:8982
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vtvcab_2.png",VTVcab2 - Phim Việt2
-http://thanhvnpt.duckdns.org:15186/udp/232.84.1.168:8982
+http://thanhvnpt.duckdns.org:15186/rtp/232.84.1.168:8982
 #http://thanh.ddns.net:4026/rtp/232.84.1.168:8982
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VIETNAMTV" tvg-logo="https://i.postimg.cc/tgbcjg8c/vtvcab3-thethaohd.png",VTVcab3 - Thể thao TV
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="VIETNAMTV" tvg-logo="https://mytv.com.vn/upload/channel/194.png", VTVcab 4 - Văn hóa
-http://thanhmytv.ddns.net:63791/rtp/232.84.2.190:10924
+http://thanhvnpt.duckdns.org:15186/rtp/232.84.2.190:10924
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab6hd" group-title="VIETNAMTV" tvg-logo="https://i.ibb.co/wrB7mXF/ONSPORTS-BEARTV.png", VTVcab 6 - OnSport+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -92,7 +91,7 @@ http://thanhmytv.ddns.net:63791/rtp/232.84.2.190:10924
 https://vstv.broadpeak-aas.com/live/prod_vtvcab6-hay_tv_fps/prod_vtvcab6-hay_tv_fps.isml/prod_vtvcab6-hay_tv_fps.mpd
 #https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab10hd" group-title="VIETNAMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/D-dramas-png220124.png", Vie Dramas
-http://thanhvnpt.duckdns.org:15186/udp/232.84.3.218:11230
+http://thanhvnpt.duckdns.org:15186/rtp/232.84.3.218:11230
 #https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2-k5aGSCR8Q&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="VIETNAMTV" tvg-logo="https://i.ibb.co/165qscC/VTVCAB16-BEARTV.png",VTVcab16_BĐTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -252,14 +251,14 @@ https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="PHIM" tvg-logo="https://www.vhv.rs/dpng/d/438-4382750_file-maxbyhbo-max-by-hbo-logo-hd-png.png",CINEMAX_VNPT
 http://thanhvnpt.duckdns.org:15186/udp/232.84.3.117:10654
 #EXTINF:-1 tvg-id="boxhits" group-title="PHIM" tvg-logo="https://dzg5tmiekeobj.vcdn.cloud/Media/files/channels/thumb_1626834087channel3_BoxHit.png", BOX HITS
-http://thanhmytv.ddns.net:49753/rtp/232.84.1.77:8436
+http://thanhvnpt.duckdns.org:15186/rtp/232.84.1.77:8436
 #EXTINF:-1 tvg-id="hits" group-title="PHIM" tvg-logo="https://onetv.click/logo/hits.jpg", HITS
-http://thanhmytv.ddns.net:49753/rtp/232.84.3.214:11206
+http://thanhvnpt.duckdns.org:15186/rtp/232.84.3.214:11206
 #EXTINF:-1 tvg-id="boxmovie1" group-title="PHIM" tvg-logo="https://static-stage.tv24.vn/channel/245/BoxMovie_new.jpg", BOX MOVIE
 #https://e3.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="PHIM" tvg-logo="https://i.pinimg.com/originals/7f/d3/2b/7fd32b6ebfa4d4fdb363eaff298c2e08.jpg", Hollywood Classics
-https://e4.endpoint.cdn.sctvonline.vn/secure/hollywood/index.m3u8?md5=clpcBSiOLDJ7332ITIecGA&expires=2556118740|Referer=http://sctvonline.vn/
+http://vthanh.me/sctv.m3u8?pass=vienthi&id=hollywood|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="paramouthd"  group-title="PHIM" tvg-logo="http://img.hplus.com.vn/226x127/poster/2020/08/03/744316-Paramount-xanh-fix.png", Paramount Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
@@ -462,6 +461,12 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/17111
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/17112
 #https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png", Bein Sports 1
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png", Bein Sports 2
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png", Bein Sports 3
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2M1ygvb/worldcup2022-BEARTV.png" group-title="⚽KÊNH THỂ THAO", DubaiSport
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
