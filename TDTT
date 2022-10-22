@@ -87,8 +87,8 @@ http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Astro UHD2
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348095&extension=ts&play_token=QDXxJfGn8I
 
-
-
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", PEACOOK_live 
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:70:20:5e&stream=1124598&extension=ts&play_token=vmms3QX54a
 
 
 
