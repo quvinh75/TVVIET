@@ -6,13 +6,22 @@ http://nbr1.co:8000/play/live.php?mac=00:1A:79:3D:6E:D6&stream=78679&extension=t
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", RMC Sport 4K|UHD2
 http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=6976&extension=ts&play_token=zr6tSzbIDy
 
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", RMC Sport 4K|UHD3
+http://venomx.co:8000/live/50646268205262/22089214700617/78679.ts
+
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Canal+ 4K|UHD
 http://nbr1.co:8000/play/live.php?mac=00:1A:79:3D:6E:D6&stream=189094&extension=ts&play_token=FEqBmxW7f4
 
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Canal+ 4K|UHD2
 http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=4075&extension=ts&play_token=f663dY0IBp
 
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Canal+ 4K|UHD3
+http://venomx.co:8000/live/50646268205262/22089214700617/189094.ts
+
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Canal+ Sport Event 4K|UHD
+http://venomx.co:8000/live/50646268205262/22089214700617/192945.ts
+
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Canal+ Sport Event 4K|UHD2
 http://nbr1.co:8000/play/live.php?mac=00:1A:79:3D:6E:D6&stream=192945&extension=ts&play_token=4wrrIF35Y4
 
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", V Sport Ultra 4K (live event)
@@ -30,6 +39,9 @@ http://193.107.202.221:81/play/live.php?mac=00:1A:79:70:20:5e&stream=176285&exte
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", USA 50fps
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:70:20:5e&stream=130123&extension=ts&play_token=1klEqPiXbu
 
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", USA 50fps_2
+http://141.94.163.202:80/play/live.php?mac=00:1A:79:34:0a:b5&stream=489&extension=ts&play_token=uldrluwBLg
+
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", HGTV 
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:70:20:5e&stream=121730&extension=ts&play_token=Knsoq5B3xS
 
@@ -40,10 +52,16 @@ http://103.71.173.239:80/play/live.php?mac=00:1A:79:70:30:14&stream=479413&exten
 http://103.71.173.212:80/play/live.php?mac=00:1a:79:b9:93:0b&stream=474653&extension=ts&play_token=xxIeoizVvn
 
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", SkySport Main Event UHD2
-http://103.71.173.212:80/play/live.php?mac=00:1a:79:b9:93:0b&stream=474653&extension=ts&play_token=wwpIaX7KWf
+http://141.94.163.202:80/play/live.php?mac=00:1A:79:34:0a:b5&stream=474653&extension=ts&play_token=RmgSXUX4Xt
 
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", SkySport UHD
 http://103.71.173.212:80/play/live.php?mac=00:1a:79:b9:93:0b&stream=480886&extension=ts&play_token=wz85zjSKra
+
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", SkySport UHD2
+http://141.94.163.202:80/play/live.php?mac=00:1A:79:34:0a:b5&stream=480886&extension=ts&play_token=uZ93AlDhUd
+
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", SkySport De. UHD
+http://141.94.163.202:80/play/live.php?mac=00:1A:79:34:0a:b5&stream=481632&extension=ts&play_token=2YyRSxmmJn
 
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", SkySport.De.Bundesliga UHD
 http://103.71.173.212:80/play/live.php?mac=00:1a:79:b9:93:0b&stream=481624&extension=ts&play_token=QlpY92aOow
@@ -57,11 +75,17 @@ http://103.71.173.212:80/play/live.php?mac=00:1a:79:b9:93:0b&stream=482000&exten
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", StarHUB UHD2
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348096&extension=ts&play_token=gyUCLuAjxd
 
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", StarHUB UHD3
+http://141.94.163.202:80/play/live.php?mac=00:1A:79:34:0a:b5&stream=482000&extension=ts&play_token=zPiwYdnh04
+
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", NowE 4K
 http://103.71.173.212:80/play/live.php?mac=00:1a:79:b9:93:0b&stream=490&extension=ts&play_token=izuv3xEU1o
 
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", NowE 4K_2
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=117957&extension=ts&play_token=wOh8xzInXT
+
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", NowE 4K_3
+http://141.94.163.202:80/play/live.php?mac=00:1A:79:34:0a:b5&stream=490&extension=ts&play_token=JDQ2vuumJt
 
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Canal+ 4K|UHD.PL
 http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=2899&extension=ts&play_token=ljSJbIqjXf
@@ -87,14 +111,24 @@ http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Astro UHD2
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348095&extension=ts&play_token=QDXxJfGn8I
 
-#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", PEACOOK_live 
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", ZIGGO SPORT UHD
+http://line.tivi-one.com:80/x8Bhx6pGIr/xdtDNvtMIO/92513
+
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Bein Sport 4K
+http://line.tivi-one.com:80/x8Bhx6pGIr/xdtDNvtMIO/196058
+
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", PEACOCK_live 
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:70:20:5e&stream=1124598&extension=ts&play_token=vmms3QX54a
 
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", PEACOCK1
+http://141.94.163.202:80/play/live.php?mac=00:1A:79:34:0a:b5&stream=474605&extension=ts&play_token=afhiWfql0O
 
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", PEACOCK2
+http://141.94.163.202:80/play/live.php?mac=00:1A:79:34:0a:b5&stream=474606&extension=ts&play_token=ZKLs3ZvTVr
 
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", PEACOCK3
+http://141.94.163.202:80/play/live.php?mac=00:1A:79:34:0a:b5&stream=474607&extension=ts&play_token=VpjeSsxHat
 
-
-
-
-
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", TF1 UHD. Event only
+http://venomx.co:8000/live/50646268205262/22089214700617/78678.ts
 
