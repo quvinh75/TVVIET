@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/epgshare01/share01/blob/master/epg_ripper_ALL_SOURCES1.xml.gz" tvg-shift=0 m3uautoload=1 
+#EXTM3U 
 
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", RMC Sport 4K|UHD
 http://nbr1.co:8000/play/live.php?mac=00:1A:79:3D:6E:D6&stream=78679&extension=ts&play_token=9Z33UVlX3f
