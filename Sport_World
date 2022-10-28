@@ -117,6 +117,9 @@ http://line.tivi-one.com:80/x8Bhx6pGIr/xdtDNvtMIO/92513
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Bein Sport 4K
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:73:ac:ec&stream=672411&extension=ts&play_token=aeIMEZ6bWQ
 
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Bein Sport 4K_2
+http://triptv.club:80/play/live.php?mac=00:1A:79:73:e4:85&stream=672411&extension=ts&play_token=CR7KYkpJg8
+
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", PEACOCK_live 
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:70:20:5e&stream=1124598&extension=ts&play_token=vmms3QX54a
 
