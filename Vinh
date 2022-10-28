@@ -200,41 +200,66 @@ https://vstv.broadpeak-aas.com/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.is
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vstv.broadpeak-aas.com/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
 
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv1
+#EXTINF:-1 tvg-id="sctv4hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv4
+#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv9
+#EXTINF:-1 tvg-id="sctv16hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv16
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV HD Phim Tổng Hợp
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv
 
-#EXTINF:-1 tvg-id="hbohd" group-title="PHIM" tvg-logo="https://aux.iconspalace.com/uploads/19971240062044726999.png", HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="🎞| PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="PHIM" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX_FPT
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="PHIM" tvg-logo="https://dzg5tmiekeobj.vcdn.cloud/Media/files/channels/thumb_1626834087channel3_BoxHit.png", BOX HITS
-http://thanhvnpt.duckdns.org:15186/udp/232.84.1.77:8436
-#EXTINF:-1 tvg-id="hits" group-title="PHIM" tvg-logo="https://onetv.click/logo/hits.jpg", HITS
-http://thanhvnpt.duckdns.org:15186/udp/232.84.3.214:11206
-#EXTINF:-1 tvg-id="boxmovie1" group-title="PHIM" tvg-logo="https://static-stage.tv24.vn/channel/245/BoxMovie_new.jpg", BOX MOVIE
-#https://e3.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="PHIM" tvg-logo="https://i.pinimg.com/originals/7f/d3/2b/7fd32b6ebfa4d4fdb363eaff298c2e08.jpg", Hollywood Classics
-http://vthanh.me/sctv.m3u8?pass=vienthi&id=hollywood|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="paramouthd"  group-title="PHIM" tvg-logo="http://img.hplus.com.vn/226x127/poster/2020/08/03/744316-Paramount-xanh-fix.png", Paramount Network
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="axnhd" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/500px-AXN_logo.svg.png", AXN
-http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="warnertvhd" group-title="PHIM" tvg-logo="https://imgur.com/9qJI1Mg.png", Warner TV
-http://thanhmytv.ddns.net:49753/rtp/232.84.2.51:10516
-#http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="blueantent" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946217550.png" group-title="PHIM", Blue Ant Entertainment
-https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="kix" group-title="PHIM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png", KIX HD
-https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🎞| PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
+http://code.television4you.xyz/cliptv.php?id=822
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎞| PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
+http://code.television4you.xyz/cliptv.php?id=825
+#EXTINF:-1 tvg-id="inthebox" group-title="🎞| PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
+http://code.television4you.xyz/cliptv.php?id=838
+#EXTINF:-1 tvg-id="boxhits" group-title="🎞| PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
+http://live.vthanhtivi.pw:8080/boxhits
+#EXTINF:-1 tvg-id="man" group-title="🎞| PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
+http://code.television4you.xyz/cliptv.php?id=837
+#EXTINF:-1 tvg-id="drfithd" group-title="🎞| PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
+http://code.television4you.xyz/cliptv.php?id=823
+#EXTINF:-1 tvg-id="happykids" group-title="🎞| PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
+http://code.television4you.xyz/cliptv.php?id=824
+#EXTINF:-1 tvg-id="musicbox" group-title="🎞| PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
+http://code.television4you.xyz/cliptv.php?id=840
+#EXTINF:-1 tvg-id="planetearthhd" group-title="🎞| PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
+https://api.vthanhtivi.pw/v1/getlink/tv360_s2/135/2
+#EXTINF:-1 tvg-id="woman" group-title="🎞| PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
+http://api.vthanhtivi.pw/v1/getlink/tv360_s2/163/2
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🎞| PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 SCTV
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/boxmovie1
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎞| PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics SCTV
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/hollywoodclassics
+#EXTINF:-1 tvg-id="drfithd" group-title="🎞| PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit SCTV
+#EXTVLCOPT:http-referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="happykids" group-title="🎞| PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids SCTV
+#EXTVLCOPT:http-referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="planetearthhd" group-title="🎞| PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth SCTV
+#EXTVLCOPT:http-referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="woman" group-title="🎞| PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman SCTV
+#EXTVLCOPT:http-referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-logo="https://www.english-club.tv/wp-content/uploads/2015/09/Logo_ECTV_big.png" group-title="KÊNH QUỐC TẾ",🏡|English_Club
 http://193.33.88.172/english_club_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV
-http://58.65.171.202:8000/play/4334/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV.US
-http://xcui.vitvabc.xyz:8880/287994003826/287994003826/31121
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KÊNH QUỐC TẾ",🏡|HGV.US2
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/13835
+https://api.vthanhtivi.pw/v1/getlink/tv360_s2/99/2
 
 #EXTINF:0 tvg-id="dmaxhd"group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/kxqGzQM/dmax-BEARTV.png",DMAX
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
@@ -384,76 +409,3 @@ https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/pptvhd/chunklist_w1517173526.m3u8
 
 
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021TA50-L.jpg",Premier HD1
-http://209.145.58.109:25461/myapp/omohaktv/63
-#https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021TA50-L.jpg",Premier HD1(PC)
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021TA50-L.jpg",Premier HD2(PC)
-http://209.145.58.109:25461/myapp/omohaktv/35
-#http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021TA50-L.jpg",Premier HD3
-http://209.145.58.109:25461/myapp/omohaktv/64
-#http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021TA50-L.jpg",Premier HD4
-http://209.145.58.109:25461/myapp/omohaktv/70
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png", True Premier Football 1
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png", True Premier Football 2
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-premier-football-3-1820.png", True Premier Football 3 
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png", True Premier Football 4 
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-premier-football-5-1822.png", True Premier Football 5
-https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-1-1070.png",TRUE SPORT HD 1
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/17110
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-2-1071.png",TRUE SPORT HD 2
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/17111
-#https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-3-1072.png",TRUE SPORT HD 3
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/17112
-#https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png", Bein Sports 1
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png", Bein Sports 2
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1 group-title="⚽KÊNH THỂ THAO" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png", Bein Sports 3
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2M1ygvb/worldcup2022-BEARTV.png" group-title="⚽KÊNH THỂ THAO", DubaiSport
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2M1ygvb/worldcup2022-BEARTV.png" group-title="⚽KÊNH THỂ THAO", DubaiSport2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2M1ygvb/worldcup2022-BEARTV.png" group-title="⚽KÊNH THỂ THAO", DubaiSport3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/ProSieben_HD_Logo.svg" group-title="4K TV",RMC_UHD
-http://bggxq.funtogether.xyz:8080/2npS4m5cs1/AhJQSXDTsx/19551?play_token=afxupPY2e3
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/eurosport4kru.jpg" group-title="4K TV",Eurosport 4K
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/57967
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Sport5_Logo.png" group-title="4K TV", Sport5
-https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/sport5.4k.il.m3u8
-#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/sportv_02.png" group-title="4K TV", SPORTV
-http://tv1.cs10.tv:80/Alexandra/Alexandra/57569
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/sweden/logo/viasat_ultra_hd.png" group-title="4K TV", V Sport Ultra UHD
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/30091
-#EXTINF:0 group-title="4K TV" tvg-logo="https://cdn.imgbin.com/13/11/11/imgbin-united-kingdom-home-uktv-w-television-channel-united-kingdom-gbwSJuL7dWy8DFJUQBtigANEx.jpg",HOME 4K
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/72675
-#EXTINF:0 group-title="4K TV" tvg-logo="https://www.hdnumerique.com/medias/articles/original/ultra-nature-logo.jpg",Ultra Nature 4K
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/70344
-#EXTINF:0 group-title="4K TV" tvg-logo="https://i.imgur.com/AzOvgkV.png",LOVE Nature 4K
-http://136.243.42.146:1400
-#EXTINF:0 group-title="4K TV" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/wow-4k.png",Mooz 4K UHD
-http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/72676
-#EXTINF:0 group-title="4K TV" tvg-logo="https://www.thematv.us/images/channels/4k-heritage-tv.png",Heritage UHD 
-http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/72674
-#EXTINF:-1 group-title="4K TV" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png",FashionTV.4K
-https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="4K TV" tvg-logo="https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",Bloomberg 4K
-https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/1200px-NBC_Sports_2012.svg.png" group-title="⚽KÊNH THỂ THAO",USA- NBC Sport
-http://wagnet.club:7000/test1234/test1234/649043
