@@ -54,6 +54,9 @@ http://103.71.173.212:80/play/live.php?mac=00:1a:79:b9:93:0b&stream=474653&exten
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", SkySport Main Event UHD2
 http://141.94.163.202:80/play/live.php?mac=00:1A:79:34:0a:b5&stream=474653&extension=ts&play_token=RmgSXUX4Xt
 
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Pie Sport Ultra
+http://lions.cfd:18088/play/iIRwXVe2W1ROdSW5gPmN2aRvlMBp8ICjMlQknay3UsYzYphtSW3Pl_IdnPX72M-2YlUZmZeYTsjrlBGvvaTwQsmirOVrlG9D32D3Y4szeRWKCc5rvJu9sePn6Qpgxn6JfgQ81Ofxa7D3UzfIzopNGHfSdr6ZPxCaTMNuGoPFJANx7gEKCVa9iY6a7SHmZ1xL?ext=.ts
+
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", SkySport UHD
 http://103.71.173.212:80/play/live.php?mac=00:1a:79:b9:93:0b&stream=480886&extension=ts&play_token=wz85zjSKra
 
