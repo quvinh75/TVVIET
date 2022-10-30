@@ -99,6 +99,9 @@ http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&ext
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Eleven Sport 4K
 http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=2919&extension=ts&play_token=1NLYy2wcbY
 
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Eleven Sport 4K_2
+http://triptv.club:80/play/live.php?mac=00:1a:79:78:81:48&stream=905665&extension=ts&play_token=Z4ubhAJvyD
+
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", BBC FEED 5
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=347459&extension=ts&play_token=fG12OT1uuw
 
