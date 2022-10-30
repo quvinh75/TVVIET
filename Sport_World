@@ -115,7 +115,7 @@ http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&e
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
 
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Astro UHD2
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348095&extension=ts&play_token=QDXxJfGn8I
+http://triptv.club:80/play/live.php?mac=00:1a:79:78:81:48&stream=1016544&extension=ts&play_token=YCVaBzrwVM
 
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", ZIGGO SPORT UHD
 http://line.tivi-one.com:80/x8Bhx6pGIr/xdtDNvtMIO/92513
