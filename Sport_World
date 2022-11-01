@@ -123,6 +123,9 @@ http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Astro UHD2
 http://triptv.club:80/play/live.php?mac=00:1a:79:78:81:48&stream=1016544&extension=ts&play_token=YCVaBzrwVM
 
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Astro UHD_DMTN
+http://dmtn.tv:8080/play/ld_ljgz6RmSKHQFsvGJMbvM5thRIyJcN8m1sKcvUu4Qwzf2GgNsi-TBkvq8ChXqAQIyVjI4HLLvtpOkWV5ycQOkxjYdKXtQifIWAuA2Ai_Vz5X5Ybu8AAT7dG1SFyeJzfR36p1YXcNahN1-sUmuzcPblRvbgiuIjazy_QZ0jxH8
+
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", ZIGGO SPORT UHD
 http://line.tivi-one.com:80/x8Bhx6pGIr/xdtDNvtMIO/92513
 
