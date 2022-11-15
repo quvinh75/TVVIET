@@ -1,0 +1,69 @@
+#EXTM3U 
+
+#EXTINF:-1  group-title="WorldCup2022" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Bein Max 1
+http://triptv.club:80/play/live.php?mac=00:1A:79:73:e4:85&stream=1049176&extension=ts&play_token=j2drRgbnLL
+
+#EXTINF:-1  group-title="WorldCup2022" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Bein Max 2
+http://triptv.club:80/play/live.php?mac=00:1A:79:73:e4:85&stream=1049172&extension=ts&play_token=wRJfaR5fp6
+
+#EXTINF:-1  group-title="WorldCup2022" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Bein Max 3
+http://triptv.club:80/play/live.php?mac=00:1A:79:73:e4:85&stream=1049168&extension=ts&play_token=F8SY1VYhXv
+
+#EXTINF:-1  group-title="WorldCup2022" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Bein Max 4
+http://triptv.club:80/play/live.php?mac=00:1A:79:73:e4:85&stream=1049161&extension=ts&play_token=jmehN0kNby
+
+#EXTINF:-1  group-title="WorldCup2022" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Bein Max 5
+http://triptv.club:80/play/live.php?mac=00:1A:79:73:e4:85&stream=1050774&extension=ts&play_token=skkJJavZUv
+
+#EXTINF:-1  group-title="WorldCup2022" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Bein Max 6
+http://triptv.club:80/play/live.php?mac=00:1A:79:73:e4:85&stream=1050761&extension=ts&play_token=xgsbqn1O35
+
+#EXTINF:-1  group-title="4K Sport" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", BT Ultimate
+http://triptv.club:80/play/live.php?mac=00:1A:79:73:e4:85&stream=1038792&extension=ts&play_token=sUXKclYtOX
+
+#EXTINF:-1  group-title="4K Sport" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Astro UHD
+http://triptv.club:80/play/live.php?mac=00:1A:79:73:e4:85&stream=1016544&extension=ts&play_token=IPrvavkD86
+
+#EXTINF:-1  group-title="4K Sport" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Now Sport 4K
+http://triptv.club:80/play/live.php?mac=00:1A:79:73:e4:85&stream=1032489&extension=ts&play_token=arZEVgfYSd
+
+#EXTINF:-1  group-title="4K Sport" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Bein 4K Ultra
+http://triptv.club:80/play/live.php?mac=00:1A:79:73:e4:85&stream=672411&extension=ts&play_token=MzirJUyDkR
+
+#EXTINF:-1  group-title="4K Sport" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Hub Premier 2 UHD
+http://triptv.club:80/play/live.php?mac=00:1A:79:73:e4:85&stream=1032518&extension=ts&play_token=BFntGzTmIm
+
+#EXTINF:-1  group-title="4K Sport" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Canal + UHD
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=101206&extension=ts&play_token=Yug467prqm
+
+#EXTINF:-1  group-title="4K Sport" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Digi 4K 
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=90814&extension=ts&play_token=sTdaikLvE5
+
+#EXTINF:-1  group-title="4K Sport" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", V Sport Ultra 4K
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
+
+#EXTINF:-1  group-title="4K Sport" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Eleven Sport 1 4K
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=348127&extension=ts&play_token=BGMRIIJdo3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
