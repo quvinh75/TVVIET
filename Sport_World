@@ -108,6 +108,9 @@ http://triptv.club:80/play/live.php?mac=00:1a:79:78:81:48&stream=905665&extensio
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", BBC FEED 5
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=347459&extension=ts&play_token=fG12OT1uuw
 
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", BBC FEED 1
+https://pies.cx:443/play/iIRwXVe2W1ROdSW5gPmN2aRvlMBp8ICjMlQknay3UsYzYphtSW3Pl_IdnPX72M-2YlUZmZeYTsjrlBGvvaTwQsmirOVrlG9D32D3Y4szeRVl0GhoVnkDYLSoRqoAQIIfnAAISRnuFtNgRvpkKODxiiPdlfaT4bUwsf6o6L7rszQpW18dUvuepv02icbYv6wW?ext=.ts
+
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Sport 5 UHD|4K IL
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
 
