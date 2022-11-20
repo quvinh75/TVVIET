@@ -120,20 +120,8 @@ http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&e
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Digi 4K|UHD RO
 http://triptv.club:80/play/live.php?mac=00:1a:79:78:81:48&stream=443338&extension=ts&play_token=m9oEsdOcHx
 
-#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Astro UHD
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
-
-#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Astro UHD2
-http://triptv.club:80/play/live.php?mac=00:1a:79:78:81:48&stream=1016544&extension=ts&play_token=YCVaBzrwVM
-
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", ZIGGO SPORT UHD
 http://line.tivi-one.com:80/x8Bhx6pGIr/xdtDNvtMIO/92513
-
-#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Bein Sport 4K
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:73:ac:ec&stream=672411&extension=ts&play_token=aeIMEZ6bWQ
-
-#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Bein Sport 4K_2
-http://triptv.club:80/play/live.php?mac=00:1A:79:73:e4:85&stream=672411&extension=ts&play_token=CR7KYkpJg8
 
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", PEACOCK_live 
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:70:20:5e&stream=1124598&extension=ts&play_token=vmms3QX54a
@@ -155,3 +143,21 @@ http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=37744&ext
 
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", IT.SkySport 50FPS
 http://triptv.club:80/play/live.php?mac=00:1a:79:78:81:48&stream=691277&extension=ts&play_token=aY57Ps73Lk
+
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Bein Sport 4K
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:73:ac:ec&stream=672411&extension=ts&play_token=aeIMEZ6bWQ
+
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Bein Sport 4K_2
+http://triptv.club:80/play/live.php?mac=00:1A:79:73:e4:85&stream=672411&extension=ts&play_token=CR7KYkpJg8
+
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Bein Sport 4K_3
+http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=100891&extension=ts&play_token=ou2Un6sNC5
+
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Astro UHD
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
+
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Astro UHD2
+http://triptv.club:80/play/live.php?mac=00:1a:79:78:81:48&stream=1016544&extension=ts&play_token=YCVaBzrwVM
+
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", TRT 4K
+http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=32146&extension=ts&play_token=tg9SE34uWd
