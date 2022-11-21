@@ -176,3 +176,6 @@ http://starshare.live:8080/live/rZQFfF6Ccz/QbvGAafsCU/129503.ts?play_token=2NlGt
 
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", DSTV WorldCup 4K_2
 http://213.202.241.207:8080/play/live.php?mac=00:1A:79:7b:01:9d&stream=232332&extension=ts&play_token=nSNyTVZ2fX
+
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", BBC_UHD
+http://213.202.241.207:8080/play/live.php?mac=00:1A:79:7b:01:9d&stream=232708&extension=ts&play_token=qnI5pqWgpK
