@@ -147,6 +147,9 @@ http://triptv.club:80/play/live.php?mac=00:1A:79:73:e4:85&stream=672411&extensio
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Bein Sport 4K_3
 http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=100891&extension=ts&play_token=ou2Un6sNC5
 
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Bein Sport 4K_4
+http://k13tvonline.eu:8000/play/live.php?mac=00:1A:79:48:3C:F0&stream=189095&extension=ts&play_token=t1kkZSahBq
+
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", Astro UHD
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
 
@@ -179,3 +182,7 @@ http://213.202.241.207:8080/play/live.php?mac=00:1A:79:7b:01:9d&stream=232332&ex
 
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", BBC_UHD
 http://213.202.241.207:8080/play/live.php?mac=00:1A:79:7b:01:9d&stream=232708&extension=ts&play_token=qnI5pqWgpK
+
+
+
+
