@@ -175,7 +175,7 @@ http://triptv.club:80/play/live.php?mac=00:1a:79:78:81:48&stream=1057230&extensi
 http://starshare.live:8080/live/rZQFfF6Ccz/QbvGAafsCU/128843.ts?play_token=0hfK3mBBkM
 
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", FIFA Feed
-http://starshare.live:8080/live/rZQFfF6Ccz/QbvGAafsCU/129096.ts?play_token=lN1pCGKCaA
+http://pearlhosting2020.ddns.net:8080/play/live.php?mac=00:1A:79:b4:3d:8e&stream=430061&extension=ts&play_token=FyGjBmrXVe
 
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", DSTV WorldCup 4K
 http://starshare.live:8080/live/rZQFfF6Ccz/QbvGAafsCU/129503.ts?play_token=2NlGtmFrzJ
@@ -186,6 +186,6 @@ http://213.202.241.207:8080/play/live.php?mac=00:1A:79:7b:01:9d&stream=232332&ex
 #EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", BBC_UHD
 http://213.202.241.207:8080/play/live.php?mac=00:1A:79:7b:01:9d&stream=232708&extension=ts&play_token=qnI5pqWgpK
 
-#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", BBC_UHD
-http://neczmabfa.to:80/play/WtAtG_llzL3UnyOYbwQSHylGt_EmG09WNil_C5LONH7633wi04fm6tjXcqevQMC5RwbDgV4QyLKUws76LCwA5-2J9L4lFd8d09g5c7IVbJqGD4Yw4vFpbu4ptFbX2QXmhu6LFfl7ap7guPqLSoEQaA?ext=.ts
+#EXTINF:-1  group-title="TEST" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", FoxSport_UHD
+http://pearlhosting2020.ddns.net:8080/play/live.php?mac=00:1A:79:b4:3d:8e&stream=429933&extension=ts&play_token=aYLrmSPYT3
 
